@@ -1,0 +1,24 @@
+Perusmuotoilut.
+
+\define{\i}{1}{<em>\1</em>}
+\define{\b}{1}{<b>\1</b>}
+\define{\u}{1}{<u>\1</u>}
+
+
+
+Otsikot. "otsikko" on sivun artikkelin/tms sisällön otsikko, "väliotsikko" sen väliotsikko.
+
+\define{\otsikko}{1}{\raw{<h2>}\1\raw{</h2>}}
+\define{\väliotsikko}{1}{\raw{<h3>}\1\raw{</h3>}}
+
+
+
+Tauko.
+
+\define{\tauko}{0}{\raw{<hr>}}
+
+
+
+Sivuilla käytetty malline.
+
+\global{\template_path}{generate_pages/template.html}

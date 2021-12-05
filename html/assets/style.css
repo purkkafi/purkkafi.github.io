@@ -1,0 +1,37 @@
+body {
+	font: 1.25em sans-serif;
+	line-height: 1.5;
+	background-color: #202126;
+	color: #dbdbdb;
+	line-height: 1.5;
+}
+
+header {
+	text-align: center;
+	text-shadow: 0 0 0.15em #dbdbdb;
+	letter-spacing: 1em;
+}
+
+header #indexlink {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+footer {
+	text-align: center;
+	font-size: 75%;
+}
+
+#content {
+	max-width: 60ch;
+	margin: 2em auto;
+}
+
+hr {
+	width: 30ch;
+	margin: 3em auto;
+}
+
+a:link {
+	color: #5098d5;
+}
