@@ -1,9 +1,24 @@
+\define{\kohde}{4}{\linkki{\1}{\b{\2}} \i{\3} \4}
+\define{\alakohde}{4}{\span{spacing-025em}{......}</span>\kohde{\1}{\2}{\3}{\4}}
+
 \väliotsikko{Suomeksi}
 
-\i{Ei vielä mitään.}
+\kohde{https://rebuild.purkka.fi}{🔞📚 BraveStarr Rebuild}{BraveStarr-fanfic.}{}
+\alakohde{https://archiveofourown.org/works/27294133/chapters/66686635}{Osa ♌︎}{Tarinan keskeiset henkilöhahmot saapuvat Uuden Texasin planeetalle ja demiurgin synkeän katseen alle.}{(2020–2021)}
+
+\kohde{https://twitter.com/ylekov_uutiset}{🤖 @ylekov_uutiset}{Twitter-botti, joka luo sepitettyjä uutisotsikoita. Silloin tällöin hauska.}{(2017–)}
+
+\kohde{https://twitter.com/wahlroos_irl}{👤 @wahlroos_irl}{Björn Wahlroosilla on asiaa veroista, elämästä ja HS Visiosta. Twitter-parodiatili.}{(2021–)}
 
 \tauko
 
 \väliotsikko{In English}
 
-\i{Nothing here yet.}
+\kohde{https://github.com/mikkotampio/iterated_secret_santa}{🖥️ Iterated Secret Santa}{A Python script for small groups of people who love giving each other gifts.}{(2021)}
+
+\kohde{https://archiveofourown.org/works/31175306}{📚 dirk is a horse and jake slaps his ass, based on the scene in bravestarr where that happens}{If your best friend was a talking horse, would it be okay to slap their ass? A Homestuck fanfic that explores this thrilling question.}{(2021)}
+
+\kohde{https://letterboxd.com/purkka/}{🎥 my letterboxd}{Film reviews of varying length and quality. Some of the better ones:}{}
+\alakohde{https://letterboxd.com/purkka/film/tove/}{Tove}{Some thoughts about the public perception of Tove Jansson and how the film portrays its subject.}{}
+\alakohde{https://letterboxd.com/purkka/film/beyond-the-black-rainbow/}{Beyond the Black Rainbow}{On the film's weird critical reception and actual text.}{}
+\alakohde{https://letterboxd.com/purkka/film/the-emoji-movie/}{The Emoji Movie}{I reveal what the only funny joke in The Emoji Movie is.}{}

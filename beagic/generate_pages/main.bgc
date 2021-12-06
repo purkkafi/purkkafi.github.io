@@ -1,3 +1,9 @@
+HTML-peruselementtejä.
+
+\define{\span}{2}{<span class="\1">\2</span>}
+
+
+
 Perusmuotoilut.
 
 \define{\i}{1}{<em>\1</em>}
@@ -16,6 +22,12 @@ Otsikot. "otsikko" on sivun artikkelin/tms sisällön otsikko, "väliotsikko" se
 Tauko.
 
 \define{\tauko}{0}{\raw{<hr>}}
+
+
+
+Linkki. Ensimmäinen argumentti linkattava url, toinen linkin sisältö.
+
+\define{\linkki}{2}{<a href="\1">\2</a>}
 
 
 

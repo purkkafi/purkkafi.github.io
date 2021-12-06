@@ -35,3 +35,7 @@ hr {
 a:link {
 	color: #5098d5;
 }
+
+.spacing-025em {
+    letter-spacing: 0.25em;
+}
