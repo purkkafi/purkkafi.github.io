@@ -19,9 +19,16 @@ Otsikot. "otsikko" on sivun artikkelin/tms sisällön otsikko, "väliotsikko" se
 
 
 
-Tauko.
+Tauko viivalla.
 
 \define{\tauko}{0}{\raw{<hr>}}
+
+
+
+
+Väli ilman viivaa. Argumenttina korkeus riviväleissä.
+
+\define{\väli}{1}{\raw{<div style="height: \identity{\1}em;"></div>}}
 
 
 
@@ -31,6 +38,20 @@ Linkki. Ensimmäinen argumentti linkattava url, toinen linkin sisältö.
 
 
 
-Sivuilla käytetty malline.
+Keskitetty teksti.
+
+\define{\keskitys}{1}{\raw{<div class="center">}
+\1
+\raw{</div>}}
+
+
+
+Kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
+
+\define{\kuva_pieni}{2}{\raw{<div class="imageContainer"><img src="assets/\1" class="smallImage" alt="\2"></div>}}
+
+
+
+Käytettävä malline.
 
 \global{\template_path}{generate_pages/template.html}

@@ -1,0 +1,13 @@
+:root {
+    --text-color: #202126;
+    --bg-color: #F0F0F0;
+    
+    --link-color: #0A7985;
+    --link-color-visited: #4F57F3;
+    --link-color-active: #ea9b12;
+    
+    --ylekov-accent: #7bd9e3;
+    
+    --bg-image-left: linear-gradient(to right, var(--ylekov-accent), var(--bg-color));
+    --bg-image-right: linear-gradient(to left, var(--ylekov-accent), var(--bg-color));
+}

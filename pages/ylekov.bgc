@@ -1,0 +1,50 @@
+\global{\theme}{ylekov}
+
+\kuva_pieni{ylekov_logo.png}{Ylekov-logo.}
+
+\keskitys{\linkki{https://twitter.com/ylekov_uutiset}{Twitter (@ylekov_uutiset)} • \linkki{https://t.me/ylekov}{Telegram (ylekov)}}
+
+\väli{2}
+
+Ylekov on ylläpitämäni Twitter-botti. Sen lähdekoodi on saatavilla \linkki{https://github.com/mikkotampio/ylekov}{GitHubissa}. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.
+
+\väliotsikko{UKK}
+
+\b{Kuinka otsikot luodaan?}
+
+Ylekov lataa tuoreita otsikoilta erinäisistä lähteistä, korjaa niitä* ja pilkkoo ne sanoiksi. Postaukset luodaan arpomalla siten, että jokainen yksittäinen peräkkäinen sanapari on esiintynyt sellaisenaan aineistossa. Tämän jälkeen mm. suodatetaan pois suoraan kopioidut otsikot ja yritetään korjata lainausmerkit järkeviksi. Perusidea on lainattu \linkki{https://en.wikipedia.org/wiki/Markov_chain}{Markovin ketjuilta}, jotka olivat suosittu tekstigeneroinnin väline ennen neuroverkkojen yleistymistä.
+
+* Toimittajat käyttävät silloin tällöin yhdysmerkkiä (-) ajatusviivan (–) paikalla ja ties mitä lainausmerkkejä oikeiden (”) sijaan. Siistin tällaiset eroavaisuudet, jotta ohjelma ymmärtää kyseen olevan samoista merkeistä.
+
+\b{Miltä lehdiltä ainesotsikot haetaan?}
+
+Tällä hetkellä: Hymy, MTV, Seiska, HS, IS, Yle, IL, Nyt.fi
+
+Voin periaatteessa lisätä uusia otsikkolähteitä, mutta helpoiten se onnistuu, jos saatavilla on RSS-syöte.
+
+\b{Apua, botti on kuollut}
+
+Python-skripti on jäänyt pari kertaa jumiin, jolloin minun on täytynyt kirjautua palvelimelle ja käynnistää se uudelleen. Tätä käy niin harvoin, etten ole jaksanut kehittää mitään älykkäämpää tai luotettavampaa ratkaisua.
+
+Ongelmista saa ilmoittaa minulle esim. Twitterin kautta, mutta yleensä huomaan ne itsekin melko pian. Jos en, voi olla muita kiireitä.
+
+\b{Mikä on "klassinen ylekov"?}
+
+Joka vuorokausi* iltakuuden- ja seitsemän välillä botti postaa yhden aiemmin julkaistun otsikon. Tämän ominaisuuden nimi on klassinen ylekov.
+
+Klassiset ylekovit poimitaan listalta, johon olen koneellisesti seulonut kaikki tarpeeksi suuren suosion saavuttaneet postaukset Twitterin tarjoamasta \linkki{https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data}{data-arkistosta}. Päivitän listaa silloin tällöin, jotta mukaan pääsee uusia postauksia.
+
+* Ei välttämättä. Tämä johtuu siitä, että botti ei postaa tismalleen tunnin välein – se twiittaa uuden otsikon (tämä vie hyvin vähän aikaa) ja nukkuu tasan tunnin. Voi sattua, ettei yhtäkään twiittiä lähetetä kellonaikana, jonka tunti on 18, ja silloin klassista ylekovia ei ilmesty sinä vuorokautena.
+
+\b{Mikä on Ylekov-otsikkojen tekijänoikeudellinen status?}
+
+Erittäin hyvä kysymys, johon en tiedä vastausta itsekään. Ylekovin toimintaa voisi verrata tällaiseen fyysiseen prosessiin:
+
+1) etsi kasa painettuja lehtiä
+2) leikkaa niistä satunnaisia otsikoita
+3) leikkaa otsikot edelleen yksittäisiksi sanoiksi
+4) lahjoita sanat kaverille, joka ei ole lukenut otsikkoja, ja anna tälle tehtäväksi yhdistellä niitä mielensä mukaan
+
+Kuka omistaa tällä tavalla luodut tuotokset? Uskoisin, että alkuperäiset otsikot ylittävät teoskynnyksen ja ovat siten tekijänoikeuksien suojaamia. (Jos eivät, asia on sillä selvä.) Mutta toisaalta ne pilkotaan prosessin aikana yksittäisiksi sanoiksi, jotka eivät ole teoksia. Lopputulos saattaa sisältää katkelmia joistakin otsikoista, mutta se on silti luotu sana kerrallaan ja ilman aikomusta kopioida.
+
+Mitä tästä nyt pitäisi sitten ajatella? En tiedä. Helpoiten asia varmaan selviäisi sillä, että joku printtaisi 500000 t-paitaa Ylekovin luomilla sloganeilla ja odottaisi, että mediat haastavat oikeuteen.

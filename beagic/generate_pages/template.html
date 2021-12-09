@@ -7,32 +7,42 @@
         <title>purkka.fi</title>
         
         <link rel="stylesheet" href="assets/style.css">
+        \ifdef{\theme}{<link rel="stylesheet" href="assets/theme_\theme.css">}
     </head>
     <body>
-        <header>
-            <a id="indexlink" href=https://purkka.fi><h1>purkka.fi</h1></a>
-        </header>
         
-        <div id="content">
-\template_content
-        </div>
-        
-        <footer>
-            <p>
-            <a href=https://twitter.com/purkkafi>twitter</a>
-            •
-            <a href=https://github.com/mikkotampio>github</a>
-            •
-            <a href=https://letterboxd.com/purkka/>letterboxd</a>
-            •
-            <a href=https://archiveofourown.org/users/purkka>ao3</a>
-            </p>
+        <div id="container">
+            <div id="leftSide"></div>
             
-            <p>
-            <a href=tietoja.html>tietoja</a>
-            •
-            <a href=about.html>about</a>
-            </p>
-        </footer>
+            <div id="middle">
+                <header>
+                    <a id="indexlink" href=https://purkka.fi><h1>purkka.fi</h1></a>
+                </header>
+            
+                <article>
+\template_content
+                </article>
+                
+                <footer>
+                    <p>
+                    <a href=https://twitter.com/purkkafi>twitter</a>
+                    •
+                    <a href=https://github.com/mikkotampio>github</a>
+                    •
+                    <a href=https://letterboxd.com/purkka/>letterboxd</a>
+                    •
+                    <a href=https://archiveofourown.org/users/purkka>ao3</a>
+                    </p>
+                    
+                    <p>
+                    <a href=tietoja.html>tietoja</a>
+                    •
+                    <a href=about.html>about</a>
+                    </p>
+                </footer>
+            </div>
+            
+            <div id="rightSide"></div>
+        </div>
     </body>
 </html>

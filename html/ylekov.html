@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>purkka.fi</title>
+        
+        <link rel="stylesheet" href="assets/style.css">
+        <link rel="stylesheet" href="assets/theme_ylekov.css">
+    </head>
+    <body>
+        
+        <div id="container">
+            <div id="leftSide"></div>
+            
+            <div id="middle">
+                <header>
+                    <a id="indexlink" href=https://purkka.fi><h1>purkka.fi</h1></a>
+                </header>
+            
+                <article>
+<div class="imageContainer"><img src="assets/ylekov_logo.png" class="smallImage" alt="Ylekov-logo."></div><div class="center">
+
+<p><a href="https://twitter.com/ylekov_uutiset">Twitter (@ylekov_uutiset)</a> • <a href="https://t.me/ylekov">Telegram (ylekov)</a></p>
+
+</div><div style="height: 2em;"></div>
+
+<p>Ylekov on ylläpitämäni Twitter-botti. Sen lähdekoodi on saatavilla <a href="https://github.com/mikkotampio/ylekov">GitHubissa</a>. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.</p>
+
+<h3>
+
+<p>UKK</p>
+
+</h3>
+
+<p><b>Kuinka otsikot luodaan?</b></p>
+
+<p>Ylekov lataa tuoreita otsikoilta erinäisistä lähteistä, korjaa niitä* ja pilkkoo ne sanoiksi. Postaukset luodaan arpomalla siten, että jokainen yksittäinen peräkkäinen sanapari on esiintynyt sellaisenaan aineistossa. Tämän jälkeen mm. suodatetaan pois suoraan kopioidut otsikot ja yritetään korjata lainausmerkit järkeviksi. Perusidea on lainattu <a href="https://en.wikipedia.org/wiki/Markov_chain">Markovin ketjuilta</a>, jotka olivat suosittu tekstigeneroinnin väline ennen neuroverkkojen yleistymistä.</p>
+
+<p>* Toimittajat käyttävät silloin tällöin yhdysmerkkiä (-) ajatusviivan (–) paikalla ja ties mitä lainausmerkkejä oikeiden (”) sijaan. Siistin tällaiset eroavaisuudet, jotta ohjelma ymmärtää kyseen olevan samoista merkeistä.</p>
+
+<p><b>Miltä lehdiltä ainesotsikot haetaan?</b></p>
+
+<p>Tällä hetkellä: Hymy, MTV, Seiska, HS, IS, Yle, IL, Nyt.fi</p>
+
+<p>Voin periaatteessa lisätä uusia otsikkolähteitä, mutta helpoiten se onnistuu, jos saatavilla on RSS-syöte.</p>
+
+<p><b>Apua, botti on kuollut</b></p>
+
+<p>Python-skripti on jäänyt pari kertaa jumiin, jolloin minun on täytynyt kirjautua palvelimelle ja käynnistää se uudelleen. Tätä käy niin harvoin, etten ole jaksanut kehittää mitään älykkäämpää tai luotettavampaa ratkaisua.</p>
+
+<p>Ongelmista saa ilmoittaa minulle esim. Twitterin kautta, mutta yleensä huomaan ne itsekin melko pian. Jos en, voi olla muita kiireitä.</p>
+
+<p><b>Mikä on "klassinen ylekov"?</b></p>
+
+<p>Joka vuorokausi* iltakuuden- ja seitsemän välillä botti postaa yhden aiemmin julkaistun otsikon. Tämän ominaisuuden nimi on klassinen ylekov.</p>
+
+<p>Klassiset ylekovit poimitaan listalta, johon olen koneellisesti seulonut kaikki tarpeeksi suuren suosion saavuttaneet postaukset Twitterin tarjoamasta <a href="https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data">data-arkistosta</a>. Päivitän listaa silloin tällöin, jotta mukaan pääsee uusia postauksia.</p>
+
+<p>* Ei välttämättä. Tämä johtuu siitä, että botti ei postaa tismalleen tunnin välein – se twiittaa uuden otsikon (tämä vie hyvin vähän aikaa) ja nukkuu tasan tunnin. Voi sattua, ettei yhtäkään twiittiä lähetetä kellonaikana, jonka tunti on 18, ja silloin klassista ylekovia ei ilmesty sinä vuorokautena.</p>
+
+<p><b>Mikä on Ylekov-otsikkojen tekijänoikeudellinen status?</b></p>
+
+<p>Erittäin hyvä kysymys, johon en tiedä vastausta itsekään. Ylekovin toimintaa voisi verrata tällaiseen fyysiseen prosessiin:</p>
+
+<p>1) etsi kasa painettuja lehtiä<br>
+2) leikkaa niistä satunnaisia otsikoita<br>
+3) leikkaa otsikot edelleen yksittäisiksi sanoiksi<br>
+4) lahjoita sanat kaverille, joka ei ole lukenut otsikkoja, ja anna tälle tehtäväksi yhdistellä niitä mielensä mukaan</p>
+
+<p>Kuka omistaa tällä tavalla luodut tuotokset? Uskoisin, että alkuperäiset otsikot ylittävät teoskynnyksen ja ovat siten tekijänoikeuksien suojaamia. (Jos eivät, asia on sillä selvä.) Mutta toisaalta ne pilkotaan prosessin aikana yksittäisiksi sanoiksi, jotka eivät ole teoksia. Lopputulos saattaa sisältää katkelmia joistakin otsikoista, mutta se on silti luotu sana kerrallaan ja ilman aikomusta kopioida.</p>
+
+<p>Mitä tästä nyt pitäisi sitten ajatella? En tiedä. Helpoiten asia varmaan selviäisi sillä, että joku printtaisi 500000 t-paitaa Ylekovin luomilla sloganeilla ja odottaisi, että mediat haastavat oikeuteen.</p>
+                </article>
+                
+                <footer>
+                    <p>
+                    <a href=https://twitter.com/purkkafi>twitter</a>
+                    •
+                    <a href=https://github.com/mikkotampio>github</a>
+                    •
+                    <a href=https://letterboxd.com/purkka/>letterboxd</a>
+                    •
+                    <a href=https://archiveofourown.org/users/purkka>ao3</a>
+                    </p>
+                    
+                    <p>
+                    <a href=tietoja.html>tietoja</a>
+                    •
+                    <a href=about.html>about</a>
+                    </p>
+                </footer>
+            </div>
+            
+            <div id="rightSide"></div>
+        </div>
+    </body>
+</html>
