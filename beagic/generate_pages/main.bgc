@@ -1,6 +1,9 @@
 HTML-peruselementtejä.
 
 \define{\span}{2}{<span class="\1">\2</span>}
+\define{\div}{2}{\raw{<div class="\1">}
+\2
+\raw{</div>}}
 
 
 
@@ -14,8 +17,8 @@ Perusmuotoilut.
 
 Otsikot. "otsikko" on sivun artikkelin/tms sisällön otsikko, "väliotsikko" sen väliotsikko.
 
-\define{\otsikko}{1}{\raw{<h2>}\1\raw{</h2>}}
-\define{\väliotsikko}{1}{\raw{<h3>}\1\raw{</h3>}}
+\define{\otsikko}{1}{\raw{<h2>\1</h2>}}
+\define{\väliotsikko}{1}{\raw{<h3>\1</h3>}}
 
 
 
@@ -36,6 +39,8 @@ Linkki. Ensimmäinen argumentti linkattava url, toinen linkin sisältö.
 
 \define{\linkki}{2}{<a href="\1">\2</a>}
 
+\define{\salainen_linkki}{2}{<a href="\1" class="hiddenLink">\2</a>}
+
 
 
 Keskitetty teksti.
@@ -52,6 +57,29 @@ Kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
 
 
 
+Proosateksti.
+
+\define{\prose}{1}{\raw{<div class="prose">}
+\1
+\raw{</div>}}
+
+
+
+Sisältöhuomautuslaatikko.
+
+\define{\sisältöhuomautus_tekstillä}{2}{\raw{<div class="contentNote">}
+\div{warningSign}{⚠}
+\div{warning}{
+\b{\1} \2
+}
+\raw{</div>}}
+
+\define{\sisältöhuomautus}{1}{\sisältöhuomautus_tekstillä{Sisältöhuomautus:}{\1}}
+\define{\content_note}{1}{\sisältöhuomautus_tekstillä{Content note:}{\1}}
+
+
+
 Käytettävä malline.
 
 \global{\template_path}{generate_pages/template.html}
+

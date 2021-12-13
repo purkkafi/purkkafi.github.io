@@ -1,8 +1,11 @@
 #!/bin/bash
 
-for PAGE in pages/*.bgc; do
+shopt -s globstar
+
+for PAGE in pages/**/*.bgc; do
     echo "Compiling $PAGE..."
-    OUT="html/"$(basename -s .bgc "$PAGE")".html"
+    OUT="${PAGE#*/}"
+    OUT="html/${OUT%.bgc}.html"
     beagic --module-path beagic generate_pages $PAGE $OUT
     echo "Compiled $OUT"
 done

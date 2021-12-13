@@ -1,0 +1,20 @@
+\global{\title}{UKK}
+\global{\theme}{UKK}
+
+\keskitys{\otsikko{UKK}}
+
+\väli{4}
+
+\raw{<img src="assets/UKK.png" alt="Urho Kaleva Kekkonen pyörii x-suunnassa">}
+
+\väli{4}
+
+\raw{<img src="assets/UKK.png" alt="Urho Kaleva Kekkonen pyörii y-suunnassa">}
+
+\väli{4}
+
+\raw{<img src="assets/UKK.png" alt="Urho Kaleva Kekkonen pyörii kaikkien akseliensa ympäri">}
+
+\väli{4}
+
+\keskitys{\i{Kuva: \linkki{https://finna.fi/Record/musketti.M012:HK7155:544-75-31}{Kuvasiskot. Historian kuvakokoelma, Museovirasto.}}}

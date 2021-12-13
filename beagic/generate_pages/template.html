@@ -4,10 +4,12 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <title>purkka.fi</title>
+        <title>\ifdef{\title}{\title – }purkka.fi</title>
         
-        <link rel="stylesheet" href="assets/style.css">
-        \ifdef{\theme}{<link rel="stylesheet" href="assets/theme_\theme.css">}
+        <link rel="icon" href="/assets/favicon.png">
+        
+        <link rel="stylesheet" href="/assets/style.css">
+        \ifdef{\theme}{<link rel="stylesheet" href="/assets/theme_\theme.css">}
     </head>
     <body>
         
@@ -16,7 +18,7 @@
             
             <div id="middle">
                 <header>
-                    <a id="indexlink" href=https://purkka.fi><h1>purkka.fi</h1></a>
+                    <a id="indexlink" href=/><h1>purkka.fi</h1></a>
                 </header>
             
                 <article>
@@ -35,9 +37,9 @@
                     </p>
                     
                     <p>
-                    <a href=tietoja.html>tietoja</a>
+                    <a href=/tietoja.html>tietoja</a>
                     •
-                    <a href=about.html>about</a>
+                    <a href=/about.html>about</a>
                     </p>
                 </footer>
             </div>
