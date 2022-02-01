@@ -78,6 +78,13 @@ a:active { color: var(--link-color-active); }
     text-align: center;
 }
 
+/* hack, come up with something better */
+.bigImageContainer {
+    text-align: center;
+    width: 150%;
+    margin-left: -25%;
+}
+
 .smallImage {
     width: 25%;
 }

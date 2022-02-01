@@ -55,6 +55,8 @@ Kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
 
 \define{\kuva_pieni}{2}{\raw{<div class="imageContainer"><img src="assets/\1" class="smallImage" alt="\2"></div>}}
 
+\define{\kuva_iso}{2}{\raw{<div class="bigImageContainer"><img src="assets/\1" alt="\2"></div>}}
+
 
 
 Proosateksti.
