@@ -6,6 +6,15 @@
 
         <title>\ifdef{\title}{\title – }purkka.fi</title>
         
+        \ifdef{\og_title}{
+        <meta property="og:title" content="\og_title" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://purkka.fi/\output_file" />
+        <meta property="og:site_name" content="purkka.fi" />
+        \ifdef{\og_image}{<meta property="og:image" content="\og_image" />}
+        \ifdef{\og_description}{<meta property="og:description" content="\og_description" />}
+        }
+        
         <link rel="icon" href="/assets/favicon.png">
         
         <link rel="stylesheet" href="/assets/style.css">

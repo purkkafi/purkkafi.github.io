@@ -79,6 +79,16 @@ Sisältöhuomautuslaatikko.
 
 
 
+Navigaatiopalkki.
+
+\define{\alanavigaatio}{3}{
+\div{bottomNav}{
+\if{\not{\is_empty{\1}}}{\div{bottomNavArrow}{\raw{«}}\div{bottomNavElem}{\raw{\1}}\div{bottomNavArrow}{\raw{«}}}
+\if{\not{\is_empty{\2}}}{\div{bottomNavElem}{\raw{\2}}}
+\if{\not{\is_empty{\3}}}{\div{bottomNavArrow}{\raw{»}}\div{bottomNavElem}{\raw{\3}}\div{bottomNavArrow}{\raw{»}}}
+}}
+
+
 Käytettävä malline.
 
 \global{\template_path}{generate_pages/template.html}

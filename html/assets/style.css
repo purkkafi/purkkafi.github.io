@@ -57,8 +57,8 @@ footer {
 }
 
 article {
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 4em;
+    margin-bottom: 4em;
 }
 
 hr {
@@ -111,4 +111,28 @@ a:active { color: var(--link-color-active); }
 a.hiddenLink {
     color: var(--text-color);
     text-decoration: none;
+}
+
+.bottomNav {
+    display: flex;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    justify-content: center;
+}
+
+.bottomNavElem {
+    text-align: center;
+    align-self: center;
+}
+
+.bottomNavArrow {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.bottomNavArrow, .bottomNavElem {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
 }

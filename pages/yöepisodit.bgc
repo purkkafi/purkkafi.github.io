@@ -1,6 +1,10 @@
 \global{\title}{Yöepisodit}
 \global{\theme}{yöepisodit}
 
+\global{\og_title}{Yöepisodit}
+\global{\og_image}{https://purkka.fi/assets/yöepisodit.png}
+\global{\og_description}{Romaani Vantaasta, 2010-luvusta ja yöstä.}
+
 \sisältöhuomautus{seksin ja seksuaalisuuden kuvausta, huonoja vitsejä, mainintoja Paavo Väyrysestä}
 
 \otsikko{Yöepisodit}
@@ -13,6 +17,6 @@
 
 Romaani Vantaasta, 2010-luvusta ja yöstä. Ilmestyy tällä sivustolla luku kerrallaan.
 
-\b{Osa I}
+\väliotsikko{Sisällys}
 
-[ILMESTYY PIAN]
+[ilmestyy pian]
