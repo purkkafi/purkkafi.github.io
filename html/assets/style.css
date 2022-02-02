@@ -78,11 +78,15 @@ a:active { color: var(--link-color-active); }
     text-align: center;
 }
 
-/* hack, come up with something better */
-.bigImageContainer {
+/* still a hack but better i guess */
+.bigPxImageContainer {
+    width: 95vw;
+    margin-left: calc((95vw - 100%) / -2);
     text-align: center;
-    width: 150%;
-    margin-left: -25%;
+}
+
+.bigPxImageContainer img {
+    max-width: 100%;
 }
 
 .smallImage {
