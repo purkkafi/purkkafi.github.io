@@ -19,6 +19,12 @@ body {
 	line-height: 1.5;
 }
 
+hr, .hr {
+    border: 0;
+    border: 1px var(--text-color) inset;
+    opacity: 0.75;
+}
+
 header {
 	text-align: center;
 	text-shadow: 0 0 0.15em var(--text-color);
@@ -31,8 +37,19 @@ header #indexlink {
 }
 
 footer {
-	text-align: center;
 	font-size: 75%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+footer div {
+    flex: 1;
+    min-width: 20ch;
+    padding: 1em;
+}
+
+footer div p:first-child {
+    font-weight: bold;
 }
 
 #container {

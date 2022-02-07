@@ -1,0 +1,4 @@
+\define{\item}{3}{<a href="\2">\1</a>
+\3}
+
+\global{\template_path}{new/template.html}

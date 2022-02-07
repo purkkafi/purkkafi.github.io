@@ -1,6 +1,9 @@
 #!/bin/bash
 
 shopt -s globstar
+set -e
+
+beagic --module-path beagic new beagic/new/new_content.bgc beagic/new/new_content.html
 
 for PAGE in pages/**/*.bgc; do
     echo "Compiling $PAGE..."
