@@ -102,12 +102,26 @@ a:active { color: var(--link-color-active); }
     text-align: center;
 }
 
+.imageContainer {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .bigPxImageContainer img {
     max-width: 100%;
 }
 
 .smallImage {
     width: 25%;
+}
+
+.normalImage {
+    width: 100%;
+}
+
+.imageCaption {
+    font-style: italic;
+    font-size: 75%;
 }
 
 .center {
