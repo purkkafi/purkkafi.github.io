@@ -53,15 +53,15 @@ Keskitetty teksti.
 
 Kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
 
-\define{\kuva_pieni}{2}{\raw{<div class="imageContainer"><img src="assets/\1" class="smallImage" alt="\2"></div>}}
+\define{\kuva_pieni}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="smallImage" alt="\2"></div>}}
 
 Pikselitaidekuva, näytetään ideaalisti täysikokoisena.
 
-\define{\kuva_iso_px}{2}{\raw{<div class="bigPxImageContainer"><img src="assets/\1" alt="\2"></div>}}
+\define{\kuva_iso_px}{2}{\raw{<div class="bigPxImageContainer"><img src="/assets/\1" alt="\2"></div>}}
 
 Kuva palstan leveydellä & kuvatekstillä.
 
-\define{\kuva_kuvateksti}{3}{\raw{<div class="imageContainer"><img src="assets/\1" class="normalImage" alt="\2">
+\define{\kuva_kuvateksti}{3}{\raw{<div class="imageContainer"><img src="/assets/\1" class="normalImage" alt="\2">
 <span class="imageCaption">\3</span></div>}}
 
 

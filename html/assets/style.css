@@ -142,6 +142,7 @@ a:active { color: var(--link-color-active); }
 
 .contentNote p {
     margin: 0.5em 0.25em 0.5em 0.25em;
+    font-size: 75%;
 }
 
 .warningSign {
