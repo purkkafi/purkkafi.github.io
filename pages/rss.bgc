@@ -1,0 +1,11 @@
+\global{\title}{RSS}
+
+\otsikko{RSS}
+
+\raw{<div style="font-size: 125%; text-align: center;">\linkki{/rss.xml}{<img src="/assets/rss.png" style="vertical-align: text-top; margin-right: 0.25em;">https://purkka.fi/rss.xml}</div>}
+
+Remember RSS? It was pretty cool. Nearly every website had a feed available, and since the standard was open and pretty simple, there were a lot of different readers.
+
+Anyway, RSS still exists. Many sites have just stopped offering it since social media has more ads, algorithms for controlling what you see and death threats. (Some have it today but secretly – you can find RSS feeds of YouTube channels with \linkki{https://webapps.stackexchange.com/questions/111680/how-to-find-channel-rss-feed-on-youtube}{magic}.)
+
+If you're still using RSS, feel free to add purkka.fi's feed to your reader. It's automatically generated from the same data as the footer, meaning that "the new stuff" will show up there. But what is "the new stuff"? Honestly, I don't know. I have no idea how this website works; I'm just making it.
