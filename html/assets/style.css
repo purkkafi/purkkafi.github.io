@@ -200,6 +200,6 @@ a.hiddenLink {
 
 .bioFlexDescription {
     flex: 2;
-    min-width: 30ch;
+    min-width: 25ch;
     margin: 0em 1em;
 }
