@@ -2,4 +2,28 @@
 
 \otsikko{About}
 
-\b{purkka.fi} is this website :)
+\div{bioFlex}{
+
+\kuva_kuvateksti{bio/purkkafi.png}{A screenshot of purkka.fi.}{A screenshot of purkka.fi, the website you're viewing right now.}
+
+\div{bioFlexDescription}{
+\b{purkka.fi} is this website. It has been described as "starkly minimalistic", "a Web 1.0 LARP" and "surprisingly functional on mobile".
+
+For now, the best method for keeping up with whatever happens on this website is \linkki{/rss.html}{the RSS feed}.
+}
+
+}
+
+\tauko
+
+\div{bioFlex}{
+
+\div{bioFlexDescription}{
+\b{purkka} is the maintainer of this website. They haven't been described.
+
+Feel free to follow them on \linkki{https://twitter.com/purkkafi}{Twitter} or contact them on \linkki{https://t.me/purkkafi}{Telegram} if you have any questions or comments.
+}
+
+\kuva_kuvateksti{bio/purkka.png}{A blurry, low-quality picture of a brown rabbit taken at night.}{Unrelated image. Context unknown.}
+
+}

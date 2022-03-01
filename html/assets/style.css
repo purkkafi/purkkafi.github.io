@@ -179,3 +179,21 @@ a.hiddenLink {
     padding-top: 0.3em;
     padding-bottom: 0.3em;
 }
+
+.bioFlex {
+    display: flex;
+}
+
+.bioFlex img {
+    box-shadow: 0 0 0.5em black;
+}
+
+.bioFlex .imageContainer {
+    flex: 1;
+    margin: 1em;
+}
+
+.bioFlexDescription {
+    flex: 2;
+    margin: 0em 1em;
+}

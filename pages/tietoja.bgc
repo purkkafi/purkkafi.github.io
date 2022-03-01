@@ -2,4 +2,28 @@
 
 \otsikko{Tietoja}
 
-\b{purkka.fi} on tämä nettisivusto :)
+\div{bioFlex}{
+
+\kuva_kuvateksti{bio/purkkafi.png}{Kuvankaappaus purkka.fi:stä.}{Kuvankaappaus purkka.fi:stä, jolla olet nyt.}
+
+\div{bioFlexDescription}{
+\b{purkka.fi} on tämä nettisivu. Sitä on kuvailtu "karun minimalistiseksi", "Web 1.0 LARPiksi" ja "yllättävän toimivaksi mobiililla".
+
+Toistaiseksi paras keino pysyä ajan tasalla sivuston muutoksista on \linkki{/rss.html}{RSS-syöte}.
+}
+
+}
+
+\tauko
+
+\div{bioFlex}{
+
+\div{bioFlexDescription}{
+\b{purkka} on tämän nettisivun ylläpitäjä. Häntä ei ole kuvailtu.
+
+Seuraa häntä halutessasi \linkki{https://twitter.com/purkkafi}{Twitterissä} tai ota yhteyttä \linkki{https://t.me/purkkafi}{Telegramin} kautta, jos on kysymyksiä tai kommentteja.
+}
+
+\kuva_kuvateksti{bio/purkka.png}{Yöllä otettu suttuinen, huonolaatuinen kuva ruskeasta kanista.}{Asiaan liittymätön kuva. Konteksti tuntematon.}
+
+}
