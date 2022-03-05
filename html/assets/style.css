@@ -83,6 +83,12 @@ hr {
 	margin: 3em auto;
 }
 
+blockquote {
+    border-left: var(--text-color) 0.25em solid;
+    padding-left: 1em;
+    font-style: italic;
+}
+
 a:link { color: var(--link-color); }
 a:visited { color: var(--link-color-visited); }
 a:active { color: var(--link-color-active); }

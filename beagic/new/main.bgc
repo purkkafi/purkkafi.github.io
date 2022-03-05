@@ -1,4 +1,7 @@
-\define{\item}{5}{<a href="\2">\1</a>
+\define{\internal}{5}{<a href="\2">\1</a>
+\3}
+
+\define{\external}{5}{<a href="\2">\1</a>
 \3}
 
 \global{\template_path}{new/template.html}

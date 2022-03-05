@@ -1,9 +1,17 @@
-\define{\item}{5}{\raw{<item>
+\define{\internal}{5}{\raw{<item>
 <title>\1</title>
 <description>\5</description>
 <pubDate>\4</pubDate>
 <link>https://purkka.fi\2</link>
 <guid>https://purkka.fi\2</guid>
+</item>}}
+
+\define{\external}{5}{\raw{<item>
+<title>\1</title>
+<description>\5</description>
+<pubDate>\4</pubDate>
+<link>\2</link>
+<guid>\2</guid>
 </item>}}
 
 \global{\template_path}{rss/template.xml}
