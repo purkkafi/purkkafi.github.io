@@ -72,11 +72,26 @@ Kuva palstan leveydellä & kuvatekstillä.
 \define{\kuva_kuvateksti}{3}{\raw{<div class="imageContainer"><img src="/assets/\1" class="normalImage" alt="\2">
 <span class="imageCaption">\3</span></div>}}
 
-Kuva kuvatekstillä, ei erillistä alt-tekstiä.
+Kuva kuvatekstillä, kuvateksti = alt-teksti.
 
 \define{\kuva_kuvateksti2}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="normalImage" alt="\2">
 <span class="imageCaption">\2</span></div>}}
 
+Kuva palstan leveydellä & ilman kuvatekstiä.
+
+\define{\kuva_palsta}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="normalImage" alt="\2"></div>}}
+
+
+
+Lista numeroilla.
+
+\define{\lista_nro}{1}{\raw{<ol>}
+\1
+\raw{</ol>}}
+
+Listan kohta.
+
+\define{\kohta}{1}{\raw{<li>}\1\raw{</li>}}
 
 
 Proosateksti.
