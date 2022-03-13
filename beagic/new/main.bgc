@@ -1,7 +1,11 @@
-\define{\internal}{5}{<a href="\2">\1</a>
-\3}
+\define{\internal}{5}{\raw{<span class="newLink"><a href="\2">\1</a>
+<br>
+\3
+<br></span>}}
 
-\define{\external}{5}{<a href="\2">\1</a>
-\3}
+\define{\external}{5}{\raw{<span class="newLink"><a href="\2">\1</a>
+<br>
+\3
+<br></span>}}
 
 \global{\template_path}{new/template.html}

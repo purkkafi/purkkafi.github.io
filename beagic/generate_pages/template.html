@@ -26,6 +26,8 @@
         
         <link rel="stylesheet" href="/assets/style.css">
         \ifdef{\theme}{<link rel="stylesheet" href="/assets/theme_\theme.css">}
+        
+        <script src="/new_links.js" defer></script>
     </head>
     <body>
         
@@ -43,13 +45,18 @@
                 
                 <div class="hr"></div>
                 <footer>
-                    <div>
+                    <div class="footerSection">
                         <p>uutta • new</p>
                         \include{new/new_content.html}
                     </div>
                     
-                    <div>
+                    <div class="footerSection">
                         <p>purkka.fi</p>
+                        <p>
+                        <a href=/kuvasto.html>kuvasto</a>
+                        •
+                        <a href=/catalogue.html>catalogue</a>
+                        </p>
                         <p>
                         <a href=/tietoja.html>tietoja</a>
                         •
@@ -58,7 +65,7 @@
                         <p><a href=/rss.html>rss</a></p>
                     </div>
                     
-                    <div>
+                    <div class="footerSection">
                         <p>linkkejä • links</p>
                         <p><a href=https://twitter.com/purkkafi target="_blank">twitter</a></p>
                         <p><a href=https://github.com/mikkotampio target="_blank">github</a></p>

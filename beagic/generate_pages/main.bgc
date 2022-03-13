@@ -126,6 +126,20 @@ Navigaatiopalkki.
 }}
 
 
+
+Kuvaston tavara.
+
+\define{\kuvastokohta}{4}{\div{catalogueItem}{\raw{
+<span class="catalogueTitle">
+<a href="\1" class="catalogueTitle">\b{\2}</a>
+<br>
+\i{\3}
+</span>
+<span class="catalogueYear">\4</span>
+}}}}
+
+
+
 Käytettävä malline.
 
 \global{\template_path}{generate_pages/template.html}

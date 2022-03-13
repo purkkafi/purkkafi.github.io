@@ -2,7 +2,10 @@
     --text-color: #dbdbdb;
     --bg-color: #202126;
     
-    --link-color: #5098d5;
+    --bg-accent1-color: #2b2c33;
+    --bg-accent2-color: #35373f;
+    
+    --link-color: #6BA7DB;
     --link-color-visited: #3d5fc0;
     --link-color-active: #ed3d0e;
     
@@ -25,15 +28,12 @@ hr, .hr {
     opacity: 0.75;
 }
 
-header {
-	text-align: center;
-	text-shadow: 0 0 0.15em var(--text-color);
-	letter-spacing: 1em;
-}
-
 header #indexlink {
 	color: inherit;
 	text-decoration: inherit;
+	text-align: center;
+	text-shadow: 0 0 0.15em var(--text-color);
+	letter-spacing: 1em;
 }
 
 footer {
@@ -42,14 +42,18 @@ footer {
 	flex-wrap: wrap;
 }
 
-footer div {
+footer .footerSection {
     flex: 1;
     min-width: 20ch;
     padding: 1em;
 }
 
-footer div p:first-child {
+footer .footerSection p:first-child {
     font-weight: bold;
+}
+
+footer .hiddenLink {
+    display: none;
 }
 
 #container {
@@ -209,3 +213,66 @@ a.hiddenLink {
     min-width: 25ch;
     margin: 0em 1em;
 }
+
+.catalogueItem {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 0.5em;
+}
+
+.catalogueItem .catalogueTitle {
+    flex: 10;
+}
+
+.catalogueItem .catalogueYear {
+    flex: 1;
+}
+
+.catalogueItem:nth-of-type(odd) {
+    background-color: var(--bg-accent1-color);
+}
+
+.catalogueItem:nth-of-type(even) {
+    background-color: var(--bg-accent2-color);
+}
+
+.frontBoxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.frontBoxes .boxContainer {
+    flex-basis: 50%;
+    flex-grow: 1;
+    min-width: 30ch;
+    color: inherit;
+}
+
+.frontBoxes .boxContainer:nth-child(3) {
+    flex-basis: 100%;
+}
+
+.frontBoxes .boxContainerSmall {
+    flex-basis: 50%;
+    flex-grow: 1;
+    text-align: center;
+    background-color: var(--bg-accent1-color);
+}
+
+.frontBoxes .box {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 6em;
+}
+
+.frontBoxes .box > * {
+    background-color: var(--bg-color);
+    display: inline-flex;
+    margin: 1em;
+    padding: 0.5em;
+    box-shadow: 0.25em 0.25em 0.5em black;
+}
+
+
