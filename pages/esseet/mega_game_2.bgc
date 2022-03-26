@@ -1,0 +1,204 @@
+﻿\global{\title}{Unpacking Mega Game II}
+\global{\og_title}{Unpacking Mega Game II}
+\global{\og_image}{https://purkka.fi/assets/mg2/eivittudiana.png}
+\global{\og_description}{An in-depth analysis of a 20 years old car game made of product placement.}
+
+\otsikko{Unpacking Mega Game II}
+
+\kuva_kuvateksti{mg2/titlescreen.png}{The titlescreen of Mega Game II, featuring a photo of a car.}{do you get it, it's because the game is about delivering packages (Image: AddGames)}
+
+\i{Mega Game II} is a game about driving around in a car real fast and learning about brands.
+
+That's what it's called in Finland, anyway – the name was changed from \i{Pickup Express} to advertise it as a sequel to \i{Mega Game}, which it has little to do with apart from being developed and published by the same companies. And \i{Mega Game} itself, originally called \i{Mall Maniacs}, was renamed to that for reasons I cannot claim to understand. I guess one benefit is that the name is generic enough for any kind of game to be plausibly published under it; maybe \i{Mega Game III} will come out some day and be an RPG or a shooter. They're just games that are mega, whatever that means.
+
+From real cars by Toyota to a variety of regional products that differ in the original Swedish version and the Finnish and Brazilian localizations, \i{Mega Game II} is full of product placement. That was the entire business model, in fact – sponsors funded the development of the game, which was then distributed freely in different ways. Here in Finland, you could get it with a newspaper.
+
+So what's the deal with \i{Mega Game II}? Is it a striking, ad-riddled portrait of the society we live in? Not really, I guess, although the machinations of capitalism will come up from time to time in this essay.
+
+Is it secretly amazingly good, a hidden gem forgotten by the history of gaming at large? Nah, it's pretty bad. About what you would expect based on the description, although there are some bright spots.
+
+Does the author have some kind of deep personal connection to the game? Will this essay be an autobiographical odyssey into the nostalgia of playing free CD games? No. Actually, I feel pretty neutral about it.
+
+I guess I just wanted to write a really in-depth analysis of \i{Mega Game II}, and since this is my website, I can do whatever I want.
+
+\väliotsikko{The Car Metagame}
+
+Before going into the three individual game modes, we need to acknowledge one serious flaw in the basic design of \i{Mega Game II}. Here's the screen where you select your car:
+
+\kuva_kuvateksti{mg2/avensis.png}{A picture of the player selecting a red car with great stats.}{Note the beautiful UI design where the logo is pushed too far up and it just says "GAME". (Image: AddGames)}
+
+This is Avensis, who has – as you can see – some pretty nice stats. Speed ("nopeus") and acceleration ("kiihdytys") are high, and they are important in every mode. (Incidentally, most cars have very similar values for them, so they probably could have been merged into one stat.) Friction ("kitka"), which makes the car easier to drive, is alright, too; lower is better.
+
+Two stats are only relevant in Express Contest, the main game mode. Fuel use ("polttoaineen kulutus") should be low, so it's good that it's only two bars. The package icons on the top indicate that Avensis can carry three items, the maximum, at once.
+
+It looks like a decent car – surely it's one of the better ones. Not all stats are at maximum, of course, so the other cars could be better in some regard, but also have some drawba–
+
+Wait, hang on. Let me scroll through that list again.
+
+\kuva_kuvateksti{mg2/hilux.png}{A picture of a blue car with stats that fucking suck.}{this car blows (Image: AddGames)}
+
+For reference, here's one of the worst cars, Hilux. Apart from having the same carrying capacity, all of its stats are strictly worse than those of Avensis.
+
+The others generally fall somewhere in between. They might beat Avensis in one stat, but be worse in others. Yaris Verso has better friction and fuel use, but it's two bars slower, and speed is really important in a game like this. Avensis is easily the best car.
+
+This is baffling game design. Generally, the purpose of having different stats like this is having options that have different strengths and weaknesses. Avensis has no real drawbacks to speak of – who cares for slightly lower fuel use – and has the most important stats nearly maxed out. There is no reason to use any other car. Why would you want to use Hilux?
+
+\kuva_kuvateksti{mg2/no_celica.png}{A grayed-out white car.}{Hey this car looks good, can't wait to be able to use it! (Image: AddGames)}
+
+But what's this – there seem to be two unusable, locked cars? And Celica here looks decent; the fact that it's faster than Avensis might make it a fair tradeoff, even with it only being able to carry one package.
+
+So how do you unlock them? By playing the game?
+
+Wrong! You have to go to a website. And as you might expect, it no longer works 20 years later. The company still exists, but the link the game takes you to redirects to their front page with no \i{Mega Game II} DLC in sight.
+
+This problem does not exist in every localization – I think at least the Brazilian one just lets you use all cars. The car metagame is still pretty bad, but Celica being unusable in the Finnish version centralizes it entirely around Avensis.
+
+Why does this matter so much? Well, the NPC drivers will always use unique cars, meaning that making the rational choice and picking Avensis forces them to use cars that suck. On the other hand, not picking Avensis means that somebody else can do it. Either way, the person using it has an upper hand in a way that doesn't seem fair or purposeful.
+
+This game design issue is easy to band-aid but hard to fix completely. A big problem is that only speed, acceleration and friction are relevant in all of the three game modes. Let's imagine a car that has great package capacity but sucks otherwise. It might be worth using in Express Contest, but since its best quality is irrelevant in the others, there it's just the shittiest possible car. How can you make all cars worth using but not overpowered in all modes simultaneously?
+
+I guess the developers just didn't really try – it seems like the stats are mostly based on the real-life qualities of the cars. Did they figure out that balancing the game in a meaningful way was impossible, or did Toyota mandate realism? Who knows, but it's not good either way.
+
+By the way, some cars have extremely low-quality ads that you can watch. I guess this is like the lore of Mega Game II?
+
+\kuva_kuvateksti{mg2/lore.png}{A really shitty picture of a yellow car.}{\i{mega game II} even has in-game cinematics... (Image: AddGames)}
+
+It's kind of baffling that Toyota paid real money to get their cars into this. I mean, who's the target audience? Adult gamers probably won't play \i{Mega Game II} – they have far better options and enough spending money to buy them. Children, meanwhile, might play it but don't generally purchase cars. Seems like a pretty inefficient way to build brand recognition; I honestly think just buying TV ads would have been a better use of the funds.
+
+\väliotsikko{Express Contest}
+
+Keeping in mind the inherent issues caused by the unbalanced car metagame, let's go through all of the game modes. Express Contest is the most in-depth. It has free play and a championship mode consisting of a series of matches with predetermined settings. Playing it unlocks the other modes and the later levels.
+
+\kuva_kuvateksti{mg2/huoltis.png}{A screenshot of a gas station. There's a blue car and a huge, floating bag of rye bread.}{This is what playing it looks like. (Image: AddGames)}
+
+The basic gameplay loop consists of picking up a variety of products, represented by huge, floating 3D models like that rye bread over there, and delivering them to dropoff locations marked with a yellow arrow on the map. You have competitors who love stealing items you are trying to get, ramming into your car while blaring their horns like madmen, and getting stuck in gas stations. Like poor Silvio in this screenshot. Notice how he has zero money since he has been unable to complete any deliveries.
+
+Apart from the obvious challenge of deciding where to go next – the cars have limited capacity, so you need to be constantly picking up and delivering items – there are two strategic elements to consider. First, there's gas; you can run out, slowing your speed to a crawl. Refilling happens automatically when you drive between the pumps at a gas station and costs money.
+
+In addition, the thing between the speedometer and the fuel gauge represents the "environmental bonus". Whoever drives in the most environmentally friendly way gets some prize money when the game ends. It's supposed to reward you for driving carefully instead of as fast as you can, but in practice it's usually too small to matter.
+
+Anyway, while I'll go into some design issues soon, this game mode is at least pretty fun to play. The car physics are good, and doing crazy stunts is honestly more fun than actually playing the game. A lot of the levels include slopes or verticality with points where you can drive off the road, so it seems like the developers understood the appeal, too.
+
+And if you do decide to play the game properly instead of using it as a 3D car sandbox, the fact that just driving around is fun matters a lot. Even though the cars feel far too light and bouncy for realism, there's a tangible sense of physicality. Crashing against a wall feels like you made a mistake maneuvering a real three-dimensional object, and avoiding a crash is satisfying. 
+
+Also, the opponents (I like to think of them as "enemy cars") suck in a fun way. It feels like their AI basically ignores every other car, so they tend to crash into you and each other frequently. I think it characterizes them pretty well – those assholes aren't just stealing your groceries, they're out for blood. I cannot explain how annoying it is when they drive right into your car and blare their horn like it's you who made a mistake. Fuck you, Diana. Fuck you, Spike. Fuck you, Biker. Why is that even your name when you're clearly driving a car?
+
+Anyway, while the basic gameplay is fun enough, there are some design issues. Efficiently navigating the map is the only actual strategic concern – gas is just a thing you have to remember, and the environmental bonus is usually too small to matter. And if it does change the results, it just feels annoying since you don't really get a strong impression of how well the enemy cars drove. It's just as if an arbitrary person got some more money for no reason.
+
+Another concern is how random it all is. You spawn in a random place; the items spawn randomly; the destinations are random. Deliveries with a longer distance give you more money, so it's not too bad, but it can still feel like you're more of a victim of the RNG than a player who made bad decisions. The items aren't spread evenly across the map; they can congregate in certain locations, and if you happen to be on the other side of the level, you're just screwed.
+
+How heavily the game relies on randomness creates a bizarre reverse difficulty curve in the championship. As you move on, the play duration gets longer and longer; in the first matches, you only have three minutes. Since you have less time, a random string of bad luck can ruin everything. The later portions of the championship feel less luck-based and therefore slightly easier due to their longer play durations.
+
+Another way to think about it is that when you first start the game, you have to learn the levels in addition to figuring how everything works, but by the end, only the first challenge remains. The game just doesn't have any good mechanics it could use to create a proper difficulty curve. The amount of items that spawn seems to scale with the amount of enemy cars, so the fact that there are more of them later doesn't really make it harder either.
+
+A quick empirical example: when I first played the game as a child, I had enormous trouble unlocking Chinatown, the third level, but after getting past that barrier I was able to finish the game pretty quick. All of the challenge is in acquiring the basic skills of driving and navigating, and when you get good, it's simply pretty easy to win.
+
+There's also one game mechanic I haven't mentioned yet that just straight up sucks. You don't have the minimap by default at the start of each match. Instead, the arrow on the top of the screen will guide you towards a newspaper, which you need to collect to unlock it.
+
+Is there any strategy in this? No. Driving where the arrow is pointing towards is not that difficult. The only thing that matters is luck – you spawn in a random location, sometimes right in front of a newspaper, sometimes far away. Oh, and since your enemies need to do the same thing, sometimes they will just steal the newspaper that was closest to you. It's unbelievably annoying when that happens. This mechanic brings nothing to the game and should probably just not exist.
+
+Anyway, I think it's decent despite all this. Some games, like \i{Minecraft} or \i{Pokémon}, are enjoyable to play regardless of how good their game design actually is due to the core gameplay being fun. \i{Mega Game II} belongs in that category. I would like Express Contest more if it was competently designed, but playing it can still be a good time. It's okay, I guess.
+
+This is in stark contrast to the other two game modes – one that is honestly excellent and one that has no redeeming qualities. We'll talk about the good one first.
+
+\väliotsikko{Hot Goods}
+
+\kuva_kuvateksti{mg2/pommi.png}{Cars driving in an urban area.}{Hot Goods. Note the list of players on the left indicating that Yio has the bomb. (Image: AddGames)}
+
+The second game mode is some kind of Battle Royale thing where you drive ar– wait a sec, is that car stuck in the level geometry again?
+
+\kuva_kuvateksti{mg2/eivittudiana.png}{Diana is stuck on some kind of mound.}{Jesus Christ, Diana, learn to drive. (Image: AddGames)}
+
+Uh, yeah. It happens, I guess.
+
+Anyway.
+
+In Hot Goods, you drive around freely, passing around a bomb by colliding into other players. It blows up regularly, eliminating someone, and then spawns again until there's only one person left.
+
+That's it for the mechanics, really. There's a slight cooldown until you can pass the bomb along, which creates some interesting strategies I'll talk about later. The important thing is this: it's actually pretty fun! Unlike the final game mode, there's clearly some effort put into it; all levels are available, and apart from Docks, which is meant to be large, they are made slightly smaller to make playing them in this mode more intensive.
+
+And then there's the best part: if you get eliminated, the camera starts following one of the remaining players, and you can watch the round to the end. It's ridiculously fun to observe the shitty AI drive around and root for the character whose portrait you find to be the most obnoxious to die. As a child, I used to intentionally kill myself and then watch the enemy cars duke it out. It was my Twitch before Twitch existed. I don't know who came up with the idea of doing this – maybe it was inspired by a dev tool or something – but it rules.
+
+Another good thing about Hot Goods is that despite being mechanically simpler, it's arguably denser strategically than Express Contest. Even though it's as random (or maybe even more so), it feels like you have meaningful decisions to make and that executing them takes skill. Here are some hot strats for all the competitive players out there:
+
+\lista_nroton{
+
+\kohta{\b{Bombstealing} is intentionally seeking out the bomb so that you can control it. Most often, bombstealing is done to execute an autokill.}
+
+\kohta{An \b{autokill} is when you pass the bomb to someone in such a way that the timer runs down before the cooldown expires, ensuring that they can't pass it back to you or to someone else.}
+
+}
+
+Autokill is a risky move – if you pass the bomb too early, the opponent can hit you with it. Due to this, it's somewhat tempting to just pass on the bomb as early as you can and try to hide. However, that can also be dangerous, as the map only shows the enemy cars when you have the bomb. You can be surprised by the bomb-carrying car at any time.
+
+Another note for the metagamers: there's an exploit you can do in the Suburb level. If you align your car perfectly, you can enter the yards of these houses.
+
+\kuva_kuvateksti{mg2/exploit.png}{A car driving between some fences into an yard.}{Like this. (Image: AddGames)}
+
+The fact that this is possible appears to be a mistake. AI drivers don't account for these yards in their pathfinding, which means that they can't follow you into them. This is very useful, as it makes the yards a perfect hiding place when there are only two cars left. (Using this exploit before that is risky, as you can get stuck if you're not careful, dooming you to your death if you happen to get the bomb randomly.)
+
+In conclusion, this game mode is really good. Its inherent simplicity doesn't harm it; the mechanics are easy to understand, but there's still some emergent depth. Driving around, passing the bomb and avoiding other players takes more skill than anything in Express Contest, where you never need to worry about moving targets. The randomness doesn't feel like it ruins the game, since there's always an impression that you could have won just by driving better.
+
+\väliotsikko{Stunt Race}
+
+Meanwhile, Stunt Race sucks and just seems unfinished.
+
+Unfinished in the sense that there is way less content than in the other modes – there's only one level, which mostly consists of long straight sections and a really annoying curvy part. And unfinished in the sense that the developers didn't have time to make it fun to play or to make the basic game mechanics come together in a purposeful way.
+
+\kuva_kuvateksti{mg2/race.png}{Some cars driving on a road.}{pictured: the least exciting race in your life (Image: AddGames)}
+
+It's a race. You drive around and try to be faster than your opponents. Wheee.
+
+As you can imagine, the unbalanced car metagame harms this game mode enormously. If you pick Avensis, you win. If you don't, you can still win, but some luck and a fair amount of skill is required.
+
+You see, the products you collect in Epxress Mode appear on the road and can be collected to gain speed. However, they seem to be placed completely randomly, meaning that whoever is leading will probably pick up most of them. Since AI players suck at not crashing into each other, there's usually a huge mess when the game begins, so if you manage to get ahead, you can collect the boosts and outpace even an enemy Avensis.
+
+Of course, if you pick Avensis, you'll most likely go first anyway and will then be able to collect all the boosts to go even faster.
+
+The game remembers your records, which means that you can at least race against yourself. Still, it's designed terribly. I don't know if the developers played any other racing games, but if they did, they certainly didn't learn anything from them. Usual gameplay challenges like "driving well" are absent; you win if you pick the right car or manage to get ahead while your idiot opponents crash into each other. The only level is so pitifully short that you'll learn it and reach the low, low skill ceiling within 5 races.
+
+It's not good, and being the most basic car game you can imagine, there's way too much better designed competition around. The only enjoyment you'll get from this game mode comes from thinking really hard about why collecting meatballs or diapers makes your car go faster.
+
+\väliotsikko{The Art Direction}
+
+You might notice that the game looks pretty bad.
+
+It's not surprising, considering that it's a free 3D game made to run on low-end computers from the year 2000. The execution isn't doing any favors, though – the textures are either jarringly photorealistic, looking like some of them might be actual photos, or blurry sludge with no discernible details. None of them look that good with the blocky models.
+
+The cars you drive and the products you collect are, of course, presented with considerably higher-quality graphics than anything else. I'm not sure what I'm supposed to feel when I see the groceries floating around like that, however. The effect is pretty weird.
+
+\kuva_kuvateksti{mg2/suklaa.png}{Chocolate floating in front of a grocery store.}{Mmmm, chocolate. (Image: AddGames)}
+
+\kuva_kuvateksti{mg2/ruispalat.png}{Rye bread floating in front of a mall.}{Let's get that bread. (Image: AddGames)}
+
+\kuva_kuvateksti{mg2/riisi.png}{A pink box of rice floating in a gas station.}{Floating gas station rice – my favorite. (Image: AddGames)}
+
+It's an interesting look into what product placement in video games looked like 20 years ago. There is definitely some effort put into making the advertised brands look... not ugly, I guess, but having a consistent, pleasant art direction apparently wasn't a priority. I don't know if Ruispalat will ever have a crossover with \i{Fortnite}, but I think that nowadays they would pay more attention to making sure the game looks visually cohesive.
+
+But let's talk about the characters for a bit. They don't affect gameplay, but you can choose one to use as your avatar, and the others appear as enemies.
+
+\kuva_kuvateksti{mg2/dudes.png}{A row of pretty ugly character portraits.}{Some of the characters in the Finnish version. Note the art style clash; some have noticably different outlines. (Image: AddGames)}
+
+In the original Swedish version, many of them had traditional Swedish names. The Brazilian version replaced some, but not all, with more racially diverse and culturally ambiguous alternatives. A pretty sensible move if they were looking into localizing the game into more countries, I guess. 
+
+However, the Finnish version, in which it would be appropriate to have characters with Swedish-sounding names, has inexplicably removed all of them, even the ones that were in the Brazilian version.
+
+Why? I have no idea. Were they still in the process of removing cultural references to Sweden for easier localization? Did they think Finnish players would be svekophobic enough to dislike the game if it had Swedish people in it? I don't know, but if they were just getting rid of the, uh, less successful portraits, maybe it was the right choice. Some of the original Swedish characters are drawn in a distinctly strange way.
+
+\kuva_kuvateksti_pieni{mg2/help.png}{A Swedish dude who looks kind of off.}{help (Screenshot from \linkki{https://www.youtube.com/watch?v=59jfjP94qN8}{this video})}
+
+\kuva_kuvateksti_pieni{mg2/help3.png}{A Swedish man who looks kind of off.}{what's wrong with your hat (Screenshot from \linkki{https://www.youtube.com/watch?v=59jfjP94qN8}{this video})}
+
+\kuva_kuvateksti_pieni{mg2/help2.png}{A Swedish girl who looks kind of off.}{jesus christ (Screenshot from \linkki{https://www.youtube.com/watch?v=59jfjP94qN8}{this video})}
+
+Yeah, maybe getting rid of those guys was the right move.
+
+\väliotsikko{In Conclusion}
+
+\i{Mega Game II} isn't "good" in the traditional sense of the word. It's not the best designed, best looking or most in-depth car game available now, and it wasn't much closer to the top around the time it was released.
+
+Still, it's undeniable that there are certain sections in which the hard work of some passionate developers shows. Hot Goods is fun to play, and being able to observe the rest of the match after dying is a fantastic extra feature I wouldn't know to ask for if it wasn't there already. The car physics feel intuitive and responsive, and I really appreciate the inclusion of vertical elements to test them with. It feels like the developers understood what the fun parts of the game they were making were and put some extra effort into them.
+
+Is \i{Mega Game II} an interesting cultural object? It's at least a reminder of a time that no longer exists. The gaming industry has only grown since then, but it's hard to imagine this kind of game being made today. The business model is simply no longer attractive. Free-to-play games are more common and easily distributed via the Internet or app stores, so there's more competition, and other alternatives for monetization like microtransations exist. Also, since making games costs a lot more now with the increases in graphical fidelity, I imagine funding your project with Toyota bucks might not be as easy anymore.
+
+There are some downloading links for the different localizations floating around. \linkki{https://archive.org/details/pickupexpress_202105}{The Internet Archive} has the Swedish version. I don't know if the game is worth remembering or playing in the year of our Lord 2022, but at least you can do it if you want to.
