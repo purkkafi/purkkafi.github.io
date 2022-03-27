@@ -1,0 +1,9 @@
+\define{\internal}{5}{\raw{<a href="\2"><div class="item">
+\1
+</div></a>}}
+
+\define{\external}{5}{\raw{<a href="\2"><div class="item">
+\1
+</div></a>}}
+
+\global{\template_path}{lenkkipuu/template.html}

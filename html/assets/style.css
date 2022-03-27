@@ -19,7 +19,6 @@ body {
 	line-height: 1.5;
 	background-color: var(--bg-color);
 	color: var(--text-color);
-	line-height: 1.5;
 }
 
 hr, .hr {
@@ -274,5 +273,3 @@ a.hiddenLink {
     padding: 0.5em;
     box-shadow: 0.25em 0.25em 0.5em black;
 }
-
-
