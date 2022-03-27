@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font: 1.15em sans-serif;
+    line-height: 1.5;
+    --accent-color: #730D1C;
+    --accent-color-light: #9A1325;
+    --text-color: #ededed;
+    background-color: #4e2756;
+    background-image: url(/assets/lenkkipuu/bg.png);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#content {
+    margin: auto;
+    max-width: 50ch;
+    padding: 0 1em 0 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#tree a {
+    text-decoration: none;
+}
+
+.item {
+    text-align: center;
+    background-color: var(--accent-color);
+    color: var(--text-color);
+    margin: 1.5em 0 1.5em 0;
+    padding: 0.75em 0 0.75em 0;
+    border-radius: 1em;
+    box-shadow: 0 0 5px black;
+}
+
+.item:hover {
+    background-color: var(--accent-color-light);
+}
+
+#bio {
+    margin: 1em 0 1em 0;
+    display: flex;
+}
+
+#biopic {
+    flex: 1 0 3em;
+    align-self: center;
+}
+
+#biopic img {
+    width: 100%;
+    border-radius: 100%;
+    box-shadow: 0 0 5px black;
+}
+
+#description {
+    flex: 3;
+    align-self: center;
+    margin: 1em;
+    color: var(--text-color);
+}
+
+#description #name {
+    font-weight: bold;
+    font-size: 125%;
+}
+
+#smlinks {
+    text-align: center;
+    opacity: 0.85;
+}
+
+#smlinks a {
+    text-decoration: none;
+}
+
+#smlinks img {
+    width: 2.5em;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+}
+
