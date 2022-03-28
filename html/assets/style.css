@@ -273,3 +273,8 @@ a.hiddenLink {
     padding: 0.5em;
     box-shadow: 0.25em 0.25em 0.5em black;
 }
+
+#socials img {
+    width: 2.5em;
+    opacity: 0.85;
+}
