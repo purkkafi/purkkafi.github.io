@@ -11,3 +11,7 @@
     --left-side-bg: linear-gradient(to right, var(--ylekov-accent), var(--bg-color));
     --right-side-bg: linear-gradient(to left, var(--ylekov-accent), var(--bg-color));
 }
+
+#socials img {
+    filter: invert(100%);
+}
