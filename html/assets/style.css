@@ -137,24 +137,37 @@ a:active { color: var(--link-color-active); }
     text-align: center;
 }
 
-.contentNote {
-    color: #2B2B2B;
-    background-color: #edbf43;
-    border: 0.25em #ce8a2e solid;
-    border-radius: 0.75em;
-    display: flex;
-    align-items: center;
-    box-shadow: 0 0 1em #271306;
-    margin-top: 2em;
-    margin-bottom: 2em;
+.translationNote {
+    background-color: #63C3F2;
+    border: 0.25em #3495e7 solid;
+    box-shadow: 0 0 1em black;
 }
 
-.contentNote p {
+.contentNote {
+    background-color: #edbf43;
+    border: 0.25em #ce8a2e solid;
+    box-shadow: 0 0 1em black;
+}
+
+.note p {
     margin: 0.5em 0.25em 0.5em 0.25em;
     font-size: 75%;
 }
 
-.warningSign {
+.note {
+    color: #2B2B2B;
+    border-radius: 0.75em;
+    display: flex;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.note a:link { color: #2B2B2B; }
+.note a:visited { color: #2B2B2B; }
+.note a:active { color: #2B2B2B; }
+
+.noteIcon {
     font-size: 2em;
     padding-left: 0.25em;
     padding-right: 0.25em;

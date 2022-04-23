@@ -116,15 +116,23 @@ Proosateksti.
 
 Sisältöhuomautuslaatikko.
 
-\define{\sisältöhuomautus_tekstillä}{2}{\raw{<div class="contentNote">}
-\div{warningSign}{⚠}
-\div{warning}{
+\define{\sisältöhuomautus_tekstillä}{2}{\raw{<div class="note contentNote">}
+\div{noteIcon}{⚠}
 \b{\1} \2
-}
 \raw{</div>}}
 
 \define{\sisältöhuomautus}{1}{\sisältöhuomautus_tekstillä{Sisältöhuomautus:}{\1}}
 \define{\content_note}{1}{\sisältöhuomautus_tekstillä{Content note:}{\1}}
+
+
+
+Käännöslaatikko.
+
+\define{\käännös}{4}{\raw{<div class="note translationNote">}
+\div{noteIcon}{\1}
+\b{\2} \linkki{\3}{\4}
+\raw{</div>}}
+
 
 
 
