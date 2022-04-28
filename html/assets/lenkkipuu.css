@@ -12,6 +12,11 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
 }
 
+a:link { color: var(--text-color); }
+a:visited { color: var(--text-color); }
+a:active { color: var(--text-color); }
+
+
 #content {
     margin: auto;
     max-width: 50ch;
