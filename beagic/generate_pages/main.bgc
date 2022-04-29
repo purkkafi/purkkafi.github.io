@@ -103,7 +103,7 @@ Lista ilman numeroita.
 
 Listan kohta.
 
-\define{\kohta}{1}{\raw{<li>}\1\raw{</li>}}
+\define{\kohta}{1}{\raw{<li>\1</li>}}
 
 
 Proosateksti.

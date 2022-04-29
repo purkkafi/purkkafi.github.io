@@ -1,0 +1,73 @@
+\define{\kuva_oikea}{1}{\raw{<img class="right" src="/assets/tiikerit/\1"></img>}}
+
+\define{\kuva_vasen}{1}{\raw{<img class="left" src="/assets/tiikerit/\1"></img>}}
+
+\global{\title}{VALKOISET TIIKERIT // THE WHITE TIGERS}
+\global{\og_title}{VALKOISET TIIKERIT // THE WHITE TIGERS}
+\global{\og_description}{Sci-fi gay furry VN about the mortifying ordeal of finding connection... in space.}
+\global{\og_image}{https://purkka.fi/assets/tiikerit/og_icon.png}
+\global{\theme}{tiikerit}
+
+\otsikko{\span{alignMiddle}{VALKOISET TIIKERIT }\span{slashes}{//}\span{alignMiddle}{ THE&nbsp;WHITE TIGERS}}
+
+\tauko
+
+\div{readPrologue}{Read the prelude:
+
+\span{alignMiddle}{ \linkki{/tiikerit/toinen_saari.html}{TOINEN SAARI}&nbsp;(🇫🇮) }\span{slashes}{//}\span{alignMiddle}{ \linkki{/tiikerit/the_other_island.html}{THE&nbsp;OTHER ISLAND}&nbsp;(🇬🇧)}}
+
+\tauko
+
+\b{The White Tigers} is an upcoming gay furry visual novel, currently in early stages of development, by me (purkka) and other people (TBA). It will be available in Finnish and English.
+
+\div{section}{
+
+\kuva_vasen{outline.png}
+
+\väliotsikko{THE STORY}
+
+On a seemingly uninhabited ocean planet, a young fox lives on an island with no memory of how they got there nearly 15 years prior.
+
+As advised by an inscription on the wall, they spend their days training and studying. But nothing has prepared them for being kidnapped by and coerced into joining a feline team of galactic assassins/black metal band called... The White Tigers.
+
+They hope to make a quick escape, but as the crew runs into a variety of incidents – from taking part in the galaxy's largest music competition to being hunted down by a rival gang – the situation grows more complex. To survive, they will have to make hard decisions and contemplate their past, their future, and their relationship to their captors.
+
+}
+
+\div{section}{
+
+\kuva_oikea{mausketch.png}
+
+\väliotsikko{TONE & INFLUENCES}
+
+The story, intended for an adult audience, will focus on psychological drama and complex, morally ambiguous queer characters. Its four routes will each present a distinct take on the basic premise, drawing from a variety of genres and with characters playing different narrative roles.
+
+My influences include the novels of Pajtim Statovci, Fyodor Dostoevsky, and James Welch; the films \i{White Tiger}, \i{El Ángel}, and \i{The Butterfly from Ural}; the music of Dingo and Vetusta Morla; and classics of science fiction such as \i{The Chanur novels}, \i{BraveStarr}, and \i{Cats}.
+
+}
+
+\div{section}{
+
+\kuva_vasen{code.png}
+
+\väliotsikko{DEVELOPMENT STATUS}
+
+As of now, I'm simultaneously
+
+\lista_nroton{
+\kohta{thoroughly outlining the story}
+\kohta{sketching designs for the main characters}
+\kohta{building a custom VN engine on top of Godot}
+\kohta{creating a demo build with placeholder assets}
+}
+
+After all this is done and I have a decent grasp of where the project is going, I'll formally seek (an) artist(s) to join the team. (Feel free to reach out already if you might be interested, though!) Any kind of public release will probably require a lot of initial asset work to be completed, so don't expect anything anytime soon. It will take some time.
+
+}
+
+
+\väliotsikko{FOLLOW THE PROJECT}
+
+There's a Twitter account at \linkki{https://twitter.com/tiikeritVN}{@tiikeritVN} for important announcements. I might ramble about related topics on \linkki{https://twitter.com/purkkafi}{my personal one}, too.
+
+A Patreon, a Discord server, an itch.io page, and so on will exist closer to release.

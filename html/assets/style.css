@@ -15,7 +15,7 @@
 
 body {
     margin: 0;
-	font: 1.15em sans-serif;
+	font: 1.15em 'Work Sans', sans-serif;
 	line-height: 1.5;
 	background-color: var(--bg-color);
 	color: var(--text-color);
