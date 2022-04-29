@@ -15,7 +15,7 @@
 
 body {
     margin: 0;
-	font: 1.15em 'Work Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	line-height: 1.5;
 	background-color: var(--bg-color);
 	color: var(--text-color);
@@ -290,4 +290,10 @@ a.hiddenLink {
 #socials img {
     width: 2.5em;
     opacity: 0.85;
+}
+
+@media screen and (min-width: 45em) {
+    body {
+        font-size: 1.15em;
+    }
 }
