@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    font: 1.15em sans-serif;
     line-height: 1.5;
     --accent-color: #730D1C;
     --accent-color-light: #9A1325;
@@ -86,3 +85,8 @@ a:active { color: var(--text-color); }
     margin-left: 0.5em;
 }
 
+@media screen and (min-width: 45em) {
+    body {
+        font-size: 1.15em;
+    }
+}
