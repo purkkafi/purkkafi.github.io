@@ -105,19 +105,28 @@ a:active { color: var(--link-color-active); }
 }
 
 /* still a hack but better i guess */
-.bigPxImageContainer {
+.bigPxImageContainer, .screenshotImageContainer {
     width: 95vw;
     margin-left: calc((95vw - 100%) / -2);
     text-align: center;
 }
 
+.bigPxImageContainer img {
+    max-width: 100%;
+}
+
+.screenshotImageContainer {
+    overflow-y: scroll;
+}
+
+.screenshotImageContainer img {
+    min-width: calc( min(720px, 95vw) );
+    image-rendering: crisp-edges;
+}
+
 .imageContainer {
     margin-top: 2em;
     margin-bottom: 2em;
-}
-
-.bigPxImageContainer img {
-    max-width: 100%;
 }
 
 .smallImage {

@@ -88,6 +88,9 @@ Kuva palstan leveydellä & ilman kuvatekstiä.
 \define{\kuva_palsta}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="normalImage" alt="\2"></div>}}
 
 
+\define{\kuvankaappaus}{2}{\raw{<div class="screenshotImageContainer"><img src="/assets/\1" alt="\2"></div>}}
+
+
 
 Lista numeroilla.
 
