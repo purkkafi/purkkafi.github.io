@@ -163,7 +163,27 @@ Kuvaston tavara.
 
 
 
+Neurouutisten pohja.
+
+\define{\neurouutinen}{3}{
+\global{\title}{\1}
+\global{\og_title}{\1}
+\global{\og_description}{Ylekov-neurouutinen}
+\global{\og_image}{https://purkka.fi/assets/ylekov_logo.png}
+\global{\theme}{ylekov}
+
+\div{uutinen}{
+
+\div{topbar}{\linkki{/ylekov/}{Ylekov} » \linkki{/ylekov/neurouutiset/}{Neurouutiset}}
+
+\include{\2}
+
+\tauko
+
+\3}}
+
+
+
 Käytettävä malline.
 
 \global{\template_path}{generate_pages/template.html}
-

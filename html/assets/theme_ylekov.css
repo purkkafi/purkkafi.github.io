@@ -15,3 +15,19 @@
 #socials img {
     filter: invert(100%);
 }
+
+.topbar {
+    font-size: 80%;
+}
+
+.uutinen .uutiskuva img {
+    width: 60ch;
+    height: 40ch;
+    object-fit: cover;
+}
+
+.uutinen .uutiskuva .kuvateksti {
+    font-size: 80%;
+    margin-bottom: 2em;
+    margin-top: 0.5em;
+}
