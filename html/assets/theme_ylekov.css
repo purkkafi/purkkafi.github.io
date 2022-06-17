@@ -21,8 +21,8 @@
 }
 
 .uutinen .uutiskuva img {
-    width: 60ch;
-    height: 40ch;
+    width: 100%;
+    aspect-ratio: 4 / 3;
     object-fit: cover;
 }
 
