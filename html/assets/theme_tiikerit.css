@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
 :root {
     --left-side-bg: url('/assets/tiikerit/mainbg.png');
     --right-side-bg: url('/assets/tiikerit/mainbg.png');
@@ -61,6 +63,40 @@ img {
 ul {
     overflow: hidden;
     list-style-type: '— ';
+}
+
+.ilmoitus {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 120%;
+    padding: 1em;
+    background-color: #EEEEEE;
+    color: #111;
+}
+
+.hahmo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.hahmo:nth-of-type(2n) {
+    flex-direction: row-reverse;
+}
+
+.hahmo .kuva {
+    flex: 1;
+    min-width: 20ch;
+}
+
+.hahmo .lore {
+    flex: 1;
+    min-width: 20ch;
+}
+
+.smallCaps {
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 110%;
 }
 
 @media screen and (min-width: 45em) {
