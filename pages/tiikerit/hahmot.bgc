@@ -1,0 +1,94 @@
+\global{\theme}{tiikerit}
+
+\define{\sc}{1}{\span{smallCaps}{\1}}
+
+\div{ilmoitusContainer}{
+\div{ilmoitus}{
+
+\div{kappale}{olemme \sc{Valkoiset Tiikerit}: slagis (teemme murhia, kidnappauksia, yms) ja bändi (soitamme vitun nopeaa bläkkistä)}
+
+\div{hahmo}{
+\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
+\div{lore}{
+
+\sc{Kapteeni "Mau" Maunnerheim}
+
+– solisti, sanoittaja, satanisti
+– karkasi Imperiumin armeijasta epäselvissä olosuhteissa
+– muistaa kaikki Heaviside-gaalan voittajat
+– no ok ehkä viimeiset 100. se on vanha kilpailu
+– varmaan tehnyt sotarikoksia
+
+♪ \linkki{https://www.youtube.com/watch?v=n0Kon_iUNaI}{Frederik – Mannerheim}
+♪ \linkki{https://www.youtube.com/watch?v=Qv7EiFymgcg}{Buranovskie Babushki – Party for Everybody}
+♪ \linkki{https://www.youtube.com/watch?v=Bq-QuGSaqn8}{vetusta morla – La cuadratura del círculo}
+♪ \linkki{https://www.youtube.com/watch?v=rhQftHLS0gw}{Blind Channel – Dark Side}
+♪ \linkki{https://www.youtube.com/watch?v=MhrOZZy7MZw}{vetusta morla – ¡Fiesta Mayor!}
+
+}}
+
+\div{hahmo}{
+\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
+\div{lore}{
+
+\sc{Kali}
+
+– "manageri" (mm. laittaa ruokaa)
+– täällä sivarissa
+– ei edes saa oikeaa palkkaa (vittu mitä paskaa)
+– galaksin kiireisin musiikkinörtti
+– blogilla 3000 lukijaa, ei vaikene siitä
+
+♪ \linkki{https://www.youtube.com/watch?v=DTHeKwjdxF8}{Maija Vilkkumaa – Aja!}
+♪ \linkki{https://www.youtube.com/watch?v=zpcgL7DaTI0}{Katy Perry – Witness}
+♪ \linkki{https://www.youtube.com/watch?v=kBdEuRJk8iI}{Lala Salama – Miks kukaan ei tuu Vantaalle paitsi panemaan?}
+♪ \linkki{https://www.youtube.com/watch?v=3K0RzZGpyds}{Taylor Swift – Look What You Made Me Do}
+♪ \linkki{https://www.youtube.com/watch?v=LvmH5kWQ1D8}{vetusta morla – Pequeño desastre animal}
+
+}}
+
+\div{hahmo}{
+\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
+\div{lore}{
+
+\sc{Esherat}
+
+– hädin tuskin Tiikerien kolmanneksi paras kitaristi
+– erikoinen kissa
+– prinssi maanpaossa (koska "ei tehnyt enää mieli")
+– suorittanut planeettojenvälisten suhteiden maisteriopinnot
+– ei tiedä itsekään, mitä tekee täällä
+
+♪ \linkki{https://www.youtube.com/watch?v=UNaSn-V0ADI}{Isaac Sene – Kuuma jäbä}
+♪ \linkki{https://www.youtube.com/watch?v=PZ-Bq62d6BA}{Cats – The Rum Tum Tugger}
+♪ \linkki{https://www.youtube.com/watch?v=7qgw9wq4aQs}{Erika Vikman – Cicciolina}
+♪ \linkki{https://www.youtube.com/watch?v=PlVmkBjSYeA}{Grimes – Player of Games}
+♪ \linkki{https://www.youtube.com/watch?v=0APX6DoX-Z8}{vetusta morla – Puntos Suspensivos}
+
+}}
+
+\div{hahmo}{
+\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
+\div{lore}{
+
+\sc{Terion}
+
+– korjailee juttuja, soittaa rumpuja
+– vahvoja mielipiteitä slagis-laitoksen historiallisista taustoista
+– tuntee Tiikerien aluksen, \i{Levottoman tuhkimon}, kuin omat taskunsa
+– ja niitä on näissä haalareissa on muuten aika paljon
+– rakastaa lautapelejä
+
+♪ \linkki{https://www.youtube.com/watch?v=6aLb6vJ_TkI}{Erika Vikman – Syntisten pöytä}
+♪ \linkki{https://www.youtube.com/watch?v=3H5wjcMX7Po}{Dingo – Tuulen viemää}
+♪ \linkki{https://www.youtube.com/watch?v=aotiW5XJTNg}{Stefan – Hope}
+♪ \linkki{https://www.youtube.com/watch?v=-RGiO-a5eGo}{Dingo – Valkoiset tiikerit}
+♪ \linkki{https://www.youtube.com/watch?v=-jd8HVE7o3Q}{vetusta morla – Al Final de la Escapada}
+
+}}
+
+\div{kappale}{ps. basistia etsitään!!!!!!!! tykitellään*
+
+<span style="font-size: 75%;">* khass-kielen smildiläismurteen muinainen sana, jota black metal -bändit käyttävät etsiessään uusia jäseniä</span>}
+
+}}
