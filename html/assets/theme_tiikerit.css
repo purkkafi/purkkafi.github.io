@@ -116,7 +116,7 @@ ul {
 .smallCaps {
     font-variant: small-caps;
     font-weight: bold;
-    font-size: 110%;
+    font-size: 120%;
 }
 
 @media screen and (min-width: 45em) {
