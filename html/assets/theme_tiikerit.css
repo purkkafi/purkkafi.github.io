@@ -93,6 +93,16 @@ ul {
     max-width: 30em;
 }
 
+.protag {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 120%;
+}
+
+.protag .lore {
+    display: flex;
+    justify-content: center;
+}
+
 .hahmo {
     display: flex;
     flex-wrap: wrap;
