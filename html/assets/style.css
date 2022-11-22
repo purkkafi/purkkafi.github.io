@@ -121,7 +121,7 @@ a:active { color: var(--link-color-active); }
 
 .screenshotImageContainer img {
     min-width: calc( min(720px, 95vw) );
-    image-rendering: crisp-edges;
+    padding: 2em 0 2em 0;
 }
 
 .imageContainer {
