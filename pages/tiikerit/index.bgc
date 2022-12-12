@@ -1,73 +1,72 @@
-\define{\kuva_oikea}{1}{\raw{<img class="right" src="/assets/tiikerit/\1"></img>}}
-
-\define{\kuva_vasen}{1}{\raw{<img class="left" src="/assets/tiikerit/\1"></img>}}
-
-\global{\title}{VALKOISET TIIKERIT // THE WHITE TIGERS}
-\global{\og_title}{VALKOISET TIIKERIT // THE WHITE TIGERS}
-\global{\og_description}{Sci-fi gay furry VN about the mortifying ordeal of finding connection... in space.}
+\global{\title}{The White Tigers}
+\global{\og_title}{The White Tigers}
+\global{\og_description}{An upcoming gay furry visual novel.}
 \global{\og_image}{https://purkka.fi/assets/tiikerit/og_icon.png}
-\global{\theme}{tiikerit}
 
-\otsikko{\span{alignMiddle}{VALKOISET TIIKERIT }\span{slashes}{//}\span{alignMiddle}{ THE&nbsp;WHITE TIGERS}}
+\keskitys{<span style="font-size: 75%">Demo available now!</span>
 
-\tauko
+<iframe src="https://itch.io/embed/1827346?dark=true" width="552" height="167" frameborder="0"><a href="https://purkka.itch.io/the-other-island">The Other Island by purkka</a></iframe>}
 
-\div{readPrologue}{Read the prelude:
+\väli{2}
 
-\span{alignMiddle}{ \linkki{/tiikerit/toinen_saari.html}{TOINEN SAARI}&nbsp;(🇫🇮) }\span{slashes}{//}\span{alignMiddle}{ \linkki{/tiikerit/the_other_island.html}{THE&nbsp;OTHER ISLAND}&nbsp;(🇬🇧)}}
+\otsikko{The White Tigers: Project Update & Call for Artists}
 
-\tauko
+\b{The White Tigers} is a science fiction gay furry visual novel about a fox who, after living alone on an island for 15 years with no memory of how they got there, gets kidnapped by a black metal band/mercenary group and taken into space. In the four routes of the game, the band will run into various trouble – from taking part in the galaxy's largest music competition to being hunted down by a rival gang – requiring the fox to navigate complex questions about both their relationship with their captors and their own past and future.
 
-\b{The White Tigers} is an upcoming gay furry visual novel, currently in early stages of development, by me (purkka) and other people (TBA). It will be available in Finnish and English.
+A demo, \b{\linkki{https://purkka.itch.io/the-other-island}{The Other Island}}, introduces the protagonist and details a strange incident that occurs six years before the story starts.
 
-\div{section}{
+\väliotsikko{The Project}
 
-\kuva_vasen{outline.png}
+The White Tigers will be a genre-bending, dark story for adult readers, with a focus on compelling and ambiguous queer characters, weird worldbuilding, and interesting use of nonlinearity.
 
-\väliotsikko{\span{slashes}{//}THE STORY\span{slashes}{//}}
+Fans of furry visual novels will probably recognize the influence of many popular works in the scene, but I'm also taking inspiration from a wide variety of other sources: the science fiction worlds of C. J. Cherryh and <i>BraveStarr</i>, the novels of Pajtim Statovci and James Welch, the films of Aki Kaurismäki, the music of Dingo and Vetusta Morla, and others.
 
-On a seemingly uninhabited ocean planet, a young fox lives on an island with no memory of how they got there nearly 15 years prior.
+The game is being made with \linkki{https://godotengine.org/}{Godot}. There's all kinds of cool stuff I want to do, and using a full-fledged game engine as a base will enable formal playfulness beyond what could be easily achieved with Ren'Py.
 
-As advised by an inscription on the wall, they spend their days training and studying. But nothing has prepared them for being kidnapped by and coerced into joining a feline team of galactic assassins/black metal band called... The White Tigers.
+\väliotsikko{Status Update}
 
-They hope to make a quick escape, but as the crew runs into a variety of incidents – from taking part in the galaxy's largest music competition to being hunted down by a rival gang – the situation grows more complex. To survive, they will have to make hard decisions and contemplate their past, their future, and their relationship to their captors.
-
-}
-
-\div{section}{
-
-\kuva_oikea{mausketch.png}
-
-\väliotsikko{\span{slashes}{//}TONE & INFLUENCES\span{slashes}{//}}
-
-The story, intended for an adult audience, will focus on psychological drama and complex, morally ambiguous queer characters. Its four routes will each present a distinct take on the basic premise, drawing from a variety of genres and with characters playing different narrative roles.
-
-My influences include the novels of Pajtim Statovci, Fyodor Dostoevsky, and James Welch; the films \i{White Tiger}, \i{El Ángel}, and \i{The Butterfly from Ural}; the music of Dingo and Vetusta Morla; and classics of science fiction such as \i{The Chanur novels}, \i{BraveStarr}, and \i{Cats}.
-
-}
-
-\div{section}{
-
-\kuva_vasen{code.png}
-
-\väliotsikko{\span{slashes}{//}DEVELOPMENT STATUS\span{slashes}{//}}
-
-As of now, I'm simultaneously
+The release of the demo marks an important milestone for the project. The rest of it is in early stages:
 
 \lista_nroton{
-\kohta{thoroughly outlining the story}
-\kohta{sketching designs for the main characters}
-\kohta{building a custom VN engine on top of Godot}
-\kohta{creating a demo build with placeholder assets}
+\kohta{The entire story is planned out pretty thoroughly. I have detailed outlines of the four routes, still subject to revisions, and some worldbuilding notes.}
+\kohta{Individual bits and pieces of writing, including other short stories, have been completed (but not translated).}
+\kohta{The game engine is coming along well. I'm just going to have to update it to Godot 4 when that comes out and implement the last missing general features.}
 }
 
-After all this is done and I have a decent grasp of where the project is going, I'll formally seek (an) artist(s) to join the team. (Feel free to reach out already if you might be interested, though!) Any kind of public release will probably require a lot of initial asset work to be completed, so don't expect anything anytime soon. It will take some time.
+Right now, I'm in the middle of writing what will eventually become the first build. Don't expect anything too soon; there's still a lot to do preproduction-wise, and I'm only going to finalize my plans for the plot after talking things over with the entire dev team.
 
+Speaking of – would you like to be a part of the project? Well, read on:
+
+\väliotsikko{Call for Artists}
+
+I managed to complete the demo with free assets and some commissioned illustrations, but the game proper will require visual artists to work on it in a more permanent capacity.
+
+There are budgetary reasons for this (i.e., there not being a budget), but being a project with a focus on presentation & visual storytelling, the game will also benefit greatly from the touch of visually minded co-creators. I want to put together a team of artists passionate about this kind of thing and interested in highly collaborative creative work.
+
+The exact composition or size of the team is not decided yet, but here's how I feel about the various positions at this point:
+
+\lista_nroton{
+\kohta{It probably makes sense to recruit a \b{sprite artist} and a \b{background artist} separately, as those two aspects will require ongoing work throughout. Ideally, both would also be able to produce other visual assets when needed, but we will see if at least a third person is needed regardless for CGs/miscellaneous visual assets.}
+\kohta{A \b{musician} would be cool to have. A few scenes I have planned will require commissioning original songs regardless, but getting more on a regular basis would be nice.}
+\kohta{Having a \b{translator} or, failing that, an \b{editor}, would help my workload a lot. Will have to see if recruiting one makes sense.}
 }
 
+There is a lot of work involved in game development, and team members will be able to work flexibly on whatever interests them or is convenient for the project on the whole. I did tons of different things for the demo, too, from UI design to sound design to taking and editing photographs for backgrounds. Artists with multiple talents are welcome!
 
-\väliotsikko{\span{slashes}{//}FOLLOW THE PROJECT\span{slashes}{//}}
+The project will be funded via Patreon (or similar alternative), funds being split evenly between the team. For this reason, it probably makes sense to start with a pretty minimal crew, with the opportunity to recruit more people later if the project really takes off.
 
-There's a Twitter account at \linkki{https://twitter.com/tiikeritVN}{@tiikeritVN} for important announcements. I might ramble about related topics on \linkki{https://twitter.com/purkkafi}{my personal one}, too.
+Regardless, a lot of work will have to be done with only the vague hope of financial compensation looming somewhere in the future, which is not ideal. To accommodate for this, I want the project to move slowly enough that people can keep up with other creative affairs that pay them better; I'm going to work on some other stuff myself, too.
 
-A Patreon, a Discord server, an itch.io page, and so on will exist closer to release.
+\tauko
+
+That's all, really. This project is something I have already put a lot of effort into, and I hope what I have to present at this point is compelling enough to get potential co-creators interested.
+
+I can be contacted:
+
+\lista_nroton{
+\kohta{via Twitter at \linkki{https://twitter.com/purkkafi/}{@purkkafi}}
+\kohta{via Telegram at \linkki{https://t.me/purkkafi}{@purkkafi}}
+\kohta{via Discord at purkka#2201}
+}
+
+Please reach out for further questions! Show me your work! Tell your friends, family, and neighbors, in case they love drawing naked cat men! Come make this weird game with me, and I will share all my Space Eurovision lore with you. (This is both a promise and a threat.)
