@@ -15,7 +15,7 @@
 \div{frontBoxes}{
 \frontBoxSmall{/kuvasto.html}{Suomeksi 🇫🇮}
 \frontBoxSmall{/catalogue.html}{In English 🇬🇧}
-\frontBox{/lahna/intro/}{Pokémon Lahna: Final Team}{/assets/lahna/intro/party.png}
+\frontBox{/tiikerit/}{Toinen saari | The Other Island}{/assets/tiikerit/itch_cover.png}
 \frontBox{/esseet/kidman_amc.html}{The Nicole Kidman AMC Commercial: A Deep Analysis}{/assets/kidman/key_art.png}
 \frontBox{/esseet/mega_game_2.html}{Unpacking Mega Game II}{/assets/mg2/eivittudiana.png}
 \frontBox{/esseet/swnames.html}{how to generate star wars names (not clickbait)}{/assets/swnames/vitamin1.png}
@@ -26,10 +26,6 @@
 
 \tauko
 
-\väliotsikko{14.3.2022}
+\väliotsikko{1.1.2023}
 
-Front page updated. Just having everything here felt kind of messy, so I made separate Finnish and English index pages. The front page now links to them and also displays some newer stuff prominently.
-
-Some other minor changes too – had to add some JavaScript to deal with the inevitable prospect of the list of new things in the footer getting too large. When I started putting my letterboxd reviews there, it started filling up pretty quickly, and it wouldn't make sense to only retain the 5 or so newest things. In the future, the rest should still be there but collapsed by default.
-
-With the website finally looking somewhat navigable and functional, I'll have time to work on other stuff. Look forward to a fun essay and hopefully some prose in the near future.
+Happy new year! Today I released \linkki{https://purkka.itch.io/the-other-island}{The Other Island}, a demo for the visual novel project I've been working on for some time now. It's based on a short story that was available here a while ago, but edited, translated to English, and with some fantastic graphical contributions from a variety of artists. Go play it!!

@@ -271,6 +271,7 @@ a.hiddenLink {
 
 .frontBoxes .boxContainer:nth-child(3) {
     flex-basis: 100%;
+    text-align: right;
 }
 
 .frontBoxes .boxContainerSmall {
