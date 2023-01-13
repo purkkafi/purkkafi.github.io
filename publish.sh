@@ -3,8 +3,9 @@
 shopt -s globstar
 set -e
 
+beagic --module-path beagic rss beagic/new_local.bgc html/rss.xml
+./aggregate_rss.py
 beagic --module-path beagic new beagic/new_content.bgc beagic/new/new_content.html
-beagic --module-path beagic rss beagic/new_content.bgc html/rss.xml
 beagic --module-path beagic lenkkipuu beagic/new_content.bgc html/lenkkipuu/index.html
 
 for PAGE in pages/**/*.bgc; do

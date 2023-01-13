@@ -24,6 +24,10 @@ a:active { color: var(--text-color); }
     margin-bottom: 1em;
 }
 
+#tree {
+    margin: 1em 0 1em 0;
+}
+
 #tree a {
     text-decoration: none;
 }
@@ -32,7 +36,7 @@ a:active { color: var(--text-color); }
     text-align: center;
     background-color: var(--accent-color);
     color: var(--text-color);
-    margin: 1.5em 0 1.5em 0;
+    margin: 1em 0 1em 0;
     padding: 0.75em 0.5em 0.75em 0.5em;
     border-radius: 1em;
     box-shadow: 0 0 5px black;
@@ -40,6 +44,18 @@ a:active { color: var(--text-color); }
 
 .item:hover {
     background-color: var(--accent-color-light);
+}
+
+a + a.item {
+    margin-top: 1em;
+}
+
+.separator {
+    text-align: center;
+    color: var(--text-color);
+    font-size: 80%;
+    font-variant: small-caps;
+    margin: 1.25em 0 1.25em 0;
 }
 
 #bio {
@@ -81,8 +97,13 @@ a:active { color: var(--text-color); }
 
 #smlinks img {
     width: 2.5em;
+    opacity: 90%;
     margin-right: 0.5em;
     margin-left: 0.5em;
+}
+
+#smlinks img:hover {
+    opacity: 100%;
 }
 
 @media screen and (min-width: 45em) {
