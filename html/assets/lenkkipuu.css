@@ -91,6 +91,10 @@ a + a.item {
     opacity: 0.85;
 }
 
+.smgroup {
+    display: inline-block;
+}
+
 #smlinks a {
     text-decoration: none;
 }
