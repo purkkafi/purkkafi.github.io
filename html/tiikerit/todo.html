@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Engine devlog – purkka.fi</title>
+        
+        
+        <meta property="og:title" content="Engine devlog" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://purkka.fi/todo.html" />
+        <meta property="og:site_name" content="purkka.fi" />
+        <meta property="og:image" content="https://purkka.fi/assets/tiikerit/og_icon.png" />
+        <meta property="og:description" content="An upcoming gay furry visual novel." />
+        
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:domain" content="purkka.fi" />
+        <meta property="twitter:url" content="https://purkka.fi/todo.html" />
+        <meta property="twitter:title" content="Engine devlog" />
+        <meta property="twitter:image" content="https://purkka.fi/assets/tiikerit/og_icon.png" />
+        <meta property="twitter:description" content="An upcoming gay furry visual novel." />
+        
+        
+        <link rel="icon" href="/assets/favicon.png">
+        
+        <link rel="stylesheet" href="/assets/style.css">
+        
+        
+        <script src="/new_links.js" defer></script>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet"> 
+    </head>
+        
+    <body>
+        
+        <div id="container">
+            <div id="leftSide"></div>
+            
+            <div id="middle">
+                <header>
+                    <a id="indexlink" href=/><h1>purkka.fi</h1></a>
+                </header>
+            
+                <article>
+<p><span style="font-size: 80%;"><a href="/tiikerit/">The White Tigers</a> » Engine devlog</span></p>
+
+<h2>Engine devlog</h2>
+
+<p>The engine is still heavily work in progress. This page right here will act as an evolving list of issues I'm aware of and have already addressed; features implemented and bugs fixed will be colored in <span style="color: #0FB800;">green</span>. I hope it will help people keep track of the progress of the game and act as a hub for feature requests and bug reports.</p>
+
+<p>If you see something missing or have an idea, <a href="https://purkka.fi/lenkkipuu/">contact me</a>.</p>
+
+<h3>User-facing features</h3>
+
+<p><b>User experience.</b> Implement missing settings and convenience features enabling players to customize and control their play experience, ideally matching much of what Ren'Py and other visual novel engines offer.</p>
+
+<ul><li><span style="color: #0FB800;"><b>Dynamic text speed setting.</b> Setting to enable/disable punctuation affecting text speed.</span></li><li><b>Hotkeys.</b> Copy useful hotkeys from Ren'Py (for hiding the UI, etc) and enable the player to see and change them in settings.</li><li><b>Rename save banks.</b> Allow players to rename the clusters of save files in addition to the saves themselves (will require changing UI so that it works with longer names).</li><li><b>Android UI improvements.</b> Important functionality accessed via the keyboard or hovering the mouse (including at least some hotkeys and how information about saves is viewed) should work via some other means or have different UI entirely on Android.</li><li><b>Maybe: switch languages in-game.</b> The language setting cannot be changed in-game right now due to some edge cases, questions about partial translations, and architectural decisions. If this feature is requested, solutions can be explored.</li></ul>
+
+<p><b>Accessibility & translation.</b> Implement settings and mechanisms that increase accessibility of the game.</p>
+
+<ul><li><b>Bundle fonts with translations.</b> Allow translations to change the font, enabling use of languages that need letters the default font doesn't provide.</li><li><b>Dyslexia font.</b> Setting for using dyslexia-friendly font.</li><li><b>UI scale setting.</b> In-game setting for switching to the larger UI scale, for now used in the Android builds.</li></ul><h3>Technical changes</h3>
+
+<p><b>Godot 4 upgrade.</b> The project is now using Godot 3.5, the latest stable release, but 4 will bring many useful improvements required for implementing some of the things listed on this page.</p>
+
+<ul><li><b>Move project to Godot 4.</b> When it comes out, transfer the project to Godot 4.</li><li><b>Clean code with Godot 4 features.</b> Taking advantage of Godot 4's features like lambdas and improved handling of cylic references, clean up the entire codebase.</li></ul>
+
+<p><b>Missing features.</b> Some basic VN functionality that the demo didn't need is still missing.</p>
+
+<ul><li><b>Refactor View hierarchy.</b> Clean the code and prepare for new features by coupling standard visual novel features (backgrounds, sprites, etc) into a specific class (StageView?), inherited by Views that use this functionality.</li><li><b>Sprites.</b> Load & display multilayered sprites, script commands to move them and change expression, etc.</li><li><b>Choices.</b> Display screen with a choice, executing specific actions as a result.</li><li><b>Variables.</b> Set and read game state, storing it in the save.</li></ul>
+
+<p><b>Improved asset loading.</b> As Godot 3.5 has some issues related to loading resources concurrently, asset loading works on a load-as-needed basis in the current version and can be made more efficient after the upgrade to 4.</p>
+
+<ul><li><b>Asset cache.</b> Cache loaded assets based on type, discarding old ones when a limit is reached.</li><li><b>Lookahead & concurrent loading.</b> Queue assets for loading in separate thread before they are needed by looking ahead in the script.</li></ul>
+
+<p><b>Script improvements.</b> The script format much of the game's files use can be made stabler and easier to use.</p>
+
+<ul><li><b>Tests for script grammar.</b> Unit tests for the lexer and parser of the script language, ensuring that the grammar stays stable and codifying edge cases.</li><li><b>Better script error messages.</b> Useful error messages for script parse errors; should include the line where the problem is and the engine's best guess about what could be wrong.</li><li><b>Maybe: inline text blocks.</b> Enable prose to be typed directly in the script files since some people prefer it that way – would make translation impossible or require separate mechanism? Worth it?</li></ul>
+
+<p><b>Decouple the game from the engine.</b> As a long-term goal, it would be nice to release the engine to the public, allowing others to use and modify it for their own games. This will require some internal changes and documentation work.</p>
+
+<ul><li><b>Decouple game-specific scenes.</b> Remove references to game-specific scenes (title screen, credits scene, etc) from the engine; define them in configuration files instead.</li><li><b>Rename core classes.</b> Come up with a name for the engine and rename core classes to reflect it, preventing name conflicts and making engine code easier to distinguish.</li><li><b>Improve API.</b> Make sure that classes and functions intended to be used by users of the engine are properly commented, have sensible names, and are documented.</li><li><b>Make engine repository public.</b> Move all game-specific files and assets to another repository, enabling the engine code to be made public.</li><li><b>Other documentation.</b> Document script format, list available features, etc.</li><li><b>Example project.</b> Create public example project that showcases the engine's features, provides examples of their usage, and can be used as a template.</li></ul><h3>Bugs</h3>
+
+<p><b>Known bugs.</b> Bugs I noticed myself or were reported to me by users.</p>
+
+<ul><li><b>Minor visual bug with "continue" icon and outline.</b> The icon that appears to indicate that game should be advanced reacts weirdly with outline; investigate (possible Godot bug?)</li><li><b>Log doesn't remember first line when loading from save.</b> When game is loaded from a save, the log does not store the first line of text. It's an edge case I didn't have time to fix; log functionality should probably be rewritten to address it.</li><li><b>Save renaming weirdness.</b> Renaming a save appears to sometimes affect other saves; investigate.</li><li><b>Android: Save thumbnails don't display.</b> The problem may be in writing or reading the relevant files; investigate.</li></ul>
+
+<p><b>Wontfix.</b> Bugs that were found to be too hard to fix for how minor they are or result from unfixable Godot issues.</p>
+
+<ul><li>None yet.</li></ul>
+                </article>
+                
+                <div class="hr"></div>
+                <footer>
+                    <div class="footerSection">
+                        <p>uutta • new</p>
+                        <div id="newLinks"><span class="newLink"><a href="https://letterboxd.com/purkka/film/19/">Review: 19</a><br>21.1.2023<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/leningrad-cowboys-go-america/">Review: Leningrad Cowboys Go America</a><br>14.1.2023<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/avatar-the-way-of-water/">Review: Avatar: The Way of Water</a><br>3.1.2023<br></span><span class="newLink"><a href="https://purkka.itch.io/the-other-island">The Other Island</a><br>1.1.2023<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/glass-onion-a-knives-out-mystery/">Review: Glass Onion: A Knives Out Mystery</a><br>27.12.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/bones-and-all/">Review: Bones and All</a><br>30.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/the-blue-caftan/">Review: The Blue Caftan</a><br>30.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/bros/">Review: Bros</a><br>30.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/the-howling/">Review: The Howling</a><br>19.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/the-redeemers/">Review: The Redeemers</a><br>18.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/battle-beyond-the-stars/">Review: Battle Beyond the Stars</a><br>16.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/moneyboys/">Review: Moneyboys</a><br>5.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/mascarpone-2022/">Review: Mascarpone</a><br>5.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/private-desert/">Review: Private Desert</a><br>5.11.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/house-of-wax/">Review: House of Wax</a><br>29.10.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/triangle-of-sadness/">Review: Triangle of Sadness</a><br>25.10.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/night-at-the-crossroads/">Review: Night at the Crossroads</a><br>20.10.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/avatar/">Review: Avatar</a><br>17.10.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/three-thousand-years-of-longing/">Review: Three Thousand Years of Longing</a><br>6.10.2022<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/list/ra-2022/">R&amp;A 2022</a><br>26.9.2022<br></span></div>
+                    </div>
+                    
+                    <div class="footerSection">
+                        <p>purkka.fi</p>
+                        <p>
+                        <a href=/kuvasto.html>kuvasto</a>
+                        •
+                        <a href=/catalogue.html>catalogue</a>
+                        </p>
+                        <p>
+                        <a href=/tietoja.html>tietoja</a>
+                        •
+                        <a href=/about.html>about</a>
+                        </p>
+                        <p><a href=/lenkkipuu/>lenkkipuu</a></p>
+                        <p><a href=/rss.html>rss</a></p>
+                    </div>
+                    
+                    <div class="footerSection">
+                        <p>linkkejä • links</p>
+                        
+                        <div id="socials">
+                            <a href=https://twitter.com/purkkafi target="_blank"><img src="/assets/smicons/tw.png" alt="Twitter" title="Twitter"></a>
+                            <a href=https://github.com/mikkotampio target="_blank"><img src="/assets/smicons/gh.png" alt="GitHub" title="GitHub"></a>
+                            <a href=https://letterboxd.com/purkka/ target="_blank"><img src="/assets/smicons/lbd.png" alt="Letterboxd" title="Letterboxd"></a>
+                            <a href=https://t.me/purkkafi target="_blank"><img src="/assets/smicons/tg.png" alt="Telegram" title="Telegram"></a>
+                            <a href=https://retrospring.net/@purkka target="_blank"><img src="/assets/smicons/rs.png" alt="Retrospring" title="Retrospring"></a>
+                        </div>
+                        
+                        <p>ystävät • friends</p>
+                        
+                        <p><a href="https://cyclopicbricks.blogspot.com/">Cyclopic Bricks</a></p>
+                        
+                        <p><a href="https://www.aleksisshi.com/">Aleksis Shi</a></p>
+                        
+                        <p><a href="https://myanimallist.net/">MyAnimalList</a></p>
+                        
+                        <p><a href="http://sotlaasa.portfoliobox.net/">Santeri Laasanen</a></p>
+                    </div>
+                </footer>
+            </div>
+            
+            <div id="rightSide"></div>
+        </div>
+    </body>
+</html>
