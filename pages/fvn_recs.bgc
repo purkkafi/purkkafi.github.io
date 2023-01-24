@@ -1,0 +1,129 @@
+\global{\title}{FVN Reviews & Recommendations}
+\global{\og_title}{FVN Reviews & Recommendations}
+\global{\og_description}{Reviews of furry visual novels.}
+
+\define{\arvio}{1}{
+\raw{<details>
+    <summary>\b{Show Review}</summary>}
+
+\1
+
+\raw{</details>}}
+
+\otsikko{FVN Reviews & Recommendations}
+
+I recently started reviewing and rating furry visual novels I've played on Itch, but since the platform is not ideal for that (requiring you to follow someone to see their reviews), here's a more accessible compilation of my takes. It's a list of games and short reviews of them split into three categories:
+
+\lista_nroton{
+\kohta{\b{Can Recommend} for finished works or projects far enough that I feel comfortable giving a recommendation}
+\kohta{\b{Upcoming & Promising} for newer games that I like and am excited to see more of}
+\kohta{\b{Mixed Feelings} for projects I wasn't personally into but feel like may appeal to others}
+}
+
+I'll also link any longer pieces I've written about the games – hoping to do some more soon. \linkki{https://purkka.fi/lenkkipuu/}{Let me know} if you're aware of other writing (reviews, essays, analysis, etc) that would be cool to display here.
+
+
+
+
+
+\kategoria{Can Recommend}
+
+<iframe height="167" frameborder="0" src="https://itch.io/embed/708589?dark=true" width="100%"><a href="https://dawn-chorus.itch.io/dawn-chorus">Dawn Chorus by Dawn Chorus</a></iframe>
+
+\arvio{
+\i{(Review based on v0.26)}
+
+On a purely conceptual level, you could be skeptical about the sheer number of routes in this game, especially considering that their overall plotlines seem pretty similar (at least as of day 2). Somehow, though, it all ends up working pretty well!
+
+I think it has a lot to do with how much effort was put into creating a diverse cast of characters whose personalities, circumstances, and histories with the protagonist lead into very different takes on the same dating sim premise. The smart choice of a grounded, specific real-world setting helps – questions of culture, language, and education factor a lot into the characters feeling as distinct as they do. And it's just cool that it feels like there's something for every player to like.
+
+The writing is also just very good, the dialogue in particular. All of the cast have clearly defined voices, and it always feels like a lot of thought was put into creating interesting moments of different characters interacting together, both in terms of comedy and drama. I'm very interested in seeing what kinds of situations arise in the future as the plot moves on; it's another advantage of the huge cast.
+
+Need to complement the asset work, too. The relaxing soundtrack fits the tone perfectly, and the art is all very pretty, even if the sheer disconnect between the twinky sprites and the unbelievably ripped CGs is slightly funny. I don't feel like there's much to be critical of, honestly. Maybe it would be nice if the routes branched out and had less repeated content, but I guess that is just going to depend on how the main plot ends up developing. Cannot recommend Dawn Chorus enough for those looking for cozy, slice-of-life-y romance.
+}
+
+\väli{2}
+
+<iframe frameborder="0" src="https://itch.io/embed/432849?dark=true" width="100%" height="167"><a href="https://echoproject.itch.io/echo">Echo by The Echo Project</a></iframe>
+
+\b{See also:} \linkki{/esseet/echo_route_choice.html}{Close Reading Echo's Route Choice}
+
+\arvio{
+Still THE furry visual novel to me. Haven't come across anything else that feels like a masterpiece of its medium in the same way – it uses the route-based structure and the limited game mechanics so interestingly. The characters are such a compelling cast of complicated people, the horror mysteries are engaging, and the strongly established setting grounds the game in a place and time, making it very emotionally resonant in its description of growing up queer in the 2000s.
+
+Echo shows its age in how the writing clearly improves towards the routes that were completed later and in how the production values fall below other Echo Project games. Still, there's something charming about the art style, and the original soundtrack is really good, too.
+
+An easy recommendation for anyone who can handle the horror elements; it's both a great story and a fantastic journey into the formal and narrative possibilities of the medium.
+}
+
+\väli{2}
+
+<iframe width="100%" height="167" frameborder="0" src="https://itch.io/embed/1064528?dark=true"><a href="https://jerichowo.itch.io/remember-the-flowers">Remember the Flowers by Jericho, Azzy-Lionblood, Alusiren</a></iframe>
+
+\arvio{
+\i{(Review based on build 13)}
+
+Love almost everything about this, the visuals & music in particular. The character designs are some of my favorite in any VN; the use of color in fantastic, and the designs of the main characters look unique and communicate a lot visually while still feeling like they belong in the same world. The mix of different art styles is nice, and how each is used feels purposeful.
+
+The extensive use of photo backgrounds that seem out of place in the futuristic setting could be seen as a flaw, given that the worldbuilding is otherwise very good at making the world feel like a distinct place, but I kind of like the uncanny effect it creates. Can't really criticize where the game focuses its resources on, either; the graphical presentation feels like a huge part of why many scenes land so hard. Remember the Flowers puts the "visual" in "visual novel" in a way many games don't.
+
+The writing is consistently good. The first arc feels like the tightest & most focused one, which I think may be due to how naturally it intertwines plot, worldbuilding, and character development. Instead of communicating characterization through story, the later parts have a bad habit of relying on what feel like direct infodumps, and Cooper's character introduction remains the smoothest overall. In general, there's also a slight lack of momentum after the big twist. I'm hoping the next arc regains the strong sense of direction of the first parts – their slice of life-y hangout scenes were more engaging due to how purposeful every scene felt, both on a micro and macro level.
+
+But this is a small flaw in a story that, on the whole, really succeeds at spinning a fairly generic premise into very interesting directions. Though I may grumble about the slower pacing in the latter half of the story, it does manage to establish the characters strongly enough that I'm pretty invested in seeing what happens next.
+}
+
+
+
+
+
+\kategoria{Upcoming & Promising}
+
+<iframe width="100%" height="167" frameborder="0" src="https://itch.io/embed/1528993?dark=true"><a href="https://dawntidedev.itch.io/dawntide">Dawntide by Choob</a></iframe>
+
+\arvio{
+\i{(Review based on chapter 1)}
+
+Visuals & presentation seem to be the the main appeal of the game, and they're great. The aesthetic looks fresh, not being something you see that often in the genre, and is nicely reflected in the user interface. While the sprites are good, the simple but gorgeous backgrounds in particular do a lot of work to establish the mood and style of the game.
+
+There's maybe not enough story in the first build to get me invested yet, but it's promising. The character introductions are smooth, telling you just enough, and the prose is really good in the parts where it shifts into a more poetic mode. What made me curious to see where the story is going was the clear sense of direction for Riley's arc; at this point, though, the other characters seem less well defined.
+
+Though this is more of a personal preference, with how many choices with (hidden) consequences the first chapter has for its short length, the game already feels complicated in structure. I'm interested in seeing how the final route choice will play out, given that some character setup is hidden in branches the player might not see. It's a hard balance to strike.
+
+Though it doesn't feel like it shows its entire hand yet, it's a project with lots of potential; very excited to see more.
+}
+
+
+
+
+
+\kategoria{Mixed Feelings}
+
+<iframe height="167" frameborder="0" src="https://itch.io/embed/1784627?dark=true" width="100%"><a href="https://horrorbuns.itch.io/clawstar-wrestling">Clawstar Wrestling by horrorbuns</a></iframe>
+
+\arvio{
+The visuals, first of all, were great. I liked how the photos and illustrated backgrounds were edited, making them look cohesive together, and the sprites were nice. Having so many CGs felt worth it, since they complemented the descriptions of action very well.
+
+Unfortunately, I wasn't into the writing as much. I guess my main criticism is that I wish the game would have trusted the reader more and been more comfortable with subtlety. The character writing, in particular, suffers a lot from this – there are some occasions when the narration or dialogue repeats what the other just said or just states a pretty obvious implication out loud. It could have been fun to linger in the ambiguity a bit more, making the reader do more guesswork about what the characters really think about themselves and each other.
+
+It's a bit messy structurally, too. For what is essentially romance, the story is weirdly unconcerned with romantic tension; it feels like we're 90 % on our way to the romance at the start, and the two-week timeskip jumps over some stuff that would have been cool to see, even in some sort of montage. It doesn't help that so much happens during the first day, which contains some awkward transitions due to characters conveniently being in places just when they're needed. Could the game maybe have jumped around more and covered a larger span of time, providing more of a feeling of things developing and making the climax stronger?
+
+As a single, pretty pedantic note, the game sometimes uses double question marks (??), which isn't really done in English as far as I know (but being an ESL speaker, I might be full of shit here). It also felt like a slightly overused piece of punctuation, but maybe it just jumped out because of (maybe) being a mistake.
+
+Still, the final result obviously has its audience, and I'll gladly stick around for future installments to see how the project develops. It's got a lot of promise, even if the writing didn't impress me yet.
+}
+
+\väli{2}
+
+<iframe height="167" frameborder="0" src="https://itch.io/embed/1806560?dark=true" width="100%"><a href="https://simonratfilled.itch.io/to-whom-i-loved">To Whom I Loved by SimonRatFilled</a></iframe>
+
+\arvio{
+\i{(Review based on version 0.0)}
+
+The visuals were great, but though the prose was decent, I was let down my the writing on the whole.
+
+The sudden narrative shifts were jarring. For this kind of thing to succeed, I think the writing needs to work harder in order to set up and telegraph what's coming up. This pretty short build felt like a mishmash of three different stories with their own genres and tones, and the transitions between them were pretty awkward – it was not a particularly smooth reading experience.
+
+Also, the game splitting some lines into multiple screens by commas felt weird, since it wasn't even done every time. There's a small punctuation inconsistency with it, too; the rest of the sentance starts with capitals sometimes but not always. Not sure why this was done, honestly. If it's for the sake of rhythm or something, I recommend thinking of another way to do what you're trying to do, as this was just kind of weird and annoying to read.
+
+Hard to give more concrete feedback, since the story didn't really get anywhere yet, but I feel like reworking the start to be more careful with tone and more clear about how all the different plot elements play together would help a lot. The backgrounds and the sprites looked nice enough, and I would gladly see them in a slightly better written version of the game.
+}

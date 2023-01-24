@@ -18,6 +18,7 @@ Perusmuotoilut.
 Otsikot. "otsikko" on sivun artikkelin/tms sisällön otsikko, "väliotsikko" sen väliotsikko.
 
 \define{\otsikko}{1}{\raw{<h2>\1</h2>}}
+\define{\kategoria}{1}{\raw{<h2 class="category">\1</h2>}}
 \define{\väliotsikko}{1}{\raw{<h3>\1</h3>}}
 
 

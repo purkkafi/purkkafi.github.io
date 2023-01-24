@@ -86,6 +86,11 @@ hr {
 	margin: 3em auto;
 }
 
+h2.category {
+    text-align: center;
+    margin: 2em 0 2em 0;
+}
+
 blockquote {
     border-left: var(--text-color) 0.25em solid;
     padding-left: 1em;
