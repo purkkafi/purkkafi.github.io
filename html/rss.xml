@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Burrows &amp; Lucent Depths</title>
+        <description>New FVNs reviewed.</description>
+        <link>https://purkka.fi/fvn_recs.html</link>
+        <guid>https://purkka.fi/fvn_recs.html</guid>
+        <pubDate>Mon, 06 Feb 2023 19:49:53 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Reviews &amp; Recommendations</title>
         <description>Reviews of furry visual novels.</description>
         <link>https://purkka.fi/fvn_recs.html</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/avatar/</link>
         <guid>https://letterboxd.com/purkka/film/avatar/</guid>
         <pubDate>Mon, 17 Oct 2022 14:56:09 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Three Thousand Years of Longing</title>
-        <description>Three Thousand Years of Longing, 2022 - ★★½</description>
-        <link>https://letterboxd.com/purkka/film/three-thousand-years-of-longing/</link>
-        <guid>https://letterboxd.com/purkka/film/three-thousand-years-of-longing/</guid>
-        <pubDate>Fri, 7 Oct 2022 07:15:14 +1300</pubDate>
     </item>
     
     </channel>
