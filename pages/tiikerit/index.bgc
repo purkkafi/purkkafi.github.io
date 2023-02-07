@@ -3,9 +3,8 @@
 \global{\og_description}{An upcoming gay furry visual novel.}
 \global{\og_image}{https://purkka.fi/assets/tiikerit/og_icon.png}
 
-\keskitys{<span style="font-size: 75%">Demo available now!</span>
-
-<iframe src="https://itch.io/embed/1827346?dark=true" width="552" height="167" frameborder="0"><a href="https://purkka.itch.io/the-other-island">The Other Island by purkka</a></iframe>}
+\keskitys{<span style="font-size: 75%">Demo available now!</span>}
+\opengraph_preview{https://purkka.itch.io/the-other-island}
 
 \väli{1}
 

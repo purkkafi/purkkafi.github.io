@@ -307,6 +307,63 @@ a.hiddenLink {
     opacity: 0.85;
 }
 
+.opengraphLink {
+    text-decoration: none;
+}
+
+.opengraphPreview {
+    display: flex;
+    min-height: 9em;
+    background: var(--bg-accent1-color);
+    box-shadow: 0 0 1em black;
+}
+
+.opengraphThumb {
+    padding: 0.5em;
+    border: 1px solid var(--bg-accent2-color);
+    width: 11em;
+    object-fit: scale-down;
+}
+
+.opengraphContent {
+    width: 100%;
+    padding: 0.5em;
+    color: var(--text-color);
+    border: 1px solid var(--bg-accent2-color);
+    border-left: 0;
+    display: flex;
+    flex-direction: column;
+    font-size: 80%;
+}
+
+.opengraphText {
+    margin: 0;
+    flex: 1;
+}
+
+.opengraphTitle {
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.opengraphBy {
+    font-weight: bold;
+}
+
+.opengraphDescription {
+    font-style: italic;
+}
+
+.opengraphSiteButton {
+    width: fit-content;
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    border-radius: 0.5em;
+    padding: 0.5em;
+    margin-top: 1em;
+    font-weight: bold;
+}
+
 @media screen and (min-width: 45em) {
     body {
         font-size: 1.15em;

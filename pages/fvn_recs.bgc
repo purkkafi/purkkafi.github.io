@@ -3,7 +3,7 @@
 \global{\og_description}{Reviews of furry visual novels.}
 
 \define{\arvio}{1}{
-\raw{<details>
+\raw{<details style="margin: 1em 0 2em 0;">
     <summary>\b{Show Review}</summary>}
 
 \1
@@ -28,7 +28,7 @@ I'll also link any longer pieces I've written about the games – hoping to do s
 
 \kategoria{Can Recommend}
 
-<iframe height="167" frameborder="0" src="https://itch.io/embed/708589?dark=true" width="100%"><a href="https://dawn-chorus.itch.io/dawn-chorus">Dawn Chorus by Dawn Chorus</a></iframe>
+\opengraph_preview{https://dawn-chorus.itch.io/dawn-chorus}
 
 \arvio{
 \i{(Review based on v0.26)}
@@ -42,9 +42,7 @@ The writing is also just very good, the dialogue in particular. All of the cast 
 Need to complement the asset work, too. The relaxing soundtrack fits the tone perfectly, and the art is all very pretty, even if the sheer disconnect between the twinky sprites and the unbelievably ripped CGs is slightly funny. I don't feel like there's much to be critical of, honestly. Maybe it would be nice if the routes branched out and had less repeated content, but I guess that is just going to depend on how the main plot ends up developing. Cannot recommend Dawn Chorus enough for those looking for cozy, slice-of-life-y romance.
 }
 
-\väli{2}
-
-<iframe frameborder="0" src="https://itch.io/embed/432849?dark=true" width="100%" height="167"><a href="https://echoproject.itch.io/echo">Echo by The Echo Project</a></iframe>
+\opengraph_preview{https://echoproject.itch.io/echo}
 
 \b{See also:} \linkki{/esseet/echo_route_choice.html}{Close Reading Echo's Route Choice}
 
@@ -56,9 +54,7 @@ Echo shows its age in how the writing clearly improves towards the routes that w
 An easy recommendation for anyone who can handle the horror elements; it's both a great story and a fantastic journey into the formal and narrative possibilities of the medium.
 }
 
-\väli{2}
-
-<iframe width="100%" height="167" frameborder="0" src="https://itch.io/embed/1064528?dark=true"><a href="https://jerichowo.itch.io/remember-the-flowers">Remember the Flowers by Jericho, Azzy-Lionblood, Alusiren</a></iframe>
+\opengraph_preview{https://jerichowo.itch.io/remember-the-flowers}
 
 \arvio{
 \i{(Review based on build 13)}
@@ -78,7 +74,7 @@ But this is a small flaw in a story that, on the whole, really succeeds at spinn
 
 \kategoria{Upcoming & Promising}
 
-<iframe frameborder="0" src="https://itch.io/embed/1246903?dark=true" width="100%" height="167"><a href="https://nikkonator5000.itch.io/burrows">Burrows by Nikko</a></iframe>
+\opengraph_preview{https://nikkonator5000.itch.io/burrows}
 
 \arvio{
 \i{(Review based on 0.7)}
@@ -94,7 +90,7 @@ On the whole, it's a fantastically paced game, but I feel like a slower slide to
 Between the intriguing mystery plot and the high production values, it's clearly a VN worth following, and I'm very happy about how it's coming along (the update to the prologue, for instance, was a massive improvement). Can't wait to see more.
 }
 
-<iframe width="100%" height="167" frameborder="0" src="https://itch.io/embed/1528993?dark=true"><a href="https://dawntidedev.itch.io/dawntide">Dawntide by Choob</a></iframe>
+\opengraph_preview{https://dawntidedev.itch.io/dawntide}
 
 \arvio{
 \i{(Review based on chapter 1)}
@@ -114,7 +110,7 @@ Though it doesn't feel like it shows its entire hand yet, it's a project with lo
 
 \kategoria{Mixed Feelings}
 
-<iframe height="167" frameborder="0" src="https://itch.io/embed/1784627?dark=true" width="100%"><a href="https://horrorbuns.itch.io/clawstar-wrestling">Clawstar Wrestling by horrorbuns</a></iframe>
+\opengraph_preview{https://horrorbuns.itch.io/clawstar-wrestling}
 
 \arvio{
 The visuals, first of all, were great. I liked how the photos and illustrated backgrounds were edited, making them look cohesive together, and the sprites were nice. Having so many CGs felt worth it, since they complemented the descriptions of action very well.
@@ -128,15 +124,13 @@ As a single, pretty pedantic note, the game sometimes uses double question marks
 Still, the final result obviously has its audience, and I'll gladly stick around for future installments to see how the project develops. It's got a lot of promise, even if the writing didn't impress me yet.
 }
 
-\väli{2}
-
-<iframe src="https://itch.io/embed/1470951?dark=true" width="100%" height="167" frameborder="0"><a href="https://rekiron.itch.io/lucent-depths">Lucent Depths by Rekiron</a></iframe>
+\opengraph_preview{https://rekiron.itch.io/lucent-depths}
 
 \arvio{
 Short and sweet. The prose is nice to read, and the style the sprites are drawn in is minimalistic but looks good. The plot is kind of simple and vague, feeling little more than a vehicle for the character moments, but I think the game does manage to throw in enough details to feel like it happens to characters living in a world.
 }
 
-<iframe height="167" frameborder="0" src="https://itch.io/embed/1806560?dark=true" width="100%"><a href="https://simonratfilled.itch.io/to-whom-i-loved">To Whom I Loved by SimonRatFilled</a></iframe>
+\opengraph_preview{https://simonratfilled.itch.io/to-whom-i-loved}
 
 \arvio{
 \i{(Review based on version 0.0)}

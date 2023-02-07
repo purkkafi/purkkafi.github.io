@@ -189,6 +189,14 @@ Neurouutisten pohja.
 
 
 
+Opengraph-esikatselu.
+
+\define{\opengraph_preview}{1}{
+\raw{\include{opengraph/\1}}
+}
+
+
+
 Käytettävä malline.
 
 \global{\template_path}{generate_pages/template.html}

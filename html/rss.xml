@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: Puss in Boots: The Last Wish</title>
+        <description>Puss in Boots: The Last Wish, 2022 - ★★½ (contains spoilers)</description>
+        <link>https://letterboxd.com/purkka/film/puss-in-boots-the-last-wish/</link>
+        <guid>https://letterboxd.com/purkka/film/puss-in-boots-the-last-wish/</guid>
+        <pubDate>Tue, 7 Feb 2023 19:10:16 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Burrows &amp; Lucent Depths</title>
         <description>New FVNs reviewed.</description>
         <link>https://purkka.fi/fvn_recs.html</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/night-at-the-crossroads/</link>
         <guid>https://letterboxd.com/purkka/film/night-at-the-crossroads/</guid>
         <pubDate>Fri, 21 Oct 2022 09:42:46 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Avatar</title>
-        <description>Avatar, 2009 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/avatar/</link>
-        <guid>https://letterboxd.com/purkka/film/avatar/</guid>
-        <pubDate>Mon, 17 Oct 2022 14:56:09 +1300</pubDate>
     </item>
     
     </channel>

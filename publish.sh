@@ -3,6 +3,7 @@
 shopt -s globstar
 set -e
 
+./read_opengraph.py
 beagic --module-path beagic rss beagic/new_local.bgc html/rss.xml
 ./aggregate_rss.py
 beagic --module-path beagic new beagic/new_content.bgc beagic/new/new_content.html
