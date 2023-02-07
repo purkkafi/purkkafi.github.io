@@ -319,9 +319,10 @@ a.hiddenLink {
 }
 
 .opengraphThumb {
-    padding: 0.5em;
     border: 1px solid var(--bg-accent2-color);
     width: 11em;
+    padding: 0.5em;
+    position: relative;
     object-fit: scale-down;
 }
 
@@ -367,5 +368,28 @@ a.hiddenLink {
 @media screen and (min-width: 45em) {
     body {
         font-size: 1.15em;
+    }
+}
+
+@media screen and (max-width: 35em) {
+    .opengraphThumb {
+        padding: 0;
+        width: 0;
+        border-left: 0;
+    }
+    
+    .opengraphPreview {
+        background-image: var(--og-img);
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+    }
+    
+    .opengraphText {
+        text-shadow: 0 0 0.5em black, 0 0 0.25em black, 0 0 0.1em black;
+    }
+    
+    .opengraphSiteButton {
+        box-shadow: 0 0 0.5em black;
     }
 }
