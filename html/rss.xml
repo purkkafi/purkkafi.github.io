@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Polar Night</title>
+        <description>more like Polar MIGHT enjoy this good video game</description>
+        <link>https://purkka.fi/fvn_recs.html</link>
+        <guid>https://purkka.fi/fvn_recs.html</guid>
+        <pubDate>Wed, 08 Feb 2023 01:50:36 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: Puss in Boots: The Last Wish</title>
         <description>Puss in Boots: The Last Wish, 2022 - ★★½ (contains spoilers)</description>
         <link>https://letterboxd.com/purkka/film/puss-in-boots-the-last-wish/</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/triangle-of-sadness/</link>
         <guid>https://letterboxd.com/purkka/film/triangle-of-sadness/</guid>
         <pubDate>Wed, 26 Oct 2022 12:56:55 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Night at the Crossroads</title>
-        <description>Night at the Crossroads, 1932 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/night-at-the-crossroads/</link>
-        <guid>https://letterboxd.com/purkka/film/night-at-the-crossroads/</guid>
-        <pubDate>Fri, 21 Oct 2022 09:42:46 +1300</pubDate>
     </item>
     
     </channel>

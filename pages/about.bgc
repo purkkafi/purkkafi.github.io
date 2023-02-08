@@ -7,7 +7,7 @@
 \kuva_kuvateksti{bio/purkkafi.png}{A screenshot of purkka.fi.}{A screenshot of purkka.fi, the website you're viewing right now.}
 
 \div{bioFlexDescription}{
-\b{purkka.fi} is this website. It has been described as "starkly minimalistic", "a Web 1.0 LARP" and "surprisingly functional on mobile".
+\b{purkka.fi} is this website. It has been described as "starkly minimalistic", "a Web 1.0 LARP", and "surprisingly functional on mobile".
 
 For now, the best method for keeping up with whatever happens on this website is \linkki{/rss.html}{the RSS feed}.
 }
