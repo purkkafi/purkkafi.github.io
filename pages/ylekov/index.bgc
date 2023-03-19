@@ -7,7 +7,7 @@
 
 \väli{2}
 
-Ylekov on ylläpitämäni Twitter-botti. Sen lähdekoodi on saatavilla \linkki{https://github.com/mikkotampio/ylekov}{GitHubissa}. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.
+Ylekov on ylläpitämäni Twitter-botti. Sen lähdekoodi on saatavilla \linkki{https://github.com/purkkafi/ylekov}{GitHubissa}. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.
 
 Katso myös: \linkki{/ylekov/neurouutiset/}{Neurouutiset}
 
