@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Raincheck</title>
+        <description>this really checks my rain</description>
+        <link>https://purkka.fi/fvn_recs.html</link>
+        <guid>https://purkka.fi/fvn_recs.html</guid>
+        <pubDate>Wed, 03 May 2023 18:24:09 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Arches &amp; Soulcreek</title>
         <description>this really souls my creek</description>
         <link>https://purkka.fi/fvn_recs.html</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/evangelion-30-you-can-not-redo/</link>
         <guid>https://letterboxd.com/purkka/film/evangelion-30-you-can-not-redo/</guid>
         <pubDate>Sat, 18 Mar 2023 06:06:34 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Evangelion: 2.0 You Can (Not) Advance</title>
-        <description>Evangelion: 2.0 You Can (Not) Advance, 2009 - ★★★★</description>
-        <link>https://letterboxd.com/purkka/film/evangelion-20-you-can-not-advance/</link>
-        <guid>https://letterboxd.com/purkka/film/evangelion-20-you-can-not-advance/</guid>
-        <pubDate>Sat, 18 Mar 2023 05:43:34 +1300</pubDate>
     </item>
     
     </channel>

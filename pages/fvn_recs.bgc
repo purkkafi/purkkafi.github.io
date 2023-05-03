@@ -196,6 +196,35 @@ There are some interesting ideas in play, particularly with structure and worldb
 Short and sweet. The prose is nice to read, and the style the sprites are drawn in is minimalistic but looks good. The plot is kind of simple and vague, feeling little more than a vehicle for the character moments, but I think the game does manage to throw in enough details to feel like it happens to characters living in a world.
 }
 
+\opengraph_preview{https://raincheck.itch.io/raincheck}
+
+\arvio{
+<i>(Review based on build 1.0)</i>
+
+There's nothing to complain about in the art – I especially appreciated the dynamic title screen! – and the music is pretty neat, but writing-wise, <i>Raincheck</i> is unfortunately just kind of a slog to get through.
+
+In terms of structure, it seems like a bad idea for the first build of a mystery/thriller game to be so sparing with the mysteries. I can tell that there is something going on with the rain thing (at least in how it relates to the themes of luck and possibility), but the rest of the strange happenings the plot opens with don't really coalesce into a narrative hook. So far, itfeels less like a mystery story with interesting, concrete questions both the reader and the protagonist are investigating and more like a passive guided tour through a few hints about weird events. Regardless of how future builds shape up, I think the game would benefit massively from getting to the point faster; the beginning, with nothing immediately intriguing in it, feels more like the start of a slice-of-life romance story.
+
+On the sentence level, meanwhile, the prose is not bad on the whole, but pacing continues to be the weak point. As nearly everything is described at such length, the story is unable to foreground the important stuff; it should be a lot more comfortable summarizing unimportant details to make the reader pay attention to whatever actually matters. It kind of feels like a "show, don't tell" overdose to me – what could be told in one sentence often gets shown in five instead, harming the pace and flow of the narration. There's a lot of room for tightening, including outright cutting or moving a few scenes that don't really lead to anything in the first build.
+
+Also, there is a lot of repetition throughout. Some examples:
+
+\lista_nroton{
+
+\kohta{The purpose of the protagonist's visit is first told in internal monologue, then repeated in the dialogue with the cab driver, then finally mentioned again by the receptionist. Once would be enough.}
+
+\kohta{In the lost wallet scene, the idea of it perhaps being at the front desk is repeated a few times.}
+
+\kohta{There are a few instances of dialogue immediately repeating what was just narrated. For example: "I didn't expect to see Rou here at all..." -> "Hey, Rou! I didn't know you'd be here."}
+
+}
+
+Due to all of this, the writing feels pretty raw and imprecise in what it is trying to do, despite the game apparently having multiple cowriters/editors​. The kind of editorial exercise I would recommend for it is just going through all the scenes, thinking about their purposes (moving the plot forward? character moments? mood-setting? introducing or reinforcing motifs? etc.) and then tightening the prose by slimming down everything that doesn't contribute to what you're trying to accomplish. If an action a character does is only an incidental detail, don't spend more than a single sentence on it; if an idea has already been established not too long ago, don't repeat it without adding to it.
+
+Between not really setting up anything especially interesting and being glacially paced, the first build did not feel like a good first impression – I'd say that it could use substantial reworking. My best wishes for the project regardless; the concept is not bad, and I'll probably revisit the game after it is further along.
+
+}
+
 \opengraph_preview{https://simonratfilled.itch.io/to-whom-i-loved}
 
 \arvio{
