@@ -7,6 +7,22 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: The Super Mario Bros. Movie</title>
+        <description>The Super Mario Bros. Movie, 2023 - ★½</description>
+        <link>https://letterboxd.com/purkka/film/the-super-mario-bros-movie/</link>
+        <guid>https://letterboxd.com/purkka/film/the-super-mario-bros-movie/</guid>
+        <pubDate>Sat, 20 May 2023 11:40:00 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Dungeons & Dragons: Honor Among Thieves</title>
+        <description>Dungeons &amp; Dragons: Honor Among Thieves, 2023 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/dungeons-dragons-honor-among-thieves/</link>
+        <guid>https://letterboxd.com/purkka/film/dungeons-dragons-honor-among-thieves/</guid>
+        <pubDate>Fri, 19 May 2023 12:10:39 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Hearts Faster Than Light</title>
         <description>can't wait for the fighting game spin-off Hearts Faster Than Fight</description>
         <link>https://purkka.fi/fvn_recs.html</link>
@@ -32,7 +48,7 @@
     
     <item>
         <title>2023 ranked</title>
-        <description><ol> <li> <a href="https://letterboxd.com/film/sisu-2022/">Sisu</a> </li> <li> <a href="https://letterboxd.com/film/cocaine-bear/">Cocaine Bear</a> </li> <li> <a href="https://letterboxd.com/film/ghosted-2023/">Ghosted</a> </li> </ol></description>
+        <description><ol> <li> <a href="https://letterboxd.com/film/dungeons-dragons-honor-among-thieves/">Dungeons &amp; Dragons: Honor Among Thieves</a> </li> <li> <a href="https://letterboxd.com/film/sisu-2022/">Sisu</a> </li> <li> <a href="https://letterboxd.com/film/cocaine-bear/">Cocaine Bear</a> </li> <li> <a href="https://letterboxd.com/film/the-super-mario-bros-movie/">The Super Mario Bros. Movie</a> </li> <li> <a href="https://letterboxd.com/film/ghosted-2023/">Ghosted</a> </li> </ol></description>
         <link>https://letterboxd.com/purkka/list/2023-ranked/</link>
         <guid>https://letterboxd.com/purkka/list/2023-ranked/</guid>
         <pubDate>Thu, 27 Apr 2023 08:35:48 +1200</pubDate>
@@ -148,22 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-fish-tale/</link>
         <guid>https://letterboxd.com/purkka/film/the-fish-tale/</guid>
         <pubDate>Sun, 19 Mar 2023 08:05:19 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Autobiography</title>
-        <description>Autobiography, 2022 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/autobiography-2022/</link>
-        <guid>https://letterboxd.com/purkka/film/autobiography-2022/</guid>
-        <pubDate>Sun, 19 Mar 2023 07:27:55 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Glorious Ashes</title>
-        <description>Glorious Ashes, 2022 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/glorious-ashes/</link>
-        <guid>https://letterboxd.com/purkka/film/glorious-ashes/</guid>
-        <pubDate>Sun, 19 Mar 2023 07:24:01 +1300</pubDate>
     </item>
     
     </channel>

@@ -1,108 +1,160 @@
-\global{\theme}{tiikerit}
+\global{\theme}{y3k}
 
-\define{\sc}{1}{\span{smallCaps}{\1}}
+\div{browserContainer}{
+\div{browserContent}{
 
-\div{ilmoitusContainer}{
-\div{ilmoitus}{
+\div{browserToolbar}{
+    \div{browserToolbarRow}{
+        \div{browserTitle}{⏴Planetaarinen verkko⏵}
+    }
 
-\div{kappale}{olemme \sc{Valkoiset Tiikerit}: slagis (teemme murhia, kidnappauksia, yms) ja bändi (soitamme vitun nopeaa bläkkistä)}
+    \div{browserToolbarRow}{
+        \div{iconButton}{⏴}
+        \div{iconButton}{⟳}
+        \div{iconButton iconUnusable}{⏵}
+        \div{browserAddress}{GTP:~SMILD/VALKOISET-TIIKERIT/ETUSIVU.GH}
+    }
+}
 
-\div{hahmo}{
-\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
-\div{lore}{
+\div{browserPage}{
 
-\sc{Kapteeni "Mau" Maunnerheim}
+<img src="/assets/tiikerit/logo_fi.gif" alt="Valkoiset tiikerit. Bläkkis bändi/slagis."> <b>Viimeksi päivitetty:</b> 18/07/3321. Olet vierailija numero: <img src="/assets/tiikerit/7439.gif" alt="7439"> <img src="/assets/tiikerit/email_fi.png" alt="Laittele S-POSTIA"> Sivusto saatavilla kaikilla sektoreilla. Peilaaja: <span class="fakeLinkSpan">SmildNetti</span>
 
-– solisti, sanoittaja, satanisti
-– karkasi Imperiumin armeijasta epäselvissä olosuhteissa
-– muistaa kaikki Heaviside-gaalan voittajat
-– no ok ehkä viimeiset 100. se on vanha kilpailu
-– varmaan tehnyt sotarikoksia
+\div{center}{<img src="/assets/tiikerit/firebar.gif" alt="">}
 
-♪ \linkki{https://www.youtube.com/watch?v=n0Kon_iUNaI}{Frederik – Mannerheim}
-♪ \linkki{https://www.youtube.com/watch?v=Qv7EiFymgcg}{Buranovskie Babushki – Party for Everybody}
-♪ \linkki{https://www.youtube.com/watch?v=Bq-QuGSaqn8}{vetusta morla – La Cuadratura del Círculo}
-♪ \linkki{https://www.youtube.com/watch?v=rhQftHLS0gw}{Blind Channel – Dark Side}
-♪ \linkki{https://www.youtube.com/watch?v=MhrOZZy7MZw}{vetusta morla – ¡Fiesta Mayor!}
+<b>Olemme <span style="font-size: 120%"><a href="/tiikerit/">Valkoiset Tiikerit</a></span>: slagis (teemme murhia, kidnappauksia, yms) ja bändi (soitamme vitun nopeaa bläkkistä)</b>
+
+\raw{\div{fakeTable}{
+    \div{fakeTableColumn}{
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Uutisia}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Biisejämme}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Keikkakalenteri}}
+    }
+    \div{fakeTableColumn}{
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Linkkejä}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Slagis palvelut}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Muita bläkkis sivuja}}
+    }
+}}
+
+\div{center}{<img src="/assets/tiikerit/firebar.gif" alt="">}
+
+\div{center}{<b>Tässä esittelyssä bändin jäsenet</b>}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/kissa.png" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Mau"</span> / Maunnerheim</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{solisti, sanoittaja, satanisti}
+            \kohta{ensyklopedinen tietämys <span class="tooltip" title="galaksin suurin laulukilpailu">heaviside-gaalan</span> historiasta}
+            \kohta{varmaan tehnyt sotarikoksia}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=n0Kon_iUNaI}{frederik – mannerheim}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=Qv7EiFymgcg}{buranovskie babushki – party for everybody}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=Bq-QuGSaqn8}{vetusta morla – la cuadratura del circulo}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=rhQftHLS0gw}{blind channel – dark side}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=MhrOZZy7MZw}{vetusta morla – ¡fiesta mayor!}}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/kissa.png" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Kali"</span> / Carleca Temmin Kaliron</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{manageri, <span class="tooltip" title="ei edes saa oikeaa palkkaa">täällä sivarissa</span>}
+            \kohta{enimmäkseen laittaa ruokaa}
+            \kohta{<span class="tooltip" title="huonoja mielipiteitä pop-musiikista">galaksin kiireisin musiikkinörtti</span>}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=DTHeKwjdxF8}{maija vilkkumaa – aja!}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=zpcgL7DaTI0}{katy perry – witness}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=kBdEuRJk8iI}{lala salama – miks kukaan ei tuu vantaalle paitsi panemaan?}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=IuY54A3bOmg}{lana del rey – did you know that there's a tunnel under ocean blvd}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=LvmH5kWQ1D8}{vetusta morla – pequeño desastre animal}}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/kissa.png" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Esherat"</span> / Merkaren Tuggil Esherat</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{tuggil-dynastian prinssi pakoteillä}
+            \kohta{bändin juuri ja juuri toiseksi paras kitaristi}
+            \kohta{bändin kepeästi isoimmat tissit}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=UNaSn-V0ADI}{isaac sene – kuuma jäbä}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=PZ-Bq62d6BA}{cats – the rum tum tugger}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=7qgw9wq4aQs}{erika vikman – cicciolina}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=bR4bL1K9Q3Q}{anna eriksson – seurataan johtajaa}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=0APX6DoX-Z8}{vetusta morla – puntos suspensivos}}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/kissa.png" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Terion"</span> / Pausun Meshe Terion</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{korjailee juttuja, paukuttaa rumpuja}
+            \kohta{tuntee <span class="tooltip" title="bändin avaruusalus">Levottoman tuhkimon</span> kuin omat taskunsa}
+            \kohta{rakastaa lautapelejä}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=3H5wjcMX7Po}{dingo – tuulen viemää}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=6aLb6vJ_TkI}{erika vikman – syntisten pöytä}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=aotiW5XJTNg}{stefan – hope}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=-RGiO-a5eGo}{dingo – valkoiset tiikerit}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=-jd8HVE7o3Q}{vetusta morla – al final de la escapada}}
+        }
+    }
+}}
+
+\div{center}{<b>ps. basistia etsitään!!!!!!!! tykitellään*</b>
+
+<span style="font-size: 75%">* khass-yleiskielen smildiläismurteiden muinainen sana, jota black metal -bändit käyttävät etsiessään uusia jäseniä</span>}
+
+
+}
 
 }}
 
-\div{hahmo}{
-\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
-\div{lore}{
+\väli{4}
 
-\sc{Kali}
-
-– "manageri" (mm. laittaa ruokaa)
-– täällä sivarissa
-– ei edes saa oikeaa palkkaa (vittu mitä paskaa)
-– galaksin kiireisin musiikkinörtti
-– blogilla 3000 lukijaa, ei vaikene siitä
-
-♪ \linkki{https://www.youtube.com/watch?v=DTHeKwjdxF8}{Maija Vilkkumaa – Aja!}
-♪ \linkki{https://www.youtube.com/watch?v=zpcgL7DaTI0}{Katy Perry – Witness}
-♪ \linkki{https://www.youtube.com/watch?v=kBdEuRJk8iI}{Lala Salama – Miks kukaan ei tuu Vantaalle paitsi panemaan?}
-♪ \linkki{https://www.youtube.com/watch?v=3K0RzZGpyds}{Taylor Swift – Look What You Made Me Do}
-♪ \linkki{https://www.youtube.com/watch?v=LvmH5kWQ1D8}{vetusta morla – Pequeño Desastre Animal}
-
-}}
-
-\div{hahmo}{
-\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
-\div{lore}{
-
-\sc{Esherat}
-
-– hädin tuskin Tiikerien kolmanneksi paras kitaristi
-– erikoinen kissa
-– prinssi maanpaossa (koska "ei tehnyt enää mieli")
-– suorittanut planeettojenvälisten suhteiden maisteriopinnot
-– ei tiedä itsekään, mitä tekee täällä
-
-♪ \linkki{https://www.youtube.com/watch?v=UNaSn-V0ADI}{Isaac Sene – Kuuma jäbä}
-♪ \linkki{https://www.youtube.com/watch?v=PZ-Bq62d6BA}{Cats – The Rum Tum Tugger}
-♪ \linkki{https://www.youtube.com/watch?v=7qgw9wq4aQs}{Erika Vikman – Cicciolina}
-♪ \linkki{https://www.youtube.com/watch?v=PlVmkBjSYeA}{Grimes – Player of Games}
-♪ \linkki{https://www.youtube.com/watch?v=0APX6DoX-Z8}{vetusta morla – Puntos Suspensivos}
-
-}}
-
-\div{hahmo}{
-\div{kuva}{\kuva{tiikerit/kissa.png}{kissa}}
-\div{lore}{
-
-\sc{Terion}
-
-– korjailee juttuja, soittaa rumpuja
-– vahvoja mielipiteitä slagis-laitoksen historiallisista taustoista
-– tuntee Tiikerien aluksen, \i{Levottoman tuhkimon}, kuin omat taskunsa
-– ja niitä on näissä haalareissa on muuten aika paljon
-– rakastaa lautapelejä
-
-♪ \linkki{https://www.youtube.com/watch?v=6aLb6vJ_TkI}{Erika Vikman – Syntisten pöytä}
-♪ \linkki{https://www.youtube.com/watch?v=3H5wjcMX7Po}{Dingo – Tuulen viemää}
-♪ \linkki{https://www.youtube.com/watch?v=aotiW5XJTNg}{Stefan – Hope}
-♪ \linkki{https://www.youtube.com/watch?v=-RGiO-a5eGo}{Dingo – Valkoiset tiikerit}
-♪ \linkki{https://www.youtube.com/watch?v=-jd8HVE7o3Q}{vetusta morla – Al Final de la Escapada}
-
-}}
-
-\div{kappale}{ps. basistia etsitään!!!!!!!! tykitellään*
-
-<span style="font-size: 75%;">* khass-kielen smildiläismurteen muinainen sana, jota black metal -bändit käyttävät etsiessään uusia jäseniä</span>}
-
-}}
-
-\väli{7}
-
-\div{hahmo protag}{
-\div{kuva}{\kuva{tiikerit/kteeu.png}{kteeu}}
-\div{lore}{
-
-♪ \linkki{https://www.youtube.com/watch?v=EkiNdwWbC64}{Dingo – Lähetyssaarnaaja}
-♪ \linkki{https://www.youtube.com/watch?v=FmRkE8T1Dy8}{vetusta morla – Boca en la Tierra}
-♪ \linkki{https://www.youtube.com/watch?v=K2WU41948ZI}{vetusta morla – Las Salas de Espera}
-♪ \linkki{https://www.youtube.com/watch?v=XzVI1NMx3do}{Dingo – Pistoolisankari}
-♪ \linkki{https://www.youtube.com/watch?v=bpL_gVtL3YQ}{vetusta morla – La Deriva}
-
+\raw{\div{fakeTable fox}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/kteeu.png" alt="">
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=FmRkE8T1Dy8}{vetusta morla – boca en la tierra}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=EkiNdwWbC64}{dingo – lähetyssaarnaaja}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=K2WU41948ZI}{vetusta morla – las salas de espera}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=XzVI1NMx3do}{dingo – pistoolisankari}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=vIjDo9Ndybk}{maija vilkkumaa – jonain päivänä}}
+        }
+    }
 }}
