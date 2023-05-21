@@ -118,7 +118,7 @@
     \div{fakeTableCell memberLore}{
         \lista_nroton{
             \kohta{korjailee juttuja, paukuttaa rumpuja}
-            \kohta{tuntee <span class="tooltip" title="bändin avaruusalus">Levottoman tuhkimon</span> kuin omat taskunsa}
+            \kohta{tuntee <i><span class="tooltip" title="bändin avaruusalus">Levottoman tuhkimon</span></i> kuin omat taskunsa}
             \kohta{rakastaa lautapelejä}
         }
     }

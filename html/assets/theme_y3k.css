@@ -180,3 +180,24 @@ header a h1 {
     filter: invert(100%);
     width: 2.2em;
 }
+
+@media (pointer: coarse), (hover: none) {
+    [title] {
+        position: relative;
+        display: inline-flex;
+        justify-content: center;
+    }
+    [title]:active::after {
+        content: attr(title);
+        position: absolute;
+        top: 150%;
+        color: var(--black);
+        background-color: var(--light-grey);
+        border: 1px solid var(--black);
+        box-shadow: 2px 2px var(--white) inset, -2px -2px var(--dark-grey) inset;
+        width: max-content;
+        padding: 0.5em;
+        z-index: 1;
+        text-align: center;
+      }
+    }
