@@ -5,7 +5,7 @@ import html
 
 def get_title(entry):
     if 'letterboxd_filmtitle' in entry:
-        return f"Review: {entry['letterboxd_filmtitle']}"
+        return f"Review: {html.escape(entry['letterboxd_filmtitle'])}"
     return html.escape(entry['title'])
 
 def get_description(entry):

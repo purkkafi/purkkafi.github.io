@@ -43,7 +43,7 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/kissa.png" alt="">
+        <img id="mau" src="/assets/tiikerit/kissa.png" alt="">
         \div{center}{<b><span style="font-size: 120%">"Mau"</span> / Maunnerheim</b>}
     }
     \div{fakeTableCell memberLore}{
@@ -66,7 +66,7 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/kissa.png" alt="">
+        <img id="kali" src="/assets/tiikerit/kissa.png" alt="">
         \div{center}{<b><span style="font-size: 120%">"Kali"</span> / Carleca Temmin Kaliron</b>}
     }
     \div{fakeTableCell memberLore}{
@@ -89,7 +89,7 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/kissa.png" alt="">
+        <img id="esherat" src="/assets/tiikerit/kissa.png" alt="">
         \div{center}{<b><span style="font-size: 120%">"Esherat"</span> / Merkaren Tuggil Esherat</b>}
     }
     \div{fakeTableCell memberLore}{
@@ -112,7 +112,7 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/kissa.png" alt="">
+        <img id="terion" src="/assets/tiikerit/kissa.png" alt="">
         \div{center}{<b><span style="font-size: 120%">"Terion"</span> / Pausun Meshe Terion</b>}
     }
     \div{fakeTableCell memberLore}{
@@ -146,7 +146,7 @@
 
 \raw{\div{fakeTable fox}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/kteeu.png" alt="">
+        <img id="protag" src="/assets/tiikerit/kteeu.png" alt="">
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
