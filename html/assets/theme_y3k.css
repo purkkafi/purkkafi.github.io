@@ -18,6 +18,10 @@ body {
     --link-color-active: #BC310B;
 }
 
+#rightSide {
+    z-index: -1;
+}
+
 #middle header, .browserContent, .footerSection, .fox {
     background: var(--grey);
     border: 1px solid var(--black);

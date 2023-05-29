@@ -6,7 +6,9 @@ import os.path
 import re
 
 def read_metadata(url):
-    html = requests.get(url, headers={'User-Agent': 'purkkafibot'}).text
+    req = requests.get(url, headers={'User-Agent': 'purkkafibot'})
+    req.encoding = 'utf-8'
+    html = req.text
     print('parsing OG for', url)
     
     soup = BeautifulSoup(html, 'html.parser')
@@ -36,11 +38,15 @@ cache = str(sorted(urls))
 
 if os.path.isfile(CACHE_FILE):
     with open(CACHE_FILE, 'r') as f:
-        if cache == f.read():
+        in_cache = f.read()
+        if cache == in_cache:
             print('OG previews up to date')
             exit()
 
 for url in urls:
+    if url in in_cache:
+        continue    
+    
     path = Path('beagic/opengraph', url)
     path.parent.mkdir(parents=True, exist_ok=True)
     
