@@ -187,8 +187,11 @@
 
             function openDetails() {
                 var hash = location.hash.substring(1)
-                var element = document.getElementById(hash)
+                if(hash == "") {
+                    return
+                }
                 
+                var element = document.getElementById(hash)
                 var parent = element.parentElement
                 
                 while(parent != null) {

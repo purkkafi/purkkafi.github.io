@@ -4,7 +4,7 @@
 \global{\og_description}{Reviews of furry visual novels.}
 
 \define{\arvio}{1}{
-\raw{<details style="margin: 1em 0 3em 0;">
+\raw{<details class="review" style="margin: 1em 0 3em 0;">
     <summary>\b{Show Review}</summary>}
 
 \1
@@ -287,3 +287,5 @@ Hard to give more concrete feedback, since the story didn't really get anywhere 
 }
 
 }
+
+\raw{<script src="/open_fvn_review.js"></script>}
