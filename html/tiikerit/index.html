@@ -49,9 +49,10 @@
 
 <p><span style="font-size: 75%">Demo available now!</span></p>
 
-</div><a class="opengraphLink" href="https://purkka.itch.io/the-other-island">
+</div><a id="the-other-island" class="opengraphLink" href="https://purkka.itch.io/the-other-island">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzEwNzUxNjI1LnBuZw==/original/XG62hV.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzEwNzUxNjI1LnBuZw==/original/XG62hV.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">The Other Island</span>
@@ -65,7 +66,9 @@
             </div>
         </div>
     </div>
-</a><div style="height: 1em;"></div><div class="center">
+</a>
+
+<div class="opengraphShare"><a href="#the-other-island">🔗</a></div><div style="height: 1em;"></div><div class="center">
 
 <p><a href="/tiikerit/todo.html">Engine devlog</a></p>
 
@@ -171,5 +174,28 @@
             
             <div id="rightSide"></div>
         </div>
+        
+        <script>
+            // --------------------------------------------------------
+            // opens <details> tags if linked to an element inside them
+            // --------------------------------------------------------
+
+            function openDetails() {
+                var hash = location.hash.substring(1)
+                var element = document.getElementById(hash)
+                
+                var parent = element.parentElement
+                
+                while(parent != null) {
+                    if(parent.tagName == 'DETAILS') {
+                        parent.open = true
+                    }
+                    parent = parent.parentElement
+                }
+            }
+
+            window.addEventListener('hashchange', openDetails)
+            openDetails()
+        </script>
     </body>
 </html>

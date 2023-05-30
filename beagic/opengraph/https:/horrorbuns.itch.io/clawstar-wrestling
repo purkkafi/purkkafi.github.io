@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://horrorbuns.itch.io/clawstar-wrestling">
+<a id="clawstar-wrestling" class="opengraphLink" href="https://horrorbuns.itch.io/clawstar-wrestling">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzEwNTgzNTE3LnBuZw==/original/otLPIk.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzEwNTgzNTE3LnBuZw==/original/otLPIk.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">Clawstar Wrestling</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#clawstar-wrestling">🔗</a></div>

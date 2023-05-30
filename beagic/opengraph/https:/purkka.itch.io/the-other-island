@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://purkka.itch.io/the-other-island">
+<a id="the-other-island" class="opengraphLink" href="https://purkka.itch.io/the-other-island">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzEwNzUxNjI1LnBuZw==/original/XG62hV.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzEwNzUxNjI1LnBuZw==/original/XG62hV.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">The Other Island</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#the-other-island">🔗</a></div>

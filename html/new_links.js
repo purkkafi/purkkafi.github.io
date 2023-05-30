@@ -1,3 +1,7 @@
+// ---------------------------------------------
+// adds clickble expand button to new links feed
+// ---------------------------------------------
+
 var links = document.getElementById("newLinks");
 
 if(links.childElementCount > 5) {

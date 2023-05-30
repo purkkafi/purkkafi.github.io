@@ -1,12 +1,21 @@
 \global{\title}{FVN Reviews & Recommendations}
+\global{\theme}{fvn_recs}
 \global{\og_title}{FVN Reviews & Recommendations}
 \global{\og_description}{Reviews of furry visual novels.}
 
 \define{\arvio}{1}{
-\raw{<details style="margin: 1em 0 2em 0;">
+\raw{<details style="margin: 1em 0 3em 0;">
     <summary>\b{Show Review}</summary>}
 
 \1
+
+\raw{</details>}}
+
+\define{\arviolista}{2}{
+\raw{<details class="categoryBody">
+    <summary class="categoryHeader">\1</summary>}
+
+\2
 
 \raw{</details>}}
 
@@ -26,7 +35,7 @@ I'll also link any longer pieces I've written about the games – hoping to do s
 
 
 
-\kategoria{Can Recommend}
+\arviolista{Can Recommend}{
 
 \opengraph_preview{https://echoproject.itch.io/arches}
 
@@ -118,11 +127,13 @@ The writing is consistently good. The first arc feels like the tightest & most f
 But this is a small flaw in a story that, on the whole, really succeeds at spinning a fairly generic premise into very interesting directions. Though I may grumble about the slower pacing in the latter half of the story, it does manage to establish the characters strongly enough that I'm pretty invested in seeing what happens next.
 }
 
+}
 
 
 
 
-\kategoria{Upcoming & Promising}
+
+\arviolista{Upcoming & Promising}{
 
 \opengraph_preview{https://nikkonator5000.itch.io/burrows}
 
@@ -186,11 +197,13 @@ Art-wise, focusing on backgroundless illustrations in the style of the sprites i
 An easy recommendation for people looking for good science fiction with interesting mysteries and appealing character drama. It's not all killer, but given that <i>Soulcreek</i> improves fairly steadily towards the end of the current build, count me as very excited to see more.​
 }
 
+}
 
 
 
 
-\kategoria{Mixed Feelings}
+
+\arviolista{Mixed Feelings}{
 
 \opengraph_preview{https://horrorbuns.itch.io/clawstar-wrestling}
 
@@ -271,4 +284,6 @@ The sudden narrative shifts were jarring. For this kind of thing to succeed, I t
 Also, the game splitting some lines into multiple screens by commas felt weird, since it wasn't even done every time. There's a small punctuation inconsistency with it, too; the rest of the sentance starts with capitals sometimes but not always. Not sure why this was done, honestly. If it's for the sake of rhythm or something, I recommend thinking of another way to do what you're trying to do, as this was just kind of weird and annoying to read.
 
 Hard to give more concrete feedback, since the story didn't really get anywhere yet, but I feel like reworking the start to be more careful with tone and more clear about how all the different plot elements play together would help a lot. The backgrounds and the sprites looked nice enough, and I would gladly see them in a slightly better written version of the game.
+}
+
 }

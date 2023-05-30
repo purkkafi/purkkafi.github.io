@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://rekiron.itch.io/lucent-depths">
+<a id="lucent-depths" class="opengraphLink" href="https://rekiron.itch.io/lucent-depths">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzg1OTk5MTkucG5n/original/89kQBY.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzg1OTk5MTkucG5n/original/89kQBY.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">Lucent Depths</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#lucent-depths">🔗</a></div>

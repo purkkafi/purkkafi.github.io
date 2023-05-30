@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://dawn-chorus.itch.io/dawn-chorus">
+<a id="dawn-chorus" class="opengraphLink" href="https://dawn-chorus.itch.io/dawn-chorus">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzUyOTA0MTUucG5n/original/QU5PdF.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzUyOTA0MTUucG5n/original/QU5PdF.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">Dawn Chorus</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#dawn-chorus">🔗</a></div>

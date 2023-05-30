@@ -365,6 +365,17 @@ a.hiddenLink {
     font-weight: bold;
 }
 
+.opengraphShare {
+    text-align: right;
+    height: 0;
+    translate: 0 0.75em;
+}
+
+.opengraphShare a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
 @media screen and (min-width: 45em) {
     body {
         font-size: 1.15em;

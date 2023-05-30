@@ -151,5 +151,28 @@
             
             <div id="rightSide"></div>
         </div>
+        
+        <script>
+            // --------------------------------------------------------
+            // opens <details> tags if linked to an element inside them
+            // --------------------------------------------------------
+
+            function openDetails() {
+                var hash = location.hash.substring(1)
+                var element = document.getElementById(hash)
+                
+                var parent = element.parentElement
+                
+                while(parent != null) {
+                    if(parent.tagName == 'DETAILS') {
+                        parent.open = true
+                    }
+                    parent = parent.parentElement
+                }
+            }
+
+            window.addEventListener('hashchange', openDetails)
+            openDetails()
+        </script>
     </body>
 </html>

@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://jerichowo.itch.io/remember-the-flowers">
+<a id="remember-the-flowers" class="opengraphLink" href="https://jerichowo.itch.io/remember-the-flowers">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzc5MTA0NDgucG5n/original/9m4y9x.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzc5MTA0NDgucG5n/original/9m4y9x.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">Remember the Flowers</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#remember-the-flowers">🔗</a></div>

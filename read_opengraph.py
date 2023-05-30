@@ -5,6 +5,15 @@ from pathlib import Path
 import os.path
 import re
 
+NON_ALPHANUMERIC = re.compile('[^a-zA-Z0-9\\s]')
+WHITESPACES = re.compile('\\s')
+
+def get_id(title):
+    title = NON_ALPHANUMERIC.sub('', title)
+    title = WHITESPACES.sub('-', title)
+    title = title.lower()
+    return title
+
 def read_metadata(url):
     req = requests.get(url, headers={'User-Agent': 'purkkafibot'})
     req.encoding = 'utf-8'
@@ -20,6 +29,7 @@ def read_metadata(url):
     
     return {
         'title': title,
+        'id': get_id(title),
         'by': by,
         'url': url,
         'site': site['content'] if site != None else '',
@@ -54,9 +64,10 @@ for url in urls:
         meta = read_metadata(url)
         
         f.write(f"""
-<a class="opengraphLink" href="{meta['url']}">
+<a id="{meta['id']}" class="opengraphLink" href="{meta['url']}">
     <div class="opengraphPreview" style="--og-img: url('{meta['image']}')">
         <img class="opengraphThumb" src="{meta['image']}"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">{meta['title']}</span>
@@ -71,7 +82,9 @@ for url in urls:
         </div>
     </div>
 </a>
-        """)
+
+<div class="opengraphShare"><a href="#{meta['id']}">🔗</a></div>
+""")
 
 with open(CACHE_FILE, 'w') as f:
     f.write(cache)

@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://simonratfilled.itch.io/to-whom-i-loved">
+<a id="to-whom-i-loved" class="opengraphLink" href="https://simonratfilled.itch.io/to-whom-i-loved">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzEwNjA4MzY2LnBuZw==/original/MezGN4.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzEwNjA4MzY2LnBuZw==/original/MezGN4.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">To Whom I Loved</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#to-whom-i-loved">🔗</a></div>

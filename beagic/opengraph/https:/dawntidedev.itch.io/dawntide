@@ -1,7 +1,8 @@
 
-<a class="opengraphLink" href="https://dawntidedev.itch.io/dawntide">
+<a id="dawntide" class="opengraphLink" href="https://dawntidedev.itch.io/dawntide">
     <div class="opengraphPreview" style="--og-img: url('https://img.itch.zone/aW1nLzkyNTYzNjIucG5n/original/gyaZ9P.png')">
         <img class="opengraphThumb" src="https://img.itch.zone/aW1nLzkyNTYzNjIucG5n/original/gyaZ9P.png"/>
+        
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">Dawntide</span>
@@ -16,4 +17,5 @@
         </div>
     </div>
 </a>
-        
+
+<div class="opengraphShare"><a href="#dawntide">🔗</a></div>
