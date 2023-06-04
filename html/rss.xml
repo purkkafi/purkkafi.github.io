@@ -7,6 +7,38 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: MAY WOLF 2023</title>
+        <description>eigthteen wolves stand in front of me, but only one can be america's next top furry visual novel</description>
+        <link>https://purkka.fi/fvn_recs.html</link>
+        <guid>https://purkka.fi/fvn_recs.html</guid>
+        <pubDate>Sun, 04 Jun 2023 15:35:36 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>THE WHITE TIGERS: cinematic references</title>
+        <description>THE WHITE TIGERS: cinematic references</description>
+        <link>https://letterboxd.com/purkka/list/the-white-tigers-cinematic-references/</link>
+        <guid>https://letterboxd.com/purkka/list/the-white-tigers-cinematic-references/</guid>
+        <pubDate>Sat, 3 Jun 2023 11:48:50 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: The Amazing Maurice</title>
+        <description>The Amazing Maurice, 2022 - ★★★½</description>
+        <link>https://letterboxd.com/purkka/film/the-amazing-maurice/</link>
+        <guid>https://letterboxd.com/purkka/film/the-amazing-maurice/</guid>
+        <pubDate>Fri, 2 Jun 2023 06:39:32 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: The Eight Mountains</title>
+        <description>The Eight Mountains, 2022 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/the-eight-mountains/</link>
+        <guid>https://letterboxd.com/purkka/film/the-eight-mountains/</guid>
+        <pubDate>Thu, 1 Jun 2023 08:34:50 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: I’ll Breakup With Him, It’ll Pain</title>
         <description>one of the visual novels of all time</description>
         <link>https://purkka.fi/fvn_recs.html</link>
@@ -64,7 +96,7 @@
     
     <item>
         <title>2023 ranked</title>
-        <description><ol> <li> <a href="https://letterboxd.com/film/dungeons-dragons-honor-among-thieves/">Dungeons &amp; Dragons: Honor Among Thieves</a> </li> <li> <a href="https://letterboxd.com/film/sisu-2023/">Sisu</a> </li> <li> <a href="https://letterboxd.com/film/cocaine-bear/">Cocaine Bear</a> </li> <li> <a href="https://letterboxd.com/film/the-super-mario-bros-movie/">The Super Mario Bros. Movie</a> </li> <li> <a href="https://letterboxd.com/film/ghosted-2023/">Ghosted</a> </li> </ol></description>
+        <description><ol> <li> <a href="https://letterboxd.com/film/dungeons-dragons-honor-among-thieves/">Dungeons &amp; Dragons: Honor Among Thieves</a> </li> <li> <a href="https://letterboxd.com/film/sisu-2022/">Sisu</a> </li> <li> <a href="https://letterboxd.com/film/cocaine-bear/">Cocaine Bear</a> </li> <li> <a href="https://letterboxd.com/film/the-super-mario-bros-movie/">The Super Mario Bros. Movie</a> </li> <li> <a href="https://letterboxd.com/film/ghosted-2023/">Ghosted</a> </li> </ol></description>
         <link>https://letterboxd.com/purkka/list/2023-ranked/</link>
         <guid>https://letterboxd.com/purkka/list/2023-ranked/</guid>
         <pubDate>Thu, 27 Apr 2023 08:35:48 +1200</pubDate>
@@ -132,38 +164,6 @@
         <link>https://letterboxd.com/purkka/film/cocaine-bear/</link>
         <guid>https://letterboxd.com/purkka/film/cocaine-bear/</guid>
         <pubDate>Fri, 21 Apr 2023 11:20:07 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: EO</title>
-        <description>EO, 2022 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/eo/</link>
-        <guid>https://letterboxd.com/purkka/film/eo/</guid>
-        <pubDate>Thu, 13 Apr 2023 07:25:27 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Cleaved</title>
-        <description>reviewing this hot new VN</description>
-        <link>https://purkka.fi/fvn_recs.html</link>
-        <guid>https://purkka.fi/fvn_recs.html</guid>
-        <pubDate>Tue, 11 Apr 2023 21:32:40 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Whale</title>
-        <description>The Whale, 2022 - ★ (contains spoilers)</description>
-        <link>https://letterboxd.com/purkka/film/the-whale-2022/</link>
-        <guid>https://letterboxd.com/purkka/film/the-whale-2022/</guid>
-        <pubDate>Wed, 22 Mar 2023 09:27:05 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: A Man</title>
-        <description>A Man, 2022 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/a-man-2022/</link>
-        <guid>https://letterboxd.com/purkka/film/a-man-2022/</guid>
-        <pubDate>Wed, 22 Mar 2023 09:22:11 +1300</pubDate>
     </item>
     
     </channel>
