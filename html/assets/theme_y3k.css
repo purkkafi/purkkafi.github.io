@@ -162,6 +162,7 @@ header a h1 {
 
 .tooltip {
     border-bottom: dotted 2px var(--page-yellow);
+    user-select: none;
 }
 
 #middle .hr {
@@ -169,11 +170,11 @@ header a h1 {
 }
 
 #indexlink h1::before {
-    content: '⏴';
+    content: '◂';
 }
 
 #indexlink h1::after {
-    content: '⏵';
+    content: '▸';
 }
 
 .footerSection {
@@ -194,7 +195,7 @@ header a h1 {
     [title]:active::after {
         content: attr(title);
         position: absolute;
-        top: 150%;
+        bottom: 200%;
         color: var(--black);
         background-color: var(--light-grey);
         border: 1px solid var(--black);

@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: The Holy Mountain</title>
+        <description>The Holy Mountain, 1973 - ★★★★★</description>
+        <link>https://letterboxd.com/purkka/film/the-holy-mountain/</link>
+        <guid>https://letterboxd.com/purkka/film/the-holy-mountain/</guid>
+        <pubDate>Wed, 7 Jun 2023 10:42:00 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: MAY WOLF 2023</title>
         <description>eigthteen wolves stand in front of me, but only one can be america's next top furry visual novel</description>
         <link>https://purkka.fi/fvn_recs.html</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/saint-omer/</link>
         <guid>https://letterboxd.com/purkka/film/saint-omer/</guid>
         <pubDate>Fri, 21 Apr 2023 11:44:23 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Cocaine Bear</title>
-        <description>Cocaine Bear, 2023 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/cocaine-bear/</link>
-        <guid>https://letterboxd.com/purkka/film/cocaine-bear/</guid>
-        <pubDate>Fri, 21 Apr 2023 11:20:07 +1200</pubDate>
     </item>
     
     </channel>

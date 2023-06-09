@@ -5,13 +5,13 @@
 
 \div{browserToolbar}{
     \div{browserToolbarRow}{
-        \div{browserTitle}{⏴Planetaarinen verkko⏵}
+        \div{browserTitle}{◂Planetaarinen verkko▸}
     }
 
     \div{browserToolbarRow}{
-        \div{iconButton}{⏴}
+        \div{iconButton}{◂}
         \div{iconButton}{⟳}
-        \div{iconButton iconUnusable}{⏵}
+        \div{iconButton iconUnusable}{▸}
         \div{browserAddress}{GTP:~SMILD/VALKOISET-TIIKERIT/ETUSIVU.GH}
     }
 }
