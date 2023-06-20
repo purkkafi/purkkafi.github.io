@@ -23,17 +23,23 @@ def read_metadata(url):
     soup = BeautifulSoup(html, 'html.parser')
 
     title, by = soup.head.title.string.split(' by ')
-    image = soup.head.find(property='og:image')
     description = soup.head.find(property='og:description')
     site = soup.head.find(property='og:site_name')
+    link_id = get_id(title)
+    
+    itch_image_url = soup.head.find(property='og:image')['content']
+    image_path = f'/assets/opengraph/{ link_id }.{ itch_image_url.split(".")[-1] }'
+    
+    with open(f'html/{image_path}', 'wb') as f:
+        f.write(requests.get(itch_image_url).content)
     
     return {
         'title': title,
-        'id': get_id(title),
+        'id': link_id,
         'by': by,
         'url': url,
         'site': site['content'] if site != None else '',
-        'image': image['content'] if image != None else '',
+        'image': image_path,
         'description': description['content'] if description != None else ''
     }
 
