@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>On Mastodon&#x27;s UX Issues (and how to fix them, maybe)</title>
+        <description>alt clickbait title: LYDIA TÁR NAMESEARCHED ON MASTODON? (STORYTIME) (GONE WRONG) (GONE SEXUAL)</description>
+        <link>https://purkka.fi/esseet/mastodon.html</link>
+        <guid>https://purkka.fi/esseet/mastodon.html</guid>
+        <pubDate>Thu, 13 Jul 2023 18:15:26 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: Vox Lux</title>
         <description>Vox Lux, 2018 - ★★</description>
         <link>https://letterboxd.com/purkka/film/vox-lux/</link>
@@ -156,14 +164,6 @@
         <link>https://purkka.fi/fvn_recs.html</link>
         <guid>https://purkka.fi/fvn_recs.html</guid>
         <pubDate>Wed, 03 May 2023 18:24:09 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Arches &amp; Soulcreek</title>
-        <description>this really souls my creek</description>
-        <link>https://purkka.fi/fvn_recs.html</link>
-        <guid>https://purkka.fi/fvn_recs.html</guid>
-        <pubDate>Tue, 02 May 2023 16:10:03 +0000</pubDate>
     </item>
     
     </channel>
