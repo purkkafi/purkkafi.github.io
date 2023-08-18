@@ -7,6 +7,30 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: I Am Here....Now</title>
+        <description>I Am Here....Now, 2009 - ½</description>
+        <link>https://letterboxd.com/purkka/film/i-am-herenow/</link>
+        <guid>https://letterboxd.com/purkka/film/i-am-herenow/</guid>
+        <pubDate>Mon, 14 Aug 2023 09:08:59 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Upside Down</title>
+        <description>Upside Down, 2012 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/upside-down-2012/</link>
+        <guid>https://letterboxd.com/purkka/film/upside-down-2012/</guid>
+        <pubDate>Sun, 13 Aug 2023 11:15:03 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Kokomo City</title>
+        <description>Kokomo City, 2023 - ★★★★</description>
+        <link>https://letterboxd.com/purkka/film/kokomo-city/</link>
+        <guid>https://letterboxd.com/purkka/film/kokomo-city/</guid>
+        <pubDate>Sun, 13 Aug 2023 02:57:58 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: In Case of Emergency</title>
         <description>so good, please play it</description>
         <link>https://purkka.fi/fvn_recs.html#in-case-of-emergency</link>
@@ -140,30 +164,6 @@
         <link>https://purkka.fi/fvn_recs.html</link>
         <guid>https://purkka.fi/fvn_recs.html</guid>
         <pubDate>Sun, 04 Jun 2023 15:35:36 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>THE WHITE TIGERS: cinematic references</title>
-        <description>THE WHITE TIGERS: cinematic references</description>
-        <link>https://letterboxd.com/purkka/list/the-white-tigers-cinematic-references/</link>
-        <guid>https://letterboxd.com/purkka/list/the-white-tigers-cinematic-references/</guid>
-        <pubDate>Sat, 3 Jun 2023 11:48:50 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Amazing Maurice</title>
-        <description>The Amazing Maurice, 2022 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/the-amazing-maurice/</link>
-        <guid>https://letterboxd.com/purkka/film/the-amazing-maurice/</guid>
-        <pubDate>Fri, 2 Jun 2023 06:39:32 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Eight Mountains</title>
-        <description>The Eight Mountains, 2022 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/the-eight-mountains/</link>
-        <guid>https://letterboxd.com/purkka/film/the-eight-mountains/</guid>
-        <pubDate>Thu, 1 Jun 2023 08:34:50 +1200</pubDate>
     </item>
     
     </channel>
