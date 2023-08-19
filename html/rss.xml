@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Northern Lights</title>
+        <description>a fun new game</description>
+        <link>https://purkka.fi/fvn_recs.html#northern-lights--a-furry-visual-novel</link>
+        <guid>https://purkka.fi/fvn_recs.html#northern-lights--a-furry-visual-novel</guid>
+        <pubDate>Sat, 19 Aug 2023 00:22:42 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: I Am Here....Now</title>
         <description>I Am Here....Now, 2009 - ½</description>
         <link>https://letterboxd.com/purkka/film/i-am-herenow/</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-holy-mountain/</link>
         <guid>https://letterboxd.com/purkka/film/the-holy-mountain/</guid>
         <pubDate>Wed, 7 Jun 2023 10:42:00 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: MAY WOLF 2023</title>
-        <description>eigthteen wolves stand in front of me, but only one can be america's next top furry visual novel</description>
-        <link>https://purkka.fi/fvn_recs.html</link>
-        <guid>https://purkka.fi/fvn_recs.html</guid>
-        <pubDate>Sun, 04 Jun 2023 15:35:36 +0000</pubDate>
     </item>
     
     </channel>
