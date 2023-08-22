@@ -7,6 +7,22 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Fields of Spring</title>
+        <description>fields of spring: i liked it</description>
+        <link>https://purkka.fi/fvn_recs.html#fields-of-spring</link>
+        <guid>https://purkka.fi/fvn_recs.html#fields-of-spring</guid>
+        <pubDate>Tue, 22 Aug 2023 14:54:51 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Red, White &amp; Royal Blue</title>
+        <description>Red, White &amp; Royal Blue, 2023 - ★½</description>
+        <link>https://letterboxd.com/purkka/film/red-white-royal-blue/</link>
+        <guid>https://letterboxd.com/purkka/film/red-white-royal-blue/</guid>
+        <pubDate>Tue, 22 Aug 2023 05:10:44 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Northern Lights</title>
         <description>a fun new game</description>
         <link>https://purkka.fi/fvn_recs.html#northern-lights--a-furry-visual-novel</link>
@@ -148,22 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-monkeys-mask/</link>
         <guid>https://letterboxd.com/purkka/film/the-monkeys-mask/</guid>
         <pubDate>Sat, 24 Jun 2023 09:12:09 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The King of Comedy</title>
-        <description>The King of Comedy, 1982 - ★★★★★</description>
-        <link>https://letterboxd.com/purkka/film/the-king-of-comedy/</link>
-        <guid>https://letterboxd.com/purkka/film/the-king-of-comedy/</guid>
-        <pubDate>Sat, 24 Jun 2023 09:10:13 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Holy Mountain</title>
-        <description>The Holy Mountain, 1973 - ★★★★★</description>
-        <link>https://letterboxd.com/purkka/film/the-holy-mountain/</link>
-        <guid>https://letterboxd.com/purkka/film/the-holy-mountain/</guid>
-        <pubDate>Wed, 7 Jun 2023 10:42:00 +1200</pubDate>
     </item>
     
     </channel>
