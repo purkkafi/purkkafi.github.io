@@ -61,7 +61,7 @@ if os.path.isfile(CACHE_FILE):
 
 for url in urls:
     if url in in_cache:
-        continue    
+        continue
     
     path = Path('beagic/opengraph', url)
     path.parent.mkdir(parents=True, exist_ok=True)
