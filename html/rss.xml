@@ -7,6 +7,22 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: The Tale of the Fox</title>
+        <description>The Tale of the Fox, 1937 - ★★★★½</description>
+        <link>https://letterboxd.com/purkka/film/the-tale-of-the-fox/</link>
+        <guid>https://letterboxd.com/purkka/film/the-tale-of-the-fox/</guid>
+        <pubDate>Mon, 2 Oct 2023 13:28:15 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Dual</title>
+        <description>Dual, 2022 - ★★</description>
+        <link>https://letterboxd.com/purkka/film/dual-2022/</link>
+        <guid>https://letterboxd.com/purkka/film/dual-2022/</guid>
+        <pubDate>Sun, 1 Oct 2023 14:16:45 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Spirit: Summoners of Áine-Chlair</title>
         <description>i hate it when my kobold reads my Adult Magazine</description>
         <link>https://purkka.fi/fvn_recs.html#spirit-summoners-of-inechlair</link>
@@ -148,22 +164,6 @@
         <link>https://letterboxd.com/purkka/film/birth-2004/</link>
         <guid>https://letterboxd.com/purkka/film/birth-2004/</guid>
         <pubDate>Sun, 27 Aug 2023 11:34:54 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Time Trap</title>
-        <description>Time Trap, 2017 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/time-trap-2017/</link>
-        <guid>https://letterboxd.com/purkka/film/time-trap-2017/</guid>
-        <pubDate>Sat, 26 Aug 2023 11:02:37 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Fields of Spring</title>
-        <description>fields of spring: i liked it</description>
-        <link>https://purkka.fi/fvn_recs.html#fields-of-spring</link>
-        <guid>https://purkka.fi/fvn_recs.html#fields-of-spring</guid>
-        <pubDate>Tue, 22 Aug 2023 14:54:51 +0000</pubDate>
     </item>
     
     </channel>
