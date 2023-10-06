@@ -7,6 +7,22 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: The Smoke Room</title>
+        <description>gretchen tsr i would do anything for you</description>
+        <link>https://purkka.fi/fvn_recs.html#the-smoke-room</link>
+        <guid>https://purkka.fi/fvn_recs.html#the-smoke-room</guid>
+        <pubDate>Fri, 06 Oct 2023 00:17:31 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>FVN Review: The Legend of Divinity</title>
+        <description>rough but promising</description>
+        <link>https://purkka.fi/fvn_recs.html#the-legend-of-divinity</link>
+        <guid>https://purkka.fi/fvn_recs.html#the-legend-of-divinity</guid>
+        <pubDate>Fri, 06 Oct 2023 00:17:31 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: The Tale of the Fox</title>
         <description>The Tale of the Fox, 1937 - ★★★★½</description>
         <link>https://letterboxd.com/purkka/film/the-tale-of-the-fox/</link>
@@ -148,22 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-beast/</link>
         <guid>https://letterboxd.com/purkka/film/the-beast/</guid>
         <pubDate>Fri, 1 Sep 2023 10:16:59 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Lycan Colony</title>
-        <description>Lycan Colony, 2006 - ★</description>
-        <link>https://letterboxd.com/purkka/film/lycan-colony/</link>
-        <guid>https://letterboxd.com/purkka/film/lycan-colony/</guid>
-        <pubDate>Mon, 28 Aug 2023 10:48:07 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Birth</title>
-        <description>Birth, 2004 - ★★★★</description>
-        <link>https://letterboxd.com/purkka/film/birth-2004/</link>
-        <guid>https://letterboxd.com/purkka/film/birth-2004/</guid>
-        <pubDate>Sun, 27 Aug 2023 11:34:54 +1200</pubDate>
     </item>
     
     </channel>
