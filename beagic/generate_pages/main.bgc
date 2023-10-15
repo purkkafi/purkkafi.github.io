@@ -12,6 +12,7 @@ Perusmuotoilut.
 \define{\i}{1}{<em>\1</em>}
 \define{\b}{1}{<b>\1</b>}
 \define{\u}{1}{<u>\1</u>}
+\define{\cd}{1}{<code>\1</code>}
 
 
 
@@ -67,6 +68,10 @@ Kuva ilman muotoiluja; argumentit url, alt-teksti.
 Kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
 
 \define{\kuva_pieni}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="smallImage" alt="\2"></div>}}
+
+Suuri kuva, yli palstan levyinen. Ensimmäinen argumentti url-osa, toinen alt-teksti.
+
+\define{\kuva_suuri}{2}{\raw{<div class="largeImageContainer"><img src="/assets/\1" class="normalImage" alt="\2"></div>}}
 
 Pikselitaidekuva, näytetään ideaalisti täysikokoisena.
 
@@ -139,6 +144,14 @@ Käännöslaatikko.
 \define{\käännös}{4}{\raw{<div class="note translationNote">}
 \div{noteIcon}{\1}
 \b{\2} \linkki{\3}{\4}
+\raw{</div>}}
+
+
+
+Tietolaatikko.
+\define{\tietoja}{1}{\raw{<div class="note infoNote">}
+\div{noteIcon}{🛈}
+\1
 \raw{</div>}}
 
 

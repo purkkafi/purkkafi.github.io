@@ -377,7 +377,7 @@ Between not really setting up anything especially interesting and being glaciall
 \opengraph_preview{https://spark-of-mad.itch.io/the-legend-of-divinity}
 
 \arvio{
-\i{Review based on build 0.1}
+\i{(Review based on build 0.1)}
 
 The elephant in the room, first of all: the translation is a little rough. Besides some lines lacking translations (a bug that will be fixed soon, I presume based on the discussion in the comments), strange vocabulary and weird phrases are used sometimes, and the tense changes from time to time. It just doesn't really get past the effect of "ok, I'm obviously reading an imperfect translation" – comprehensible but unpolished.
 
@@ -398,6 +398,34 @@ The sudden narrative shifts were jarring. For this kind of thing to succeed, I t
 Also, the game splitting some lines into multiple screens by commas felt weird, since it wasn't even done every time. There's a small punctuation inconsistency with it, too; the rest of the sentance starts with capitals sometimes but not always. Not sure why this was done, honestly. If it's for the sake of rhythm or something, I recommend thinking of another way to do what you're trying to do, as this was just kind of weird and annoying to read.
 
 Hard to give more concrete feedback, since the story didn't really get anywhere yet, but I feel like reworking the start to be more careful with tone and more clear about how all the different plot elements play together would help a lot. The backgrounds and the sprites looked nice enough, and I would gladly see them in a slightly better written version of the game.
+}
+
+\opengraph_preview{https://undefeatedvn.itch.io/undefeated}
+
+\arvio{
+\i{(Review based on version v0.5.0)}
+
+Compelling on a basic level but makes plenty of weird decisions. Hard to say anything conclusive at this point.
+
+<i>Undefeated</i> looks good enough; its stock photo backgrounds create a fitting sense of nondescript monotony, although you could argue that it doesn't really take opportunities to establish the setting visually, contributing to the worldbuilding feeling vague. Besides that, I'd say that the fights being so static kind of feels like a missed opportunity. I like the character designs a lot, though.
+
+<i>(note: spoilers to follow! talking about this game without addressing plot details beyond what the itch page explains would feel very difficult.)</i>
+
+There is something a little weird in how the main plot is set up. Soon after the game begins, Zander learns that he will, supposedly due to a quirk in the matchmaking algorithm, be forced to fight the strongest guy in the league again and again until he wins. I don't think it's controversial to say that this plotline is implausible on so many levels – the fact that the contracts require fighters to, specifically, win a match before they can quit is very weird (since the setting is vaguely dystopian, why not just make quitting very difficult in general?) and the league being unable or unwilling to override the whims of the algorithm is similarly given very little justification. All that is, by itself, fine; it's a conspiracy plotline. The situation is supposed to be shady.
+
+What is less understandable is that the characters themselves are all so willing to take this at face value, sort of accepting the obvious conspiracy as something that just happened instead of seeing it as such. They don't really investigate the situation at length or ask the questions the reader probably will, such as: is this some sort of plot against Zander in particular, or is he just a random bystander? Are the ratings of the fights really so good it justifies running the same curb stomp matchup over and over again? (Media attention is brought up occasionally, but the characters don't make the connection that it could be why someone wants all this to happen.) Does the league have a vested interest in giving Bruce easy fights he won't injure himself in?
+
+How slowly the main plot develops and how passively the characters treat it is just so frustrating; months have passed in-story, but it feels like Zander has barely any idea what is going on with the weird events he got swept up in and what he should do in response. If some readers find the plot to be simply too contrived, it's probably because of this, not the concept inherently.
+
+I imagine why the game is written this way mostly boils down to how the stakes and the pace of the plot don't fit together with the needs of the character drama. Even though the conspiracy overwhelms the entire story (it takes so long before you even see a normal fight), the arcs of Zander and Redline don't have a lot to do with it yet – you could take the basic character profiles and put them in a version of <i>Undefeated</i> where Bruce isn't a factor and both of them just live a normal life in employment of FANG.
+
+Not to mention that, at times, the game just gets very heavy to read with all of this happening at once! Like, is it really necessary or interesting for Zander to have such a difficult time connecting with people and making friends when the impossible situation he has found himself already carries enough dramatic weight? Does he need to continue being such an asshole to Redline long after the reader has warmed up to him and would probably just enjoy watching the two try to solve the problem together? The external and internal conflicts feel like they are fighting for attention when they should be complementing each other; I don't hate anything about the game's characters or the drama it spins around them, but it really feels like a structural mistake that the main plot has to spin wheels while all that happens. I think cutting some beats and spending less time on psychologizing the characters to get to the point faster would probably be worth it.
+
+That being said, it sometimes feels like there's a slight satiric edge to <i>Undefeated</i>, and I'm left wondering how much of it is on purpose. Zander's situation essentially mirrors what most professional athletes go through: the rewards of moving up in the league are big (benefits gained by winning fights are constantly mentioned), but so are the risks (the gruesome injuries the fighters suffer are explicitly linked to similar real-life issues). The only difference is that in this dystopian exaggeration, the protagonist has no real chance of success and can only choose either being battered until he dies or quitting and breaking his contract with life-ruining financial consequences.
+
+It's like any sports story about facing impossible odds – just without there being anything inspirational or cathartic to it. Could you call the VN a satire of that kind of stuff, an anti-narrative where the fights are deliberately unsatisfying and the plot will eventually be resolved with something else (like the exploited athletes rising up against the unjust system)? Maybe! Too early to say, but I'm not opposed to that kind of reading.
+
+In any case, I can say that in spite of all the problems I have with its storytelling, the strange undercurrents of <i>Undefeated</i> at least make it a constantly engaging read. The prose is clean, and the game never lingers too long on any scene even when the story itself moves slowly; solid work all around. It's just too easy to feel hesitant about how smoothly the eventual payoffs will land and how much they will do to rectify the narrative developments so far to justify anything but a mixed review just yet.
 }
 
 }

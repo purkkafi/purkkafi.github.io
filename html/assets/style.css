@@ -129,9 +129,14 @@ a:active { color: var(--link-color-active); }
     padding: 2em 0 2em 0;
 }
 
-.imageContainer {
+.imageContainer, .largeImageContainer {
     margin-top: 2em;
     margin-bottom: 2em;
+}
+
+.largeImageContainer {
+    width: calc(min(95vw, 85ch));
+    margin-left: calc( (min(95vw, 85ch) - 100%) / -2 );
 }
 
 .smallImage {
@@ -160,6 +165,12 @@ a:active { color: var(--link-color-active); }
 .contentNote {
     background-color: #edbf43;
     border: 0.25em #ce8a2e solid;
+    box-shadow: 0 0 1em black;
+}
+
+.infoNote {
+    background-color: #a2d98f;
+    border: 0.25em #55a659 solid;
     box-shadow: 0 0 1em black;
 }
 

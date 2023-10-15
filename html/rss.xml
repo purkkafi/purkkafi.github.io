@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Undefeated</title>
+        <description>krista kosonen in blade runner 2049 voice: that guy is undefeated, let's leave him alone</description>
+        <link>https://purkka.fi/fvn_recs.html#undefeated</link>
+        <guid>https://purkka.fi/fvn_recs.html#undefeated</guid>
+        <pubDate>Sun, 15 Oct 2023 00:33:47 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: The Smoke Room</title>
         <description>gretchen tsr i would do anything for you</description>
         <link>https://purkka.fi/fvn_recs.html#the-smoke-room</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/fallen-leaves-2023/</link>
         <guid>https://letterboxd.com/purkka/film/fallen-leaves-2023/</guid>
         <pubDate>Mon, 4 Sep 2023 06:35:25 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Beast</title>
-        <description>The Beast, 1975 - ★★★ (contains spoilers)</description>
-        <link>https://letterboxd.com/purkka/film/the-beast/</link>
-        <guid>https://letterboxd.com/purkka/film/the-beast/</guid>
-        <pubDate>Fri, 1 Sep 2023 10:16:59 +1200</pubDate>
     </item>
     
     </channel>
