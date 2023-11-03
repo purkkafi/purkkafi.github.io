@@ -3,11 +3,11 @@
 
 \kuva_pieni{ylekov_logo.png}{Ylekov-logo.}
 
-\keskitys{\linkki{https://twitter.com/ylekov_uutiset}{Twitter (@ylekov_uutiset)} (kuollut, rip) • \linkki{https://t.me/ylekov}{Telegram (ylekov)}}
+\keskitys{\linkki{https://bsky.app/profile/ylekov.bsky.social}{Bluesky} • \linkki{https://t.me/ylekov}{Telegram} • \linkki{https://twitter.com/ylekov_uutiset}{Twitter} (kuollut, rip)}
 
 \väli{2}
 
-Ylekov on ylläpitämäni Twitter-botti. Sen lähdekoodi on saatavilla \linkki{https://github.com/purkkafi/ylekov}{GitHubissa}. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.
+Ylekov on ylläpitämäni botti, joka on tällä hetkellä Teleegram- ja Bluesky-alustoilla. Sen lähdekoodi on saatavilla \linkki{https://github.com/purkkafi/ylekov}{GitHubissa}. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.
 
 Katso myös: \linkki{/ylekov/neurouutiset/}{Neurouutiset}
 
