@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Reading Furry Art: Longing (Drake, 2023)</title>
+        <description>i guess you could say i am   "longing"   to view this picture</description>
+        <link>https://purkka.fi/rfa/drake_longing.html</link>
+        <guid>https://purkka.fi/rfa/drake_longing.html</guid>
+        <pubDate>Mon, 13 Nov 2023 01:43:06 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: Five Nights at Freddy&#x27;s</title>
         <description>Five Nights at Freddy&#x27;s, 2023 - ½</description>
         <link>https://letterboxd.com/purkka/film/five-nights-at-freddys/</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/tiger-stripes/</link>
         <guid>https://letterboxd.com/purkka/film/tiger-stripes/</guid>
         <pubDate>Sat, 16 Sep 2023 10:12:52 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: It Is Not the Homosexual Who Is Perverse, But the Society in Which He Lives</title>
-        <description>It Is Not the Homosexual Who Is Perverse, But the Society in Which He Lives, 1971 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/it-is-not-the-homosexual-who-is-perverse-but-the-society-in-which-he-lives/</link>
-        <guid>https://letterboxd.com/purkka/film/it-is-not-the-homosexual-who-is-perverse-but-the-society-in-which-he-lives/</guid>
-        <pubDate>Sat, 16 Sep 2023 00:40:51 +1200</pubDate>
     </item>
     
     </channel>
