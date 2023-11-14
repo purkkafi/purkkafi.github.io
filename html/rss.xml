@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: The Marshal of Finland</title>
+        <description>The Marshal of Finland, 2012 - ★</description>
+        <link>https://letterboxd.com/purkka/film/the-marshal-of-finland/</link>
+        <guid>https://letterboxd.com/purkka/film/the-marshal-of-finland/</guid>
+        <pubDate>Tue, 14 Nov 2023 06:53:22 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>Reading Furry Art: Longing (Drake, 2023)</title>
         <description>i guess you could say i am   "longing"   to view this picture</description>
         <link>https://purkka.fi/rfa/drake_longing.html</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/kubi/</link>
         <guid>https://letterboxd.com/purkka/film/kubi/</guid>
         <pubDate>Sat, 16 Sep 2023 10:31:56 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Tiger Stripes</title>
-        <description>Tiger Stripes, 2023 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/tiger-stripes/</link>
-        <guid>https://letterboxd.com/purkka/film/tiger-stripes/</guid>
-        <pubDate>Sat, 16 Sep 2023 10:12:52 +1200</pubDate>
     </item>
     
     </channel>
