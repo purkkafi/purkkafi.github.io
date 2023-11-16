@@ -1,7 +1,7 @@
 
 <a id="clawstar-wrestling" class="opengraphLink" href="https://horrorbuns.itch.io/clawstar-wrestling">
     <div class="opengraphPreview" style="--og-img: url('/assets/opengraph/clawstar-wrestling.png')">
-        <img class="opengraphThumb" src="/assets/opengraph/clawstar-wrestling.png"/>
+        <img class="opengraphThumb" src="/assets/opengraph/clawstar-wrestling.png" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">

@@ -4,8 +4,16 @@
 \global{\og_description}{Reviews of furry visual novels.}
 
 \define{\arvio}{1}{
-\raw{<details class="review" style="margin: 1em 0 3em 0;">
+\raw{<details class="review">
     <summary>\b{Show Review}</summary>}
+
+\1
+
+\raw{</details>}}
+
+\define{\vanha_arvio}{1}{
+\raw{<details class="review">
+    <summary>\b{Show Old Review}</summary>}
 
 \1
 
@@ -131,20 +139,6 @@ While I can see someone accusing the VN of being occasionally barebones in its p
 And despite the lack of polish (I really wish the UI was more thematically appropriate), the game does, to be fair, pull off a couple of absolutely stunning moments of visual storytelling I will definitely not spoil. There's humor, too: everyone else donning traditional fantasy garb while Luke has his dumb tacticool military gear is one of the best visual jokes I have seen VNs do with sprites. While <i>ICoE</i>'s influences are varied and what it has to say about escapism and growing up hits hard for its universality, it's also very in touch with its own form and the possibilities granted by it.
 
 All in all, I can't compliment <i>ICoE</i> enough – it's the kind of thing that will renew your faith in the ability of this medium to produce unique, deeply compelling stories that feel equally comfortable being literary works and self-indulgent furry porn. I wish every FVN was even half as confident and sharp in its storytelling, or at least even half as entertaining.
-}
-
-\opengraph_preview{https://jerichowo.itch.io/remember-the-flowers}
-
-\arvio{
-\i{(Review based on build 13)}
-
-Love almost everything about this, the visuals & music in particular. The character designs are some of my favorite in any VN; the use of color in fantastic, and the designs of the main characters look unique and communicate a lot visually while still feeling like they belong in the same world. The mix of different art styles is nice, and how each is used feels purposeful.
-
-The extensive use of photo backgrounds that seem out of place in the futuristic setting could be seen as a flaw, given that the worldbuilding is otherwise very good at making the world feel like a distinct place, but I kind of like the uncanny effect it creates. Can't really criticize where the game focuses its resources on, either; the graphical presentation feels like a huge part of why many scenes land so hard. Remember the Flowers puts the "visual" in "visual novel" in a way many games don't.
-
-The writing is consistently good. The first arc feels like the tightest & most focused one, which I think may be due to how naturally it intertwines plot, worldbuilding, and character development. Instead of communicating characterization through story, the later parts have a bad habit of relying on what feel like direct infodumps, and Cooper's character introduction remains the smoothest overall. In general, there's also a slight lack of momentum after the big twist. I'm hoping the next arc regains the strong sense of direction of the first parts – their slice of life-y hangout scenes were more engaging due to how purposeful every scene felt, both on a micro and macro level.
-
-But this is a small flaw in a story that, on the whole, really succeeds at spinning a fairly generic premise into very interesting directions. Though I may grumble about the slower pacing in the latter half of the story, it does manage to establish the characters strongly enough that I'm pretty invested in seeing what happens next.
 }
 
 \opengraph_preview{https://ghostrickfrost.itch.io/spirit-summoners-aine-chlair}
@@ -372,6 +366,42 @@ Due to all of this, the writing feels pretty raw and imprecise in what it is try
 
 Between not really setting up anything especially interesting and being glacially paced, the first build did not feel like a good first impression – I'd say that it could use substantial reworking. My best wishes for the project regardless; the concept is not bad, and I'll probably revisit the game after it is further along.
 
+}
+
+\opengraph_preview{https://jerichowo.itch.io/remember-the-flowers}
+
+\arvio{
+\i{(Review based on build 16)}
+
+(NOTE: watch out, major and minor abound! since the game presents so much of its basic premise as a mystery, it's impossible to talk about in depth without going into details. go play it first if you don't want to get spoiled!)
+
+The initial review I wrote for <i>Remember the Flowers</i> was pretty positive, even if hesitantly so in a few places, but my feelings have soured somewhat since then. Some of this is due to the last couple of updates solidifying some specific criticisms I had, some just due to sitting with my thoughts for a while and reading comments other people have made.
+
+The game's art is still good (and there's a lot of it), but apart from a few killer moments, I think its visual storytelling is kind of slight and imprecise on the whole. It's pretty common that I find myself looking at an illustration and asking: what is being communicated here? What is the story trying to emphasize by saying this with an image? What artistic decisions have been made, and how do they complement, enhance, or subvert the story being told by the prose? In a medium built on visual abstraction, I think there can indeed be too much of a good thing – apart from the images themselves often feeling weightless, the animations and the effects lose a lot of their impact as a result of the story deploying them in scenes that don't merit that level of underlining. Good direction is sometimes about being considered and purposeful and sometimes about showing restraint, and I think <i>RTF</i> has a tendency to fail in both directions.
+
+I'm also kind of wondering whether putting all available resources into sprites and CGs was a good decision after all. In my prior review, I noted that the use of stock photos endows the worldbuilding with an eerie aura of dissonance – it's all so familiar but so wrong – but in hindsight, the art direction suffers a lot as a result. Beyond the specific designs of the characters (one minor nitpick, though: King is way overdetailed, failing to match the visual language of the other sprites) and a couple of well-established worldbuilding details, like how the Axiom works, there's simply not much that will make me say "oh yes, this is a scene from <i>Remember the Flowers</i>". In a visual medium, I think science fiction lives and dies by its sense of specificity, and it's a shame that it feels like not a lot of that is achieved here despite the clear amount of work put into the visuals.
+
+16 chapters in, I feel like some fundamental structural issues are coming into focus. While I think the game is far too comfortable with wheel spinning on slice-of-lifey character interactions in general – the story can execute its big moments just fine, but the road to them is not always propulsive – there are specific setups that it takes way too long to follow up on. In particular: with Cooper being introduced as what felt like a major character, it's strange that basically nothing of impact has happened in his B-plot yet, even when it keeps popping up constantly.
+
+The real culprit behind the main story advancing so slowly is probably the fact that the VN has to introduce a whole new cast of characters after Cooper goes to take a vacation away from the main action. Even worse, it takes a long while until Silver, the new dramatic focal point (?) – besides Axel, maybe – appears, with many, many words being spent with characters like Vita and Rose, who don't feel like they amount to much.
+
+It's just kind of inelegant! I wish the game had figured out some way to make its major players show up earlier, and to elaborate on the (?) hanging out in the last paragraph over there, had more of a clarity of purpose to its cast in general. It often feels pretty hard to tell who will end up becoming important and who's just a random side character. How liberal <i>Remember the Flowers</i> is with giving minor characters sprites doesn't help, not to mention many of them just not being appropriately exaggerated in a way that would make them feel memorable and purposeful even without extensive screentime.
+
+Also, continuing with character writing woes, I think the game has a bad habit of dumping personal lore somewhat clumsily; people in it often just talk about their backstories or relationships in a way that doesn't feel motivated by the present drama or plot events. While I get why they would share important information with each other, it just often feels like there's a narrative flow missing. I think the early Cooper section was a lot better with this due to the wolf feeling like someone who had their own agenda guiding their interactions with Cyrus; everything with the new crew is somewhat dramatically inert in comparison, with Cyrus getting to uncomplicated, friendly terms with everyone pretty fast. It's weird that there is no proper thematic fallout from the betrayal, and it's just not as exciting to read with the lack of conflict.
+
+To give the game some credit it deserves, nearly all problems are in the big picture – the prose is clean and polished, and even many of its slower scenes are engaging to read on a basic level. I think it's just one of those cases where being tighter, more focused, and more deliberate would have made all the difference. Things do seem to be picking up slightly in the latest chapter, so who knows, maybe the final payoffs will be worth it after all; consider this review to be as preliminary as the previous one. I'll do a final writeup at some point, maybe after the game is finished.
+}
+
+\vanha_arvio{
+\i{(Review based on build 13)}
+
+Love almost everything about this, the visuals & music in particular. The character designs are some of my favorite in any VN; the use of color in fantastic, and the designs of the main characters look unique and communicate a lot visually while still feeling like they belong in the same world. The mix of different art styles is nice, and how each is used feels purposeful.
+
+The extensive use of photo backgrounds that seem out of place in the futuristic setting could be seen as a flaw, given that the worldbuilding is otherwise very good at making the world feel like a distinct place, but I kind of like the uncanny effect it creates. Can't really criticize where the game focuses its resources on, either; the graphical presentation feels like a huge part of why many scenes land so hard. Remember the Flowers puts the "visual" in "visual novel" in a way many games don't.
+
+The writing is consistently good. The first arc feels like the tightest & most focused one, which I think may be due to how naturally it intertwines plot, worldbuilding, and character development. Instead of communicating characterization through story, the later parts have a bad habit of relying on what feel like direct infodumps, and Cooper's character introduction remains the smoothest overall. In general, there's also a slight lack of momentum after the big twist. I'm hoping the next arc regains the strong sense of direction of the first parts – their slice of life-y hangout scenes were more engaging due to how purposeful every scene felt, both on a micro and macro level.
+
+But this is a small flaw in a story that, on the whole, really succeeds at spinning a fairly generic premise into very interesting directions. Though I may grumble about the slower pacing in the latter half of the story, it does manage to establish the characters strongly enough that I'm pretty invested in seeing what happens next.
 }
 
 \opengraph_preview{https://spark-of-mad.itch.io/the-legend-of-divinity}

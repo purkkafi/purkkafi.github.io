@@ -1,7 +1,7 @@
 
 <a id="remember-the-flowers" class="opengraphLink" href="https://jerichowo.itch.io/remember-the-flowers">
     <div class="opengraphPreview" style="--og-img: url('/assets/opengraph/remember-the-flowers.png')">
-        <img class="opengraphThumb" src="/assets/opengraph/remember-the-flowers.png"/>
+        <img class="opengraphThumb" src="/assets/opengraph/remember-the-flowers.png" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">

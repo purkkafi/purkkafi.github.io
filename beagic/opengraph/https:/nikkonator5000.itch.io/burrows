@@ -1,7 +1,7 @@
 
 <a id="burrows" class="opengraphLink" href="https://nikkonator5000.itch.io/burrows">
     <div class="opengraphPreview" style="--og-img: url('/assets/opengraph/burrows.gif')">
-        <img class="opengraphThumb" src="/assets/opengraph/burrows.gif"/>
+        <img class="opengraphThumb" src="/assets/opengraph/burrows.gif" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">

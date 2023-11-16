@@ -1,7 +1,7 @@
 
 <a id="dawn-chorus" class="opengraphLink" href="https://dawn-chorus.itch.io/dawn-chorus">
     <div class="opengraphPreview" style="--og-img: url('/assets/opengraph/dawn-chorus.png')">
-        <img class="opengraphThumb" src="/assets/opengraph/dawn-chorus.png"/>
+        <img class="opengraphThumb" src="/assets/opengraph/dawn-chorus.png" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">

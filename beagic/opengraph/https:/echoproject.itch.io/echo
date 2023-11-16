@@ -1,13 +1,13 @@
 
 <a id="echo" class="opengraphLink" href="https://echoproject.itch.io/echo">
     <div class="opengraphPreview" style="--og-img: url('/assets/opengraph/echo.png')">
-        <img class="opengraphThumb" src="/assets/opengraph/echo.png"/>
+        <img class="opengraphThumb" src="/assets/opengraph/echo.png" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">
                 <span class="opengraphTitle">Echo</span>
                 <br>
-                by <span class="opengraphBy">The Echo Project</span>
+                by <span class="opengraphBy">Echo Project</span>
                 <br>
                 <span class="opengraphDescription">You're always moving in circles...</span>
             </p>

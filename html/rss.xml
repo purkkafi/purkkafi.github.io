@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Re-review: Remember the Flowers</title>
+        <description>i like it slightly less now, sorry!</description>
+        <link>https://purkka.fi/fvn_recs.html#remember-the-flowers</link>
+        <guid>https://purkka.fi/fvn_recs.html#remember-the-flowers</guid>
+        <pubDate>Thu, 16 Nov 2023 02:25:23 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: The Marshal of Finland</title>
         <description>The Marshal of Finland, 2012 - ★</description>
         <link>https://letterboxd.com/purkka/film/the-marshal-of-finland/</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/showing-up-2022/</link>
         <guid>https://letterboxd.com/purkka/film/showing-up-2022/</guid>
         <pubDate>Sun, 17 Sep 2023 10:24:23 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Kubi</title>
-        <description>Kubi, 2023 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/kubi/</link>
-        <guid>https://letterboxd.com/purkka/film/kubi/</guid>
-        <pubDate>Sat, 16 Sep 2023 10:31:56 +1200</pubDate>
     </item>
     
     </channel>

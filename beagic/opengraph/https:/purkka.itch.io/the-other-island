@@ -1,7 +1,7 @@
 
 <a id="the-other-island" class="opengraphLink" href="https://purkka.itch.io/the-other-island">
     <div class="opengraphPreview" style="--og-img: url('/assets/opengraph/the-other-island.png')">
-        <img class="opengraphThumb" src="/assets/opengraph/the-other-island.png"/>
+        <img class="opengraphThumb" src="/assets/opengraph/the-other-island.png" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">

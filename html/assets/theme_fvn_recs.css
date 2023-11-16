@@ -6,5 +6,10 @@
     background-color: var(--bg-accent2-color);
 }
 
-.categoryBody {
+.review:has(+ .review) {
+    margin: 1em 0 1em 0;
+}
+
+.review {
+    margin: 1em 0 3em 0;
 }

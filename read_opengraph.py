@@ -72,7 +72,7 @@ for url in urls:
         f.write(f"""
 <a id="{meta['id']}" class="opengraphLink" href="{meta['url']}">
     <div class="opengraphPreview" style="--og-img: url('{meta['image']}')">
-        <img class="opengraphThumb" src="{meta['image']}"/>
+        <img class="opengraphThumb" src="{meta['image']}" loading="lazy" />
         
         <div class="opengraphContent">
             <p class="opengraphText">
