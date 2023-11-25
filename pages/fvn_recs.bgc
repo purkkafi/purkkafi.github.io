@@ -193,22 +193,6 @@ In the end, I guess the only truly honest thing I can say about <i>The Smoke Roo
 
 \arviolista{Upcoming & Promising}{
 
-\opengraph_preview{https://nikkonator5000.itch.io/burrows}
-
-\arvio{
-\i{(Review based on 0.7)}
-
-Very good. The visual style and presentation are top-notch; the game has a memorable look and feel that works across all the time periods the story takes place in while still feeling cohesive. It even feels like the art has improved during the development period, with some of the first sprites looking less gracefully drawn and posed than the newer ones.
-
-The writing is good; I like how distinct all the main characters and settings feel. The game is frequently pretty funny, and I appreciate how humor tends to be pretty deadpan and mostly delivered via dialogue, preventing it from clashing with the pretty dark tone.
-
-I only have minor reservations – some of the routes (Mark's and Gabe's in particular) feel a bit directionless and meandering at the start, which is kind of jarring due to the prologue (especially the new one!) doing such a good job at establishing the tone of the game. There's just a certain lack of urgency in the cozy hangout scenes that doesn't necessarily feel natural. The writing is still good and tight enough for it not to feel like a huge issue, though, and on the other hand, Hiro's succeeds at establishing the stakes fast.
-
-On the whole, it's a fantastically paced game, but I feel like a slower slide towards the horror elements could have worked well with how the individual routes develop. Singular scenes always work well; tonal shifts between them are less consistent, with darker and lighter sections just kind of coming and going and the characters, as a result, sometimes appearing to be weirdly nonplussed by the circumstances they are in.
-
-Between the intriguing mystery plot and the high production values, it's clearly a VN worth following, and I'm very happy about how it's coming along (the update to the prologue, for instance, was a massive improvement). Can't wait to see more.
-}
-
 \opengraph_preview{https://dawntidedev.itch.io/dawntide}
 
 \arvio{
@@ -300,6 +284,40 @@ An easy recommendation for people looking for good science fiction with interest
 
 
 \arviolista{Mixed Feelings}{
+
+\opengraph_preview{https://nikkonator5000.itch.io/burrows}
+
+\arvio{
+\i{(Review based on build 0.12.1)}
+
+<i>Burrows</i> is another VN I have a lot of complicated thoughts about and have needed some time to assess properly. The positives (the fantastic art and how much of it there is, the polish in everything from writing to presentation, the original premise) are pretty apparent, I'd say; the game looks and feels like a professional project even with a couple of nitpicks to make (like the buttons at the bottom of the screen not being visible against light backgrounds). I'm not in love with every storytelling choice made, though, or how the core narrative is set up and structured in general.
+
+First of all: its tonal unevenness is something I've been paying attention to since the game first came out, and at this point, I think I can pinpoint what exactly feels so off about it. For what is ostensibly a horror story, horror often feels strangely incidental and impactless. Let me explain: the characters go on about how they're trapped in a nightmare, but <i>Burrows</i> being always ready to retreat back to cozy character interactions or porny sex scenes makes the description ring false – there is no sense of escalation or rising tension, and I'm never convinced that the spooky episodes will result in real consequences. It's not impossible to fit everything the game wants to do into a single story, but I feel like the meandering structure just doesn't prop up the dramatic stakes.
+
+The fact that the frequently jumpscare-y visuals have to do so much work in scary scenes feels like a symptom – I think the kind of slowly intensifying atmosphere of dread that I like to see in written horror is not there. Your mileage may vary; to me, the more cinematic kind of horror <i>Burrows</i> is going for simply doesn't feel like it makes effective use of the entire medium. Sure, the game can conjure images that are horrifying and uncomfortable to look at, but it just doesn't hit me in a way a lot of other stories (including furry visual novels) have managed to do with prose alone.
+
+The thing making me kind of hesitant about this analysis is how aware the VN seems to be of the dissonance in Ken's route, where the question of how "real" any of this is and how much it matters is direct text instead of subtext. This theme is clearly going somewhere; I guess I'm just waiting for the other shoe to drop. Still, the stark tonal mismatches do feel like a problem, and I don't feel completely engaged in the horror aspect or the fun character hangouts despite all the routes having covered quite a lot of ground already.
+
+Also, on the whole, <i>Burrows</i> feels somewhat burdened by the routes being entirely separate in terms of cast and location while telling what is essentially the same story. After you've experienced it once, the repetition of plot beats as Grey slowly comes to understand his situation feels slightly tedious in a way the freshness of each setting doesn't completely account for, and the amount of route-specific setup needed as a result of them being so distinct is daunting. I like the idea of this whole setup, and being able to examine queerness across different locales and throughout history is something the game uses nicely, but it does have significant tradeoffs compared to a shared setting.
+
+When it comes to the mystery aspect, meanwhile: without getting into spoilers, there is one character in particular who seems like they mostly exist to fill in lore and save the protagonists the trouble of investigating the mystery themselves. (You could maybe say something similar about several sort of too-convenient supernatural elements.) For this kind of story, it feels like a misstep that the characters don't always come across as active participants with agency and goals – they essentially just wander through the narrative, with many hints about what's going on encountered along the way being more useful for the reader. Some concrete reveals so far feel more impactless than they could have been as a result of the lacking in-story buildup of the protagonists themselves working through the mysteries.
+
+Take all of this with a healthy-sized grain of salt, obviously; besides the game being still unfinished, a lot of people seem to be liking it, so maybe this is fundamentally more of a "not for me" thing. Still, I think what I said here is a fair assessment of why I don't feel fully engrossed by the story, despite everything it has going for it and the lavish production values. We'll see if my opinion changes! <i>Burrows</i> does make a lot of interesting choices, and I'm more than willing to stick to the end and see what it has in store.
+}
+
+\vanha_arvio{
+\i{(Review based on 0.7)}
+
+Very good. The visual style and presentation are top-notch; the game has a memorable look and feel that works across all the time periods the story takes place in while still feeling cohesive. It even feels like the art has improved during the development period, with some of the first sprites looking less gracefully drawn and posed than the newer ones.
+
+The writing is good; I like how distinct all the main characters and settings feel. The game is frequently pretty funny, and I appreciate how humor tends to be pretty deadpan and mostly delivered via dialogue, preventing it from clashing with the pretty dark tone.
+
+I only have minor reservations – some of the routes (Mark's and Gabe's in particular) feel a bit directionless and meandering at the start, which is kind of jarring due to the prologue (especially the new one!) doing such a good job at establishing the tone of the game. There's just a certain lack of urgency in the cozy hangout scenes that doesn't necessarily feel natural. The writing is still good and tight enough for it not to feel like a huge issue, though, and on the other hand, Hiro's succeeds at establishing the stakes fast.
+
+On the whole, it's a fantastically paced game, but I feel like a slower slide towards the horror elements could have worked well with how the individual routes develop. Singular scenes always work well; tonal shifts between them are less consistent, with darker and lighter sections just kind of coming and going and the characters, as a result, sometimes appearing to be weirdly nonplussed by the circumstances they are in.
+
+Between the intriguing mystery plot and the high production values, it's clearly a VN worth following, and I'm very happy about how it's coming along (the update to the prologue, for instance, was a massive improvement). Can't wait to see more.
+}
 
 \opengraph_preview{https://horrorbuns.itch.io/clawstar-wrestling}
 
