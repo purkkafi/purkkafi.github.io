@@ -7,6 +7,54 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: 9:22</title>
+        <description>it's good!</description>
+        <link>https://purkka.fi/fvn_recs.html#922</link>
+        <guid>https://purkka.fi/fvn_recs.html#922</guid>
+        <pubDate>Thu, 28 Dec 2023 00:58:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Rebel Moon - Part One: A Child of Fire</title>
+        <description>Rebel Moon - Part One: A Child of Fire, 2023 - ★½</description>
+        <link>https://letterboxd.com/purkka/film/rebel-moon-part-one-a-child-of-fire/</link>
+        <guid>https://letterboxd.com/purkka/film/rebel-moon-part-one-a-child-of-fire/</guid>
+        <pubDate>Sun, 24 Dec 2023 07:37:35 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Poor Things</title>
+        <description>Poor Things, 2023 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/poor-things-2023/</link>
+        <guid>https://letterboxd.com/purkka/film/poor-things-2023/</guid>
+        <pubDate>Thu, 21 Dec 2023 11:53:58 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Tokyo Story</title>
+        <description>Tokyo Story, 1953 - ★★★★★</description>
+        <link>https://letterboxd.com/purkka/film/tokyo-story/</link>
+        <guid>https://letterboxd.com/purkka/film/tokyo-story/</guid>
+        <pubDate>Thu, 21 Dec 2023 11:30:58 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Saltburn</title>
+        <description>Saltburn, 2023 - ★½</description>
+        <link>https://letterboxd.com/purkka/film/saltburn/</link>
+        <guid>https://letterboxd.com/purkka/film/saltburn/</guid>
+        <pubDate>Fri, 15 Dec 2023 13:18:46 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Wax, or The Discovery of Television Among the Bees</title>
+        <description>Wax, or The Discovery of Television Among the Bees, 1991 - ★★★★★</description>
+        <link>https://letterboxd.com/purkka/film/wax-or-the-discovery-of-television-among-the-bees/</link>
+        <guid>https://letterboxd.com/purkka/film/wax-or-the-discovery-of-television-among-the-bees/</guid>
+        <pubDate>Fri, 15 Dec 2023 13:15:53 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: No More Future</title>
         <description>more thoughts about this game that fit under itch.io's review length limit!</description>
         <link>https://purkka.fi/fvn_recs.html#no-more-future</link>
@@ -116,54 +164,6 @@
         <link>https://purkka.fi/fvn_recs.html#undefeated</link>
         <guid>https://purkka.fi/fvn_recs.html#undefeated</guid>
         <pubDate>Sun, 15 Oct 2023 00:33:47 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: The Smoke Room</title>
-        <description>gretchen tsr i would do anything for you</description>
-        <link>https://purkka.fi/fvn_recs.html#the-smoke-room</link>
-        <guid>https://purkka.fi/fvn_recs.html#the-smoke-room</guid>
-        <pubDate>Fri, 06 Oct 2023 00:17:31 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: The Legend of Divinity</title>
-        <description>rough but promising</description>
-        <link>https://purkka.fi/fvn_recs.html#the-legend-of-divinity</link>
-        <guid>https://purkka.fi/fvn_recs.html#the-legend-of-divinity</guid>
-        <pubDate>Fri, 06 Oct 2023 00:17:31 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Tale of the Fox</title>
-        <description>The Tale of the Fox, 1937 - ★★★★½</description>
-        <link>https://letterboxd.com/purkka/film/the-tale-of-the-fox/</link>
-        <guid>https://letterboxd.com/purkka/film/the-tale-of-the-fox/</guid>
-        <pubDate>Mon, 2 Oct 2023 13:28:15 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Dual</title>
-        <description>Dual, 2022 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/dual-2022/</link>
-        <guid>https://letterboxd.com/purkka/film/dual-2022/</guid>
-        <pubDate>Sun, 1 Oct 2023 14:16:45 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Spirit: Summoners of Áine-Chlair</title>
-        <description>i hate it when my kobold reads my Adult Magazine</description>
-        <link>https://purkka.fi/fvn_recs.html#spirit-summoners-of-inechlair</link>
-        <guid>https://purkka.fi/fvn_recs.html#spirit-summoners-of-inechlair</guid>
-        <pubDate>Sat, 30 Sep 2023 16:09:28 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>HIFF2023: A purkka.fi Field Report</title>
-        <description>You won't believe what this lion saw at this film festival! (it's movies)</description>
-        <link>https://purkka.fi/esseet/hiff2023.html</link>
-        <guid>https://purkka.fi/esseet/hiff2023.html</guid>
-        <pubDate>Fri, 29 Sep 2023 15:07:43 +0000</pubDate>
     </item>
     
     </channel>
