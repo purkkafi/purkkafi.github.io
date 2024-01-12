@@ -7,6 +7,46 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Flotsam</title>
+        <description>i keep misreading the name of this VN as "floatsam" but that doesn't even mean anything</description>
+        <link>https://purkka.fi/fvn_recs.html#flotsam</link>
+        <guid>https://purkka.fi/fvn_recs.html#flotsam</guid>
+        <pubDate>Fri, 12 Jan 2024 19:19:03 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Blue Jean</title>
+        <description>Blue Jean, 2022 - ★★★½</description>
+        <link>https://letterboxd.com/purkka/film/blue-jean/</link>
+        <guid>https://letterboxd.com/purkka/film/blue-jean/</guid>
+        <pubDate>Wed, 10 Jan 2024 11:29:50 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Rumble</title>
+        <description>Rumble, 2002 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/rumble/</link>
+        <guid>https://letterboxd.com/purkka/film/rumble/</guid>
+        <pubDate>Sat, 6 Jan 2024 11:25:36 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Dinosaur</title>
+        <description>Dinosaur, 2000 - ★★</description>
+        <link>https://letterboxd.com/purkka/film/dinosaur/</link>
+        <guid>https://letterboxd.com/purkka/film/dinosaur/</guid>
+        <pubDate>Sat, 6 Jan 2024 11:24:18 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Syndromes and a Century</title>
+        <description>Syndromes and a Century, 2006 - ★★★★½</description>
+        <link>https://letterboxd.com/purkka/film/syndromes-and-a-century/</link>
+        <guid>https://letterboxd.com/purkka/film/syndromes-and-a-century/</guid>
+        <pubDate>Sat, 30 Dec 2023 14:18:52 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: 9:22</title>
         <description>it's good!</description>
         <link>https://purkka.fi/fvn_recs.html#922</link>
@@ -124,46 +164,6 @@
         <link>https://purkka.fi/fvn_recs.html#remember-the-flowers</link>
         <guid>https://purkka.fi/fvn_recs.html#remember-the-flowers</guid>
         <pubDate>Thu, 16 Nov 2023 02:25:23 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Marshal of Finland</title>
-        <description>The Marshal of Finland, 2012 - ★</description>
-        <link>https://letterboxd.com/purkka/film/the-marshal-of-finland/</link>
-        <guid>https://letterboxd.com/purkka/film/the-marshal-of-finland/</guid>
-        <pubDate>Tue, 14 Nov 2023 06:53:22 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Reading Furry Art: Longing (Drake, 2023)</title>
-        <description>i guess you could say i am   "longing"   to view this picture</description>
-        <link>https://purkka.fi/rfa/drake_longing.html</link>
-        <guid>https://purkka.fi/rfa/drake_longing.html</guid>
-        <pubDate>Mon, 13 Nov 2023 01:43:06 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Five Nights at Freddy&#x27;s</title>
-        <description>Five Nights at Freddy&#x27;s, 2023 - ½</description>
-        <link>https://letterboxd.com/purkka/film/five-nights-at-freddys/</link>
-        <guid>https://letterboxd.com/purkka/film/five-nights-at-freddys/</guid>
-        <pubDate>Sat, 28 Oct 2023 11:37:52 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Killers of the Flower Moon</title>
-        <description>Killers of the Flower Moon, 2023 - ★★★★★</description>
-        <link>https://letterboxd.com/purkka/film/killers-of-the-flower-moon/</link>
-        <guid>https://letterboxd.com/purkka/film/killers-of-the-flower-moon/</guid>
-        <pubDate>Tue, 24 Oct 2023 06:09:23 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Undefeated</title>
-        <description>krista kosonen in blade runner 2049 voice: that guy is undefeated, let's leave him alone</description>
-        <link>https://purkka.fi/fvn_recs.html#undefeated</link>
-        <guid>https://purkka.fi/fvn_recs.html#undefeated</guid>
-        <pubDate>Sun, 15 Oct 2023 00:33:47 +0000</pubDate>
     </item>
     
     </channel>
