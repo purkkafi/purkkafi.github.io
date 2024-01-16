@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: High Seas</title>
+        <description>i liked it when they said "where are we, on some kind of high seas?"</description>
+        <link>https://purkka.fi/fvn_recs.html#high-seas</link>
+        <guid>https://purkka.fi/fvn_recs.html#high-seas</guid>
+        <pubDate>Tue, 16 Jan 2024 00:41:23 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Flotsam</title>
         <description>i keep misreading the name of this VN as "floatsam" but that doesn't even mean anything</description>
         <link>https://purkka.fi/fvn_recs.html#flotsam</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-boy-and-the-heron/</link>
         <guid>https://letterboxd.com/purkka/film/the-boy-and-the-heron/</guid>
         <pubDate>Sat, 18 Nov 2023 12:26:34 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Re-review: Remember the Flowers</title>
-        <description>i like it slightly less now, sorry!</description>
-        <link>https://purkka.fi/fvn_recs.html#remember-the-flowers</link>
-        <guid>https://purkka.fi/fvn_recs.html#remember-the-flowers</guid>
-        <pubDate>Thu, 16 Nov 2023 02:25:23 +0000</pubDate>
     </item>
     
     </channel>
