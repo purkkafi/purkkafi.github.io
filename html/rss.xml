@@ -7,6 +7,38 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Of Heart and Stone</title>
+        <description>it's nice!</description>
+        <link>https://purkka.fi/fvn_recs.html#of-heart-and-stone</link>
+        <guid>https://purkka.fi/fvn_recs.html#of-heart-and-stone</guid>
+        <pubDate>Sun, 28 Jan 2024 01:13:30 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Little Red Riding Hood</title>
+        <description>Little Red Riding Hood, 1995 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/little-red-riding-hood-1995-1/</link>
+        <guid>https://letterboxd.com/purkka/film/little-red-riding-hood-1995-1/</guid>
+        <pubDate>Fri, 26 Jan 2024 14:24:47 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Pelle Hermanni ja Hypnotisoija</title>
+        <description>Pelle Hermanni ja Hypnotisoija, 2023 - ★½</description>
+        <link>https://letterboxd.com/purkka/film/pelle-hermanni-ja-hypnotisoija/</link>
+        <guid>https://letterboxd.com/purkka/film/pelle-hermanni-ja-hypnotisoija/</guid>
+        <pubDate>Fri, 19 Jan 2024 05:05:58 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Monster</title>
+        <description>Monster, 2023 - ★★★½</description>
+        <link>https://letterboxd.com/purkka/film/monster-2023/</link>
+        <guid>https://letterboxd.com/purkka/film/monster-2023/</guid>
+        <pubDate>Wed, 17 Jan 2024 12:31:21 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: High Seas</title>
         <description>i liked it when they said "where are we, on some kind of high seas?"</description>
         <link>https://purkka.fi/fvn_recs.html#high-seas</link>
@@ -132,38 +164,6 @@
         <link>https://letterboxd.com/purkka/film/chuck-e-cheese-in-the-galaxy-5000/</link>
         <guid>https://letterboxd.com/purkka/film/chuck-e-cheese-in-the-galaxy-5000/</guid>
         <pubDate>Wed, 29 Nov 2023 14:53:33 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Day the Earth Froze</title>
-        <description>The Day the Earth Froze, 1959 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/the-day-the-earth-froze/</link>
-        <guid>https://letterboxd.com/purkka/film/the-day-the-earth-froze/</guid>
-        <pubDate>Mon, 27 Nov 2023 13:55:49 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Re-review: Burrows</title>
-        <description>it's time to burrow deeper</description>
-        <link>https://purkka.fi/fvn_recs.html#burrows</link>
-        <guid>https://purkka.fi/fvn_recs.html#burrows</guid>
-        <pubDate>Sat, 25 Nov 2023 19:48:18 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Creator</title>
-        <description>The Creator, 2023 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/the-creator-2023/</link>
-        <guid>https://letterboxd.com/purkka/film/the-creator-2023/</guid>
-        <pubDate>Tue, 21 Nov 2023 12:34:49 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Boy and the Heron</title>
-        <description>The Boy and the Heron, 2023 - ★★★★</description>
-        <link>https://letterboxd.com/purkka/film/the-boy-and-the-heron/</link>
-        <guid>https://letterboxd.com/purkka/film/the-boy-and-the-heron/</guid>
-        <pubDate>Sat, 18 Nov 2023 12:26:34 +1300</pubDate>
     </item>
     
     </channel>
