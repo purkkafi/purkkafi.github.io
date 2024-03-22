@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>All 36 Continuous Star Wars Marathons Ranked</title>
+        <description>You won't believe what's ranked last!</description>
+        <link>https://purkka.fi/esseet/swmarathons.html</link>
+        <guid>https://purkka.fi/esseet/swmarathons.html</guid>
+        <pubDate>Fri, 22 Mar 2024 21:19:15 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: Nimona</title>
         <description>Nimona, 2023 - ★½</description>
         <link>https://letterboxd.com/purkka/film/nimona-2023/</link>
@@ -156,14 +164,6 @@
         <link>https://purkka.fi/fvn_recs.html#of-heart-and-stone</link>
         <guid>https://purkka.fi/fvn_recs.html#of-heart-and-stone</guid>
         <pubDate>Sun, 28 Jan 2024 01:13:30 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Little Red Riding Hood</title>
-        <description>Little Red Riding Hood, 1995 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/little-red-riding-hood-1995-1/</link>
-        <guid>https://letterboxd.com/purkka/film/little-red-riding-hood-1995-1/</guid>
-        <pubDate>Fri, 26 Jan 2024 14:24:47 +1300</pubDate>
     </item>
     
     </channel>
