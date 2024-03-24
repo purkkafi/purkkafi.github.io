@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: The Blue Cloth</title>
+        <description>The Blue Cloth fandom, grab your orbs</description>
+        <link>https://purkka.fi/fvn_recs.html#the-blue-cloth</link>
+        <guid>https://purkka.fi/fvn_recs.html#the-blue-cloth</guid>
+        <pubDate>Sun, 24 Mar 2024 23:45:12 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>All 36 Continuous Star Wars Marathons Ranked</title>
         <description>You won't believe what's ranked last!</description>
         <link>https://purkka.fi/esseet/swmarathons.html</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/stormskerry-maja/</link>
         <guid>https://letterboxd.com/purkka/film/stormskerry-maja/</guid>
         <pubDate>Mon, 29 Jan 2024 08:41:42 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Of Heart and Stone</title>
-        <description>it's nice!</description>
-        <link>https://purkka.fi/fvn_recs.html#of-heart-and-stone</link>
-        <guid>https://purkka.fi/fvn_recs.html#of-heart-and-stone</guid>
-        <pubDate>Sun, 28 Jan 2024 01:13:30 +0000</pubDate>
     </item>
     
     </channel>
