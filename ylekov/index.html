@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Ylekov – purkka.fi</title>
+        
+        
+        
+        <link rel="icon" href="/assets/favicon.png">
+        
+        <link rel="stylesheet" href="/assets/style.css">
+        <link rel="stylesheet" href="/assets/theme_ylekov.css">
+        
+        <script src="/new_links.js" defer></script>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet"> 
+    </head>
+        
+    <body>
+        
+        <div id="container">
+            <div id="leftSide"></div>
+            
+            <div id="middle">
+                <header>
+                    <a id="indexlink" href=/><h1>purkka.fi</h1></a>
+                </header>
+            
+                <article>
+<div class="imageContainer"><img src="/assets/ylekov_logo.png" class="smallImage" alt="Ylekov-logo."></div><div class="center">
+
+<p><a href="https://bsky.app/profile/ylekov.bsky.social">Bluesky</a> • <a href="https://t.me/ylekov">Telegram</a> • <a href="https://twitter.com/ylekov_uutiset">Twitter</a> (kuollut, rip)</p>
+
+</div><div style="height: 2em;"></div>
+
+<p>Ylekov on ylläpitämäni botti, joka on tällä hetkellä Teleegram- ja Bluesky-alustoilla. Sen lähdekoodi on saatavilla <a href="https://github.com/purkkafi/ylekov">GitHubissa</a>. Otsikot generoi yksinkertainen Java-ohjelma, ja bottia ajaa vielä yksinkertaisempi Python-skripti.</p>
+
+<p>Katso myös: <a href="/ylekov/neurouutiset/">Neurouutiset</a></p>
+
+<p><a href="/UKK.html" class="hiddenLink"></p>
+
+<h3>UKK</h3>
+
+<p></a></p>
+
+<p><b>Kuinka otsikot luodaan?</b></p>
+
+<p>Ylekov lataa tuoreita otsikoilta erinäisistä lähteistä, korjaa niitä* ja pilkkoo ne sanoiksi. Postaukset luodaan arpomalla siten, että jokainen yksittäinen peräkkäinen sanapari on esiintynyt sellaisenaan aineistossa. Tämän jälkeen mm. suodatetaan pois suoraan kopioidut otsikot ja yritetään korjata lainausmerkit järkeviksi. Perusidea on lainattu <a href="https://en.wikipedia.org/wiki/Markov_chain">Markovin ketjuilta</a>, jotka olivat suosittu tekstigeneroinnin väline ennen neuroverkkojen yleistymistä.</p>
+
+<p>* Toimittajat käyttävät silloin tällöin yhdysmerkkiä (-) ajatusviivan (–) paikalla ja ties mitä lainausmerkkejä oikeiden (”) sijaan. Siistin tällaiset eroavaisuudet, jotta ohjelma ymmärtää kyseen olevan samoista merkeistä.</p>
+
+<p><b>Miltä lehdiltä ainesotsikot haetaan?</b></p>
+
+<p>Tällä hetkellä: Hymy, MTV, Seiska, HS, IS, Yle, IL, Nyt.fi</p>
+
+<p>Voin periaatteessa lisätä uusia otsikkolähteitä, mutta helpoiten se onnistuu, jos saatavilla on RSS-syöte.</p>
+
+<p><b>Apua, botti on kuollut</b></p>
+
+<p>Python-skripti on jäänyt pari kertaa jumiin, jolloin minun on täytynyt kirjautua palvelimelle ja käynnistää se uudelleen. Tätä käy niin harvoin, etten ole jaksanut kehittää mitään älykkäämpää tai luotettavampaa ratkaisua.</p>
+
+<p>Ongelmista saa ilmoittaa minulle esim. Twitterin kautta, mutta yleensä huomaan ne itsekin melko pian. Jos en, voi olla muita kiireitä.</p>
+
+<p><b>Mikä on "klassinen ylekov"?</b></p>
+
+<p>Joka vuorokausi* iltakuuden- ja seitsemän välillä botti postaa yhden aiemmin julkaistun otsikon. Tämän ominaisuuden nimi on klassinen ylekov.</p>
+
+<p>Klassiset ylekovit poimitaan listalta, johon olen koneellisesti seulonut kaikki tarpeeksi suuren suosion saavuttaneet postaukset Twitterin tarjoamasta <a href="https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data">data-arkistosta</a>. Päivitän listaa silloin tällöin, jotta mukaan pääsee uusia postauksia.</p>
+
+<p>* Ei välttämättä. Tämä johtuu siitä, että botti ei postaa tismalleen tunnin välein – se twiittaa uuden otsikon (tämä vie hyvin vähän aikaa) ja nukkuu tasan tunnin. Voi sattua, ettei yhtäkään twiittiä lähetetä kellonaikana, jonka tunti on 18, ja silloin klassista ylekovia ei ilmesty sinä vuorokautena.</p>
+
+<p><b>Mikä on Ylekov-otsikkojen tekijänoikeudellinen status?</b></p>
+
+<p>Erittäin hyvä kysymys, johon en tiedä vastausta itsekään. Ylekovin toimintaa voisi verrata tällaiseen fyysiseen prosessiin:</p>
+
+<p>1) etsi kasa painettuja lehtiä<br>
+2) leikkaa niistä satunnaisia otsikoita<br>
+3) leikkaa otsikot edelleen yksittäisiksi sanoiksi<br>
+4) lahjoita sanat kaverille, joka ei ole lukenut otsikkoja, ja anna tälle tehtäväksi yhdistellä niitä mielensä mukaan</p>
+
+<p>Kuka omistaa tällä tavalla luodut tuotokset? Uskoisin, että alkuperäiset otsikot ylittävät teoskynnyksen ja ovat siten tekijänoikeuksien suojaamia. (Jos eivät, asia on sillä selvä.) Mutta toisaalta ne pilkotaan prosessin aikana yksittäisiksi sanoiksi, jotka eivät ole teoksia. Lopputulos saattaa sisältää katkelmia joistakin otsikoista, mutta se on silti luotu sana kerrallaan ja ilman aikomusta kopioida.</p>
+
+<p>Mitä tästä nyt pitäisi sitten ajatella? En tiedä. Helpoiten asia varmaan selviäisi sillä, että joku printtaisi 500000 t-paitaa Ylekovin luomilla sloganeilla ja odottaisi, että mediat haastavat oikeuteen.</p>
+                </article>
+                
+                <div class="hr"></div>
+                <footer>
+                    <div class="footerSection">
+                        <p>uutta • new</p>
+                        <div id="newLinks"><span class="newLink"><a href="https://purkka.fi/fvn_recs.html#the-blue-cloth">FVN Review: The Blue Cloth</a><br>24.3.2024<br></span><span class="newLink"><a href="https://purkka.fi/esseet/swmarathons.html">All 36 Continuous Star Wars Marathons Ranked</a><br>22.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/nimona-2023/">Review: Nimona</a><br>20.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/list/good-under-5k/">good under 5k</a><br>20.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/a-long-shot-2023/">Review: A Long Shot</a><br>17.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/inside-the-yellow-cocoon-shell/">Review: Inside the Yellow Cocoon Shell</a><br>17.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/snow-leopard/">Review: Snow Leopard</a><br>16.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/past-lives/">Review: Past Lives</a><br>12.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/ferrari-2023/">Review: Ferrari</a><br>10.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/shakes-the-clown/">Review: Shakes the Clown</a><br>8.3.2024<br></span><span class="newLink"><a href="https://purkka.fi/fvn_recs.html#neven">FVN Review: NeveN</a><br>6.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/red-shift/">Review: Red Shift</a><br>1.3.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/dune-part-two/">Review: Dune: Part Two</a><br>28.2.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/madame-web/">Review: Madame Web</a><br>23.2.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/anatomy-of-a-fall/">Review: Anatomy of a Fall</a><br>23.2.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/rendel/">Review: Rendel</a><br>20.2.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/under-the-skin-2013/">Review: Under the Skin</a><br>15.2.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/the-adventures-of-iron-pussy/">Review: The Adventures of Iron Pussy</a><br>12.2.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/list/2024-ranked/">2024 ranked</a><br>28.1.2024<br></span><span class="newLink"><a href="https://letterboxd.com/purkka/film/stormskerry-maja/">Review: Stormskerry Maja</a><br>28.1.2024<br></span></div>
+                    </div>
+                    
+                    <div class="footerSection">
+                        <p>purkka.fi</p>
+                        <p>
+                        <a href=/kuvasto.html>kuvasto</a>
+                        •
+                        <a href=/catalogue.html>catalogue</a>
+                        </p>
+                        <p>
+                        <a href=/tietoja.html>tietoja</a>
+                        •
+                        <a href=/about.html>about</a>
+                        </p>
+                        <p><a href=/lenkkipuu/>lenkkipuu</a></p>
+                        <p><a href=/rss.html>rss</a></p>
+                    </div>
+                    
+                    <div class="footerSection">
+                        <p>linkkejä • links</p>
+                        
+                        <div id="socials">
+                            <a href=https://bsky.app/profile/purkka.fi target="_blank"><img src="/assets/smicons/bs.webp" alt="Bluesky" title="Bluesky"></a>
+                            <a href=https://twitter.com/purkkafi target="_blank"><img src="/assets/smicons/tw.webp" alt="Twitter" title="Twitter"></a>
+                            <a href=https://retrospring.net/@purkka target="_blank"><img src="/assets/smicons/rs.webp" alt="Retrospring" title="Retrospring"></a>
+                            <a href=https://t.me/purkkafi target="_blank"><img src="/assets/smicons/tg.webp" alt="Telegram" title="Telegram"></a>
+                            <a href=https://letterboxd.com/purkka/ target="_blank"><img src="/assets/smicons/lbd.webp" alt="Letterboxd" title="Letterboxd"></a>
+                        </div>
+                        
+                        <p>ystävät • friends</p>
+                        
+                        <p><a href="https://cyclopicbricks.blogspot.com/">Cyclopic Bricks</a></p>
+                        
+                        <p><a href="https://www.aleksisshi.com/">Aleksis Shi</a></p>
+                        
+                        <p><a href="https://myanimallist.net/">MyAnimalList</a></p>
+                        
+                        <p><a href="http://sotlaasa.portfoliobox.net/">Santeri Laasanen</a></p>
+                    </div>
+                </footer>
+            </div>
+            
+            <div id="rightSide"></div>
+        </div>
+        
+        <script>
+            // --------------------------------------------------------
+            // opens <details> tags if linked to an element inside them
+            // --------------------------------------------------------
+
+            function openDetails() {
+                var hash = location.hash.substring(1)
+                if(hash == "") {
+                    return
+                }
+                
+                var element = document.getElementById(hash)
+                var parent = element.parentElement
+                
+                while(parent != null) {
+                    if(parent.tagName == 'DETAILS') {
+                        parent.open = true
+                    }
+                    parent = parent.parentElement
+                }
+            }
+
+            window.addEventListener('hashchange', openDetails)
+            openDetails()
+        </script>
+    </body>
+</html>
