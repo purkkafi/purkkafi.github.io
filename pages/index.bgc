@@ -15,7 +15,7 @@
 \div{frontBoxes}{
 \frontBoxSmall{/kuvasto.html}{Suomeksi 🇫🇮}
 \frontBoxSmall{/catalogue.html}{In English 🇬🇧}
-\frontBox{/tiikerit/}{The Other Island}{/assets/tiikerit/itch_cover.png}
+\frontBox{/maywolf2024/}{MAY WOLF 2024}{/assets/maywolf2024/img.webp}
 \frontBox{/rfa/drake_longing.html}{Reading Furry Art: Longing (Drake, 2023)}{/assets/rfa/longing_full.webp}
 \frontBox{/esseet/hiff2023.html}{HIFF2023: A purkka.fi Field Report}{/assets/hiff2023/ohno.webp}
 \frontBox{/esseet/swnames.html}{how to generate star wars names (not clickbait)}{/assets/swnames/vitamin1.png}
@@ -26,6 +26,7 @@
 
 \tauko
 
-\väliotsikko{1.1.2023}
+\väliotsikko{18.6.2023}
 
-Happy new year! Today I released \linkki{https://purkka.itch.io/the-other-island}{The Other Island}, a demo for the visual novel project I've been working on for some time now. It's based on a short story that was available here a while ago, but edited, translated to English, and with some fantastic graphical contributions from a variety of artists. Go play it!!
+I released a new visual novel some time ago, if you haven't seen it yet: \linkki{https://purkka.itch.io/my-municipality}{My Municipality – Oi kuntani mun}.
+
