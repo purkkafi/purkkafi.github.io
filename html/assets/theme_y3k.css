@@ -150,8 +150,8 @@ header a h1 {
 }
 
 .memberImage img {
-    width: 100%;
-    max-width: 30ch;
+    margin-top: 1em;
+    max-height: 40ch;
 }
 
 .fakeLinkSpan {
@@ -186,23 +186,22 @@ header a h1 {
     width: 2.2em;
 }
 
-@media (pointer: coarse), (hover: none) {
-    [title] {
-        position: relative;
-        display: inline-flex;
-        justify-content: center;
-    }
-    [title]:active::after {
-        content: attr(title);
-        position: absolute;
-        bottom: 200%;
-        color: var(--black);
-        background-color: var(--light-grey);
-        border: 1px solid var(--black);
-        box-shadow: 2px 2px var(--white) inset, -2px -2px var(--dark-grey) inset;
-        width: max-content;
-        padding: 0.5em;
-        z-index: 1;
-        text-align: center;
-      }
-    }
+[data-title] {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+}
+
+[data-title]:active::after, [data-title]:hover::after {
+    content: attr(data-title);
+    position: absolute;
+    bottom: 200%;
+    color: var(--black);
+    background-color: var(--light-grey);
+    border: 1px solid var(--black);
+    box-shadow: 2px 2px var(--white) inset, -2px -2px var(--dark-grey) inset;
+    /*width: max-content;*/
+    padding: 0.5em;
+    z-index: 1;
+    text-align: center;
+  }

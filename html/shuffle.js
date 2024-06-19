@@ -16,6 +16,5 @@ shuffleArray(children);
 
 for(index in children){
     var child = children[index];
-    console.log(child)
     parent.appendChild(child);
 }

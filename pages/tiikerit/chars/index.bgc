@@ -1,0 +1,164 @@
+\global{\theme}{y3k}
+
+\div{browserContainer}{
+\div{browserContent}{
+
+\div{browserToolbar}{
+    \div{browserToolbarRow}{
+        \div{browserTitle}{◂Planetary network▸}
+    }
+
+    \div{browserToolbarRow}{
+        \div{iconButton}{◂}
+        \div{iconButton}{⟳}
+        \div{iconButton iconUnusable}{▸}
+        \div{browserAddress}{GTP:~SMILD/WHITE-TIGERS/INDEX.GH}
+    }
+}
+
+\div{browserPage}{
+
+\div{center}{<img src="/assets/tiikerit/logo_en.gif" alt="The White Tigers. Black metal band/slagis.">}
+
+<b>Last updated:</b> 18/07/3321. You are guest number: <img src="/assets/tiikerit/7439.gif" alt="7439">
+
+<img src="/assets/tiikerit/email_en.png" alt="Send us E-MAIL"> Webpage available on all sectors. Mirrored by: <span class="fakeLinkSpan">SmildWeb</span>
+
+\div{center}{<img src="/assets/tiikerit/firebar.gif" alt="">}
+
+<b>We are <span style="font-size: 120%"><a href="/tiikerit/">The White Tigers</a></span>: a slagis (we do murders, kidnappings, etc) and a band (we play fucking fast black metal)</b>
+
+\raw{\div{fakeTable}{
+    \div{fakeTableColumn}{
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{News}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Our songs}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Gig calendar}}
+    }
+    \div{fakeTableColumn}{
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Links}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Slagis services}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Other bläkkis sites}}
+    }
+}}
+
+\div{center}{<img src="/assets/tiikerit/firebar.gif" alt="">}
+
+\div{center}{<b>Here are our members</b>}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/1s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"███"</span> / ███████████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{██████, ██████████, ████████}
+            \kohta{████████████ █████████ ██ ███ ███████ ██ ███ █████████ ████}
+            \kohta{███ ████████ ████ ███ ██████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{████████ – ██████████}
+            \kohta{███████████ ████████ – █████ ███ █████████}
+            \kohta{███████ █████ – ██ ██████████ ███ ███████}
+            \kohta{█████ ███████ – ████ ████}
+            \kohta{███████ █████ – ███████ ██████}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/2s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"████"</span> / ███████ ██████ ███████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{███ ███████, ████ ███ ███ █████ ███████}
+            \kohta{█████, ██████}
+            \kohta{███ ████████ ███████ █████ ████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ █████████ – ████}
+            \kohta{████ █████ – ███████}
+            \kohta{████ ██████ – ████ ██████ ██ ███ █████████ ██████ █████████}
+            \kohta{████ ███ ███ – ███ ███ ████ ████ ███████ █ ██████ █████ █████ ████}
+            \kohta{███████ █████ – ███████ ████████ ██████}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/3s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"███████"</span> / ████████ ██████ ███████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{██████ ██ ███ ██████ ███████ ██ ███ ███}
+            \kohta{██████ ███ ██████ ████ █████████ ██ ███ ████}
+            \kohta{██████ ███ ███████ █████ ██ ███ ████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ ████ – █████ ████}
+            \kohta{████ – ███ ███ ███ ██████}
+            \kohta{█████ ██████ – ██████████}
+            \kohta{████ ████████ – █████████ ████████}
+            \kohta{███████ █████ – ██████ ███████████}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/4s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"██████"</span> / ██████ █████ ██████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ ██████, █████ ███ █████}
+            \kohta{█████ ████████ ██████████ ████ ███ ████ ██ ███ ████}
+            \kohta{█████ █████ █████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ – ██████ ██████}
+            \kohta{█████ ██████ – █████████ █████}
+            \kohta{██████ – ████}
+            \kohta{█████ – █████████ ████████}
+            \kohta{███████ █████ – ██ █████ ██ ██ ███████}
+        }
+    }
+}}
+
+\div{center}{<b>ps. looking for a bassist!!!!!!!! tykitellään*</b>
+
+<span style="font-size: 75%">* an ancient word in the Smildian dialects of Standard Khass, used by black metal bands when they're seeking new members</span>}
+
+
+}
+
+}}
+
+\väli{4}
+
+\raw{\div{fakeTable fox}{
+    \div{fakeTableCell memberImage}{
+        <img id="protag" src="/assets/tiikerit/0.webp" alt="">
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=FmRkE8T1Dy8}{vetusta morla – boca en la tierra}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=EkiNdwWbC64}{dingo – lähetyssaarnaaja}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=K2WU41948ZI}{vetusta morla – las salas de espera}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=XzVI1NMx3do}{dingo – pistoolisankari}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=vIjDo9Ndybk}{maija vilkkumaa – jonain päivänä}}
+        }
+    }
+}}

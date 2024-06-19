@@ -1,0 +1,164 @@
+\global{\theme}{y3k}
+
+\div{browserContainer}{
+\div{browserContent}{
+
+\div{browserToolbar}{
+    \div{browserToolbarRow}{
+        \div{browserTitle}{◂Planetaarinen verkko▸}
+    }
+
+    \div{browserToolbarRow}{
+        \div{iconButton}{◂}
+        \div{iconButton}{⟳}
+        \div{iconButton iconUnusable}{▸}
+        \div{browserAddress}{GTP:~SMILD/VALKOISET-TIIKERIT/ETUSIVU.GH}
+    }
+}
+
+\div{browserPage}{
+
+\div{center}{<img src="/assets/tiikerit/logo_fi.gif" alt="Valkoiset tiikerit. Bläkkis bändi/slagis.">}
+
+<b>Viimeksi päivitetty:</b> 18/07/3321. Olet vierailija numero: <img src="/assets/tiikerit/7439.gif" alt="7439">
+
+<img src="/assets/tiikerit/email_fi.png" alt="Laittele S-POSTIA"> Sivusto saatavilla kaikilla sektoreilla. Peilaaja: <span class="fakeLinkSpan">SmildNetti</span>
+
+\div{center}{<img src="/assets/tiikerit/firebar.gif" alt="">}
+
+<b>Olemme <span style="font-size: 120%"><a href="/tiikerit/">Valkoiset Tiikerit</a></span>: slagis (teemme murhia, kidnappauksia, yms) ja bändi (soitamme vitun nopeaa bläkkistä)</b>
+
+\raw{\div{fakeTable}{
+    \div{fakeTableColumn}{
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Uutisia}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Biisejämme}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Keikkakalenteri}}
+    }
+    \div{fakeTableColumn}{
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Linkkejä}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Slagis palvelut}}
+        \div{fakeTableCell}{<img src="/assets/tiikerit/skull.gif" alt=""> \span{fakeLinkSpan}{Muita bläkkis sivuja}}
+    }
+}}
+
+\div{center}{<img src="/assets/tiikerit/firebar.gif" alt="">}
+
+\div{center}{<b>Tässä esittelyssä bändin jäsenet</b>}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/1s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"███"</span> / ███████████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{███████, ██████████, █████████}
+            \kohta{██████████████ ████████ █████████-██████ ███████████}
+            \kohta{███████ ██████ ████████████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{████████ – ██████████}
+            \kohta{███████████ ████████ – █████ ███ █████████}
+            \kohta{███████ █████ – ██ ██████████ ███ ███████}
+            \kohta{█████ ███████ – ████ ████}
+            \kohta{███████ █████ – ███████ ██████}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/2s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"████"</span> / ███████ ██████ ███████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{████████, ██████ █████████}
+            \kohta{███████████ ███████ ██████}
+            \kohta{████████ █████████ ██████████████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ █████████ – ████}
+            \kohta{████ █████ – ███████}
+            \kohta{████ ██████ – ████ ██████ ██ ███ █████████ ██████ █████████}
+            \kohta{████ ███ ███ – ███ ███ ████ ████ ███████ █ ██████ █████ █████ ████}
+            \kohta{███████ █████ – ███████ ████████ ██████}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/3s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"███████"</span> / ████████ ██████ ███████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{██████-█████████ ███████ ██████████}
+            \kohta{██████ █████ ██ █████ ████████ █████ █████████}
+            \kohta{██████ ████████ ████████ ██████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ ████ – █████ ████}
+            \kohta{████ – ███ ███ ███ ██████}
+            \kohta{█████ ██████ – ██████████}
+            \kohta{████ ████████ – █████████ ████████}
+            \kohta{███████ █████ – ██████ ███████████}
+        }
+    }
+}}
+
+\raw{\div{fakeTable}{
+    \div{fakeTableCell memberImage}{
+        <img src="/assets/tiikerit/4s.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"██████"</span> / ██████ █████ ██████</b>}
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████████ ███████, █████████ ███████}
+            \kohta{██████ ██████████ ████████ ████ ████ ████████}
+            \kohta{████████ ███████████}
+        }
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{█████ – ██████ ██████}
+            \kohta{█████ ██████ – █████████ █████}
+            \kohta{██████ – ████}
+            \kohta{█████ – █████████ ████████}
+            \kohta{███████ █████ – ██ █████ ██ ██ ███████}
+        }
+    }
+}}
+
+\div{center}{<b>ps. basistia etsitään!!!!!!!! tykitellään*</b>
+
+<span style="font-size: 75%">* khass-yleiskielen smildiläismurteiden muinainen sana, jota black metal -bändit käyttävät etsiessään uusia jäseniä</span>}
+
+
+}
+
+}}
+
+\väli{4}
+
+\raw{\div{fakeTable fox}{
+    \div{fakeTableCell memberImage}{
+        <img id="protag" src="/assets/tiikerit/0.webp" alt="">
+    }
+    \div{fakeTableCell memberLore}{
+        \lista_nroton{
+            \kohta{\linkki{https://www.youtube.com/watch?v=FmRkE8T1Dy8}{vetusta morla – boca en la tierra}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=EkiNdwWbC64}{dingo – lähetyssaarnaaja}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=K2WU41948ZI}{vetusta morla – las salas de espera}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=XzVI1NMx3do}{dingo – pistoolisankari}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=vIjDo9Ndybk}{maija vilkkumaa – jonain päivänä}}
+        }
+    }
+}}
