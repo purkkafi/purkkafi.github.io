@@ -8,66 +8,9 @@
 
 \väli{2}
 
-\otsikko{The White Tigers: Project Update & Call for Artists}
+\keskitys{An upcoming visual novel about a fox who, having grown up all alone on a small island located on an uninhabited planet, gets kidnapped by a black metal band.}
 
-\b{The White Tigers} is a science fiction gay furry visual novel about a fox who, after living alone on an island for 15 years with no memory of how they got there, gets kidnapped by a black metal band/mercenary group and taken into space. In the four routes of the game, the band will run into various trouble – from taking part in the galaxy's largest music competition to being hunted down by a rival gang – requiring the fox to navigate complex questions about both their relationship with their captors and their own past and future.
+\keskitys{\linkki{/tiikerit/chars/}{Characters (🇬🇧)} • \linkki{/tiikerit/hahmot/}{Hahmot (🇫🇮)}}
 
-A demo, \b{\linkki{https://purkka.itch.io/the-other-island}{The Other Island}}, introduces the protagonist and details a strange incident that occurs six years before the story starts.
+\keskitys{\linkki{https://purkka.itch.io/the-other-island/devlog/751912/2024-progress-update}{2024 Progress Update}}
 
-\väliotsikko{The Project}
-
-The White Tigers will be a genre-bending, dark story for adult readers, with a focus on compelling and ambiguous queer characters, weird worldbuilding, and interesting use of nonlinearity.
-
-Fans of furry visual novels will probably recognize the influence of many popular works in the scene, but I'm also taking inspiration from a wide variety of other sources: the science fiction worlds of C. J. Cherryh and <i>BraveStarr</i>, the novels of Pajtim Statovci and James Welch, the films of Aki Kaurismäki, the music of Dingo and Vetusta Morla, and others.
-
-The game is being made with \linkki{https://godotengine.org/}{Godot}. There's all kinds of cool stuff I want to do, and using a full-fledged game engine as a base will enable formal playfulness beyond what could be easily achieved with Ren'Py.
-
-\väliotsikko{Status Update}
-
-The release of the demo marks an important milestone for the project. The rest of it is in early stages:
-
-\lista_nroton{
-\kohta{The entire story is planned out pretty thoroughly. I have detailed outlines of the four routes, still subject to revisions, and some worldbuilding notes.}
-\kohta{Individual bits and pieces of writing, including other short stories, have been completed (but not translated).}
-\kohta{The game engine is coming along well. A lot of features are missing – it's pretty much just what you see in the demo – but I'm going to wait for Godot 4 to come out before proceeding any further.}
-}
-
-Right now, I'm in the middle of writing what will eventually become the first build. Don't expect anything too soon; there's still a lot to do preproduction-wise, and I'm only going to finalize my plans for the plot after talking things over with the entire dev team.
-
-Speaking of – would you like to be a part of the project? Well, read on:
-
-\väliotsikko{Call for Artists}
-
-I managed to complete the demo with free assets and some commissioned illustrations, but the game proper will require visual artists to work on it in a more permanent capacity.
-
-There are budgetary reasons for this (i.e., there not being a budget), but being a project with a focus on presentation & visual storytelling, the game will also benefit greatly from the touch of visually minded co-creators. I want to put together a team of artists passionate about this kind of thing and interested in highly collaborative creative work.
-
-The exact composition or size of the team is not decided yet, but here's how I feel about the various positions at this point:
-
-\lista_nroton{
-\kohta{It probably makes sense to recruit a \b{sprite artist} and a \b{background artist} separately, as those two aspects will require ongoing work throughout. Ideally, both would also be able to produce other visual assets when needed, but we will see if at least a third person is needed regardless for CGs/miscellaneous visual assets.}
-\kohta{A \b{musician} would be cool to have. A few scenes I have planned will require commissioning original songs in any case, but getting more on a regular basis would be nice.}
-\kohta{Having a \b{translator} or, failing that, an \b{editor}, would ease my workload and improve the English script a lot. Will have to see if recruiting one makes sense.}
-}
-
-Artists with multiple talents are welcome! There's tons of work involved in game development, and team members will be able to work flexibly on whatever interests them or is convenient for the project. I did a lot of different things for the demo, too, from UI design to sound design to taking and editing photographs for backgrounds.
-
-The project will be funded via Patreon (or similar alternative), funds being split evenly between the team. For this reason, it probably makes sense to start with a pretty minimal crew, retaining the opportunity to recruit more people later if the project really takes off.
-
-Regardless, a lot of work will have to be done with only the vague hope of financial compensation looming somewhere in the future, which is not ideal. To accommodate for this, I want the project to move slowly enough that people can keep up with other creative affairs that pay them better; I'm going to work on some other stuff myself, too.
-
-The ideal scenario is that I will be able to form a team capable of producing this game decently fast and that there will be enough donations to make it worthwhile. Failing that, I'm going to explore whatever other options there are. Maybe I'll need to learn to draw myself (though that would make production really slow). Maybe I'll ask Koneen säätiö for money. Idk, do people still use Kickstarter? But whatever it takes, this game will exist; look forward to it in however many years it takes to realize whatever form it ends up taking. I simply cannot live alone with all the accursed knowledge of what's coming up down the line in the story.
-
-\tauko
-
-That's all, really. This project is something I have already put a lot of effort into, and I hope what I have to present at this point is compelling enough to get potential co-creators interested.
-
-I can be contacted:
-
-\lista_nroton{
-\kohta{via Twitter at \linkki{https://twitter.com/purkkafi/}{@purkkafi}}
-\kohta{via Telegram at \linkki{https://t.me/purkkafi}{@purkkafi}}
-\kohta{via Discord at purkka#2201}
-}
-
-Please reach out for further questions! Show me your work! Tell your friends, family, and neighbors in case they love drawing naked cat men! Come make this weird game with me, and I will share all my Space Eurovision lore with you. (This is both a promise and a threat.)
