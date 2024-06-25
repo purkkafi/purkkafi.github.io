@@ -3,12 +3,16 @@
 \global{\og_description}{An upcoming gay furry visual novel.}
 \global{\og_image}{https://purkka.fi/assets/tiikerit/og_icon.png}
 
+\keskitys{\otsikko{Valkoiset Tiikerit | The White Tigers}}
+
 \keskitys{<span style="font-size: 75%">Demo available now!</span>}
 \opengraph_preview{https://purkka.itch.io/the-other-island}
 
 \väli{2}
 
 \keskitys{An upcoming visual novel about a fox who, having grown up all alone on a small island located on an uninhabited planet, gets kidnapped by a black metal band.}
+
+\keskitys{\linkki{https://bsky.app/profile/tiikeritvn.bsky.social}{<img src="/assets/smicons/bs.webp" style="width: 2em;" alt="Bluesky" title="Bluesky">} \linkki{https://x.com/tiikeritVN}{<img src="/assets/smicons/tw.webp" style="width: 2em;" alt="Twitter" title="Twitter">}}
 
 \keskitys{\linkki{/tiikerit/chars/}{Characters (🇬🇧)} • \linkki{/tiikerit/hahmot/}{Hahmot (🇫🇮)}}
 
