@@ -53,7 +53,7 @@
     \div{fakeTableCell memberLore}{
         \lista_nroton{
             \kohta{singer, songwriter, satanist}
-            \kohta{encyclopedic knowledge of the history of the <span class="tooltip" data-title="the galaxy's largest song contest">Heaviside Gala</span>}
+            \kohta{encyclopedic knowledge of the history of the <span class="tooltip" data-title="the galaxy's biggest song contest">Heaviside Gala</span>}
             \kohta{has probably done war crimes}
         }
     }
