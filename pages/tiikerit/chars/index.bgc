@@ -47,23 +47,23 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/1s.webp" alt="">
-        \div{center}{<b><span style="font-size: 120%">"███"</span> / ███████████</b>}
+        <img id="mau" src="/assets/tiikerit/1.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Mau"</span> / Maunnerheim</b>}
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{██████, ██████████, ████████}
-            \kohta{████████████ █████████ ██ ███ ███████ ██ ███ █████████ ████}
-            \kohta{███ ████████ ████ ███ ██████}
+            \kohta{singer, songwriter, satanist}
+            \kohta{encyclopedic knowledge of the history of the <span class="tooltip" data-title="the galaxy's largest song contest">Heaviside Gala</span>}
+            \kohta{has probably done war crimes}
         }
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{████████ – ██████████}
-            \kohta{███████████ ████████ – █████ ███ █████████}
-            \kohta{███████ █████ – ██ ██████████ ███ ███████}
-            \kohta{█████ ███████ – ████ ████}
-            \kohta{███████ █████ – ███████ ██████}
+            \kohta{\linkki{https://www.youtube.com/watch?v=n0Kon_iUNaI}{frederik – mannerheim}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=Qv7EiFymgcg}{buranovskie babushki – party for everybody}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=Bq-QuGSaqn8}{vetusta morla – la cuadratura del circulo}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=rhQftHLS0gw}{blind channel – dark side}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=MhrOZZy7MZw}{vetusta morla – ¡fiesta mayor!}}
         }
     }
 }}
