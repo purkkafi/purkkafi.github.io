@@ -70,23 +70,23 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/2s.webp" alt="">
-        \div{center}{<b><span style="font-size: 120%">"████"</span> / ███████ ██████ ███████</b>}
+        <img id="kali" src="/assets/tiikerit/2.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Kali"</span> / Carleca Temmin Kaliron</b>}
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{████████, ██████ █████████}
-            \kohta{███████████ ███████ ██████}
-            \kohta{████████ █████████ ██████████████}
+            \kohta{manageri, <span class="tooltip" data-title="ei edes saa oikeaa palkkaa">täällä sivarissa</span>}
+            \kohta{enimmäkseen laittaa ruokaa}
+            \kohta{<span class="tooltip" data-title="huonoja mielipiteitä pop-musiikista">galaksin kiireisin musiikkinörtti</span>}
         }
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{█████ █████████ – ████}
-            \kohta{████ █████ – ███████}
-            \kohta{████ ██████ – ████ ██████ ██ ███ █████████ ██████ █████████}
-            \kohta{████ ███ ███ – ███ ███ ████ ████ ███████ █ ██████ █████ █████ ████}
-            \kohta{███████ █████ – ███████ ████████ ██████}
+            \kohta{\linkki{https://www.youtube.com/watch?v=DTHeKwjdxF8}{maija vilkkumaa – aja!}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=zpcgL7DaTI0}{katy perry – witness}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=kBdEuRJk8iI}{lala salama – miks kukaan ei tuu vantaalle paitsi panemaan?}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=IuY54A3bOmg}{lana del rey – did you know that there's a tunnel under ocean blvd}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=LvmH5kWQ1D8}{vetusta morla – pequeño desastre animal}}
         }
     }
 }}
