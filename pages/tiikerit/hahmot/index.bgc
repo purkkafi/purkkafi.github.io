@@ -93,23 +93,23 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/3s.webp" alt="">
-        \div{center}{<b><span style="font-size: 120%">"███████"</span> / ████████ ██████ ███████</b>}
+        <img id="esherat" src="/assets/tiikerit/3.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Esherat"</span> / Merkaren Tuggil Esherat</b>}
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{██████-█████████ ███████ ██████████}
-            \kohta{██████ █████ ██ █████ ████████ █████ █████████}
-            \kohta{██████ ████████ ████████ ██████}
+            \kohta{Tuggil-dynastian prinssi pakoteillä}
+            \kohta{bändin juuri ja juuri toiseksi paras kitaristi}
+            \kohta{bändin kepeästi isoimmat tissit}
         }
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{█████ ████ – █████ ████}
-            \kohta{████ – ███ ███ ███ ██████}
-            \kohta{█████ ██████ – ██████████}
-            \kohta{████ ████████ – █████████ ████████}
-            \kohta{███████ █████ – ██████ ███████████}
+            \kohta{\linkki{https://www.youtube.com/watch?v=UNaSn-V0ADI}{isaac sene – kuuma jäbä}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=PZ-Bq62d6BA}{cats – the rum tum tugger}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=7qgw9wq4aQs}{erika vikman – cicciolina}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=bR4bL1K9Q3Q}{anna eriksson – seurataan johtajaa}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=0APX6DoX-Z8}{vetusta morla – puntos suspensivos}}
         }
     }
 }}
