@@ -116,23 +116,23 @@
 
 \raw{\div{fakeTable}{
     \div{fakeTableCell memberImage}{
-        <img src="/assets/tiikerit/4s.webp" alt="">
-        \div{center}{<b><span style="font-size: 120%">"██████"</span> / ██████ █████ ██████</b>}
+        <img id="terion" src="/assets/tiikerit/4.webp" alt="">
+        \div{center}{<b><span style="font-size: 120%">"Terion"</span> / Pausun Meshe Terion</b>}
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{█████████ ███████, █████████ ███████}
-            \kohta{██████ ██████████ ████████ ████ ████ ████████}
-            \kohta{████████ ███████████}
+            \kohta{korjailee juttuja, paukuttaa rumpuja}
+            \kohta{tuntee <span class="tooltip" data-title="bändin avaruusalus"><i>Levottoman tuhkimon</i></span> kuin omat taskunsa}
+            \kohta{rakastaa lautapelejä}
         }
     }
     \div{fakeTableCell memberLore}{
         \lista_nroton{
-            \kohta{█████ – ██████ ██████}
-            \kohta{█████ ██████ – █████████ █████}
-            \kohta{██████ – ████}
-            \kohta{█████ – █████████ ████████}
-            \kohta{███████ █████ – ██ █████ ██ ██ ███████}
+            \kohta{\linkki{https://www.youtube.com/watch?v=3H5wjcMX7Po}{dingo – tuulen viemää}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=6aLb6vJ_TkI}{erika vikman – syntisten pöytä}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=aotiW5XJTNg}{stefan – hope}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=-RGiO-a5eGo}{dingo – valkoiset tiikerit}}
+            \kohta{\linkki{https://www.youtube.com/watch?v=-jd8HVE7o3Q}{vetusta morla – al final de la escapada}}
         }
     }
 }}
