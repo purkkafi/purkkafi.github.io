@@ -7,6 +7,30 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Re-review: Undefeated</title>
+        <description>i am going to become the undefeated</description>
+        <link>https://purkka.fi/fvn_recs.html#undefeated</link>
+        <guid>https://purkka.fi/fvn_recs.html#undefeated</guid>
+        <pubDate>Sat, 20 Jul 2024 18:40:56 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Kinds of Kindness</title>
+        <description>Kinds of Kindness, 2024 - ★★½</description>
+        <link>https://letterboxd.com/purkka/film/kinds-of-kindness/</link>
+        <guid>https://letterboxd.com/purkka/film/kinds-of-kindness/</guid>
+        <pubDate>Sat, 20 Jul 2024 11:43:41 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Let the River Flow</title>
+        <description>Let the River Flow, 2023 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/let-the-river-flow/</link>
+        <guid>https://letterboxd.com/purkka/film/let-the-river-flow/</guid>
+        <pubDate>Sat, 20 Jul 2024 04:56:56 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>Review: Hillbilly Elegy</title>
         <description>Hillbilly Elegy, 2020 - ★</description>
         <link>https://letterboxd.com/purkka/film/hillbilly-elegy/</link>
@@ -140,30 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-box-2009/</link>
         <guid>https://letterboxd.com/purkka/film/the-box-2009/</guid>
         <pubDate>Wed, 17 Apr 2024 08:58:23 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Joker</title>
-        <description>Joker, 2019 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/joker-2019/</link>
-        <guid>https://letterboxd.com/purkka/film/joker-2019/</guid>
-        <pubDate>Sat, 13 Apr 2024 10:56:33 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Bunny the Killer Thing</title>
-        <description>Bunny the Killer Thing, 2015 - ½</description>
-        <link>https://letterboxd.com/purkka/film/bunny-the-killer-thing/</link>
-        <guid>https://letterboxd.com/purkka/film/bunny-the-killer-thing/</guid>
-        <pubDate>Thu, 28 Mar 2024 13:50:44 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Song of Roland</title>
-        <description>The Song of Roland, 1978 - ★★</description>
-        <link>https://letterboxd.com/purkka/film/the-song-of-roland/</link>
-        <guid>https://letterboxd.com/purkka/film/the-song-of-roland/</guid>
-        <pubDate>Thu, 28 Mar 2024 12:16:56 +1300</pubDate>
     </item>
     
     </channel>
