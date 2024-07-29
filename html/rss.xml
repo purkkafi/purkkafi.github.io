@@ -7,6 +7,30 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: What A Day That Was!</title>
+        <description>they weren't lying, it was a day. that was</description>
+        <link>https://purkka.fi/fvn_recs.html#what-a-day-that-was</link>
+        <guid>https://purkka.fi/fvn_recs.html#what-a-day-that-was</guid>
+        <pubDate>Mon, 29 Jul 2024 01:50:25 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Passion</title>
+        <description>Passion, 2012 - ★★★½</description>
+        <link>https://letterboxd.com/purkka/film/passion-2012/</link>
+        <guid>https://letterboxd.com/purkka/film/passion-2012/</guid>
+        <pubDate>Fri, 26 Jul 2024 10:39:54 +1200</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Four Daughters</title>
+        <description>Four Daughters, 2023 - ★★★★★</description>
+        <link>https://letterboxd.com/purkka/film/four-daughters-2023/</link>
+        <guid>https://letterboxd.com/purkka/film/four-daughters-2023/</guid>
+        <pubDate>Tue, 23 Jul 2024 12:32:10 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Re-review: Undefeated</title>
         <description>i am going to become the undefeated</description>
         <link>https://purkka.fi/fvn_recs.html#undefeated</link>
@@ -140,30 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-peoples-joker/</link>
         <guid>https://letterboxd.com/purkka/film/the-peoples-joker/</guid>
         <pubDate>Sun, 21 Apr 2024 06:44:47 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Hundreds of Beavers</title>
-        <description>Hundreds of Beavers, 2022 - ★★★★</description>
-        <link>https://letterboxd.com/purkka/film/hundreds-of-beavers/</link>
-        <guid>https://letterboxd.com/purkka/film/hundreds-of-beavers/</guid>
-        <pubDate>Sat, 20 Apr 2024 10:30:40 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: La Chienne</title>
-        <description>La Chienne, 1931 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/la-chienne/</link>
-        <guid>https://letterboxd.com/purkka/film/la-chienne/</guid>
-        <pubDate>Sat, 20 Apr 2024 09:58:11 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Box</title>
-        <description>The Box, 2009 - ★★½</description>
-        <link>https://letterboxd.com/purkka/film/the-box-2009/</link>
-        <guid>https://letterboxd.com/purkka/film/the-box-2009/</guid>
-        <pubDate>Wed, 17 Apr 2024 08:58:23 +1200</pubDate>
     </item>
     
     </channel>
