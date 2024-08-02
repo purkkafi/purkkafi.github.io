@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: nothing, except everything.</title>
+        <description>nothing, except everything., 2023 - ½</description>
+        <link>https://letterboxd.com/purkka/film/nothing-except-everything/</link>
+        <guid>https://letterboxd.com/purkka/film/nothing-except-everything/</guid>
+        <pubDate>Thu, 1 Aug 2024 02:17:28 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: What A Day That Was!</title>
         <description>they weren't lying, it was a day. that was</description>
         <link>https://purkka.fi/fvn_recs.html#what-a-day-that-was</link>
@@ -87,8 +95,8 @@
     </item>
     
     <item>
-        <title>Review: Kalki 2898 AD</title>
-        <description>Kalki 2898 AD, 2024 - ★★★½</description>
+        <title>Review: Kalki 2898-AD</title>
+        <description>Kalki 2898-AD, 2024 - ★★★½</description>
         <link>https://letterboxd.com/purkka/film/kalki-2898-ad/</link>
         <guid>https://letterboxd.com/purkka/film/kalki-2898-ad/</guid>
         <pubDate>Sat, 6 Jul 2024 10:28:51 +1200</pubDate>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/rebel-moon-part-two-the-scargiver/</link>
         <guid>https://letterboxd.com/purkka/film/rebel-moon-part-two-the-scargiver/</guid>
         <pubDate>Mon, 22 Apr 2024 09:36:18 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The People&#x27;s Joker</title>
-        <description>The People&#x27;s Joker, 2022 - ★★★★★</description>
-        <link>https://letterboxd.com/purkka/film/the-peoples-joker/</link>
-        <guid>https://letterboxd.com/purkka/film/the-peoples-joker/</guid>
-        <pubDate>Sun, 21 Apr 2024 06:44:47 +1200</pubDate>
     </item>
     
     </channel>
