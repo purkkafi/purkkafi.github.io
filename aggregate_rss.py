@@ -23,7 +23,7 @@ def stringify_entry(entry):
     """
 
 base = feedparser.parse('html/rss.xml')
-lxd = feedparser.parse('https://letterboxd.com/purkka/rss')
+lxd = feedparser.parse('https://letterboxd.com/purkka/rss', agent='purkkafi-rss-bot')
 
 entries = []
 

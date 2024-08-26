@@ -15,7 +15,7 @@ def get_id(title):
     return title
 
 def read_metadata(url):
-    req = requests.get(url, headers={'User-Agent': 'purkkafibot'})
+    req = requests.get(url, headers={'User-Agent': 'purkkafi-opengraph-parser'})
     req.encoding = 'utf-8'
     html = req.text
     print('parsing OG for', url)
