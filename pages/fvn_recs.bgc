@@ -335,6 +335,38 @@ Though this is more of a personal preference, with how many choices with (hidden
 Though it doesn't feel like it shows its entire hand yet, it's a project with lots of potential; very excited to see more.
 }
 
+\opengraph_preview{https://roddio.itch.io/devils-gambit}
+
+\arvio{
+\i{(Review based on version 0.5)}
+
+<i>Devil's Gambit</i>: oozing with production value and attention to detail, overall makes for some compelling character drama and mystery, but the writing is not without its more dubious parts.
+
+The biggest nitpick out of the way, first of all: the UI is sort of iffy in general and really stands out as the weakest link in the presentation. Though the paper texture of the main text box works in the context of the story, the borders – being either too sharp and even or fading out gradually – fail to preserve the impression of physical material. Also, the transparency creates a weird effect with the label for the speaker's name, not to mention that the names or the box itself not being colored means there are no prominent visual hints differentiating lines spoken by all the different characters. As a minor UI papercut, the arrow indicating the end of the looks wonky due to not being vertically centered. Not just having the default Ren'py's UI is definitely welcome (even if I'd look into changing the scrollbars and sliders!) since fantasy is a genre it works particularly badly with, but there's a first-draft feel to the execution. I do like the settings menu's layout, though.
+
+While we're here, might as well as mention how breathtakingly good the art is. The illustrations are impeccable on a technical level and detailed to a degree that makes the amount of time spent on them all feel frankly scary to contemplate, and the expressive sprites rise to the daunting task of making a decently large cast of characters seem distinct. Direction feels solid, too, and I especially like the consistent use of colors and lighting, even if a lot of the character-centric CGs are sort of plain and functional in their framing. Amazing work all around; feels kind of pointless for me to even sing the game's praises here, since we can all see it.
+
+My impression of the writing is more mixed. While the prose has nothing serious in it to gripe about, the secondary narratorial voice (in 2nd person) results in some unnatural jumps:
+
+"I am still baffled by questions... However, you have work to do, Hector."
+
+"Maybe there's more left of the old Cadgan than I realize. Well, you won't get anywhere worrying all by yourself."
+
+It's definitely good that this is something you immediately notice happening, but I think some of the transitions could afford to feel smoother. Breaking some of these up into multiple text boxes might help? Besides that, the formal character voices feel all vaguely similar, which is difficult to not think of as a missed opportunity with the different factions and cultures the story involves.
+
+My bigger concerns relate to structure and pacing. Since consecutive past and present chapters near the beginning tend to mirror each other in all kinds of ways, it feels like the game wants to liken the flashbacks to memories. The idea is good, but the execution is hardly Proustian – whatever scene we're reading rolls to its conclusion, a title card fills the screen, and only then does the recollection play out, removing the crucial sense of immediacy from the situation. There are also just a lot of these back-and-forth jumps, and not every transition comes off as fully motivated.
+
+In general, I'd describe the structure as sort of fragmentary and modernist – something I usually like but don't necessarily see working with a narrative that has this much plot in it. The chapters are all over the place in terms of length, scope, and whether they form coherent wholes or not, which makes the story feel like it lacks forward momentum. There are some excellently punchy chapter endings, but sometimes you just follow the characters go about their day for a while and get a few crumbs of information before the narrative jumps to something else. I guess the flashbacks deserve much of the blame here, as the story really picks up after they stop happening or a regular basis, or maybe it's just the game finally getting through the beats of character drama it wants to hit before kicking off the plot for real. The pacing of character introductions doesn't feel entirely right, either; you often get a bunch of new side characters in rapid succession and then don't see them for a while. (To be fair, maybe some are intended to be one-offs instead of recurring players – kind of difficult to tell when basically everyone seems to get a sprite and the writing doesn't always telegraph the difference well!)
+
+In any case, keeping close sight of how every chapter pushes the story forward is important when writing something that plays with narrative time like this. I don't think <i>Devil's Gambit</i> nails it completely – it starts off real sluggish with all the flashbacks slowing down the pacing in the first act instead of being used as opportunities to backfill information later on. The character writing maybe comes off as meticulous to a fault, spending a lot of time on showing Cadgan and Hector interact in both past and present. Less might have sufficed; I think the plot already has enough stakes to it even if we imagine the relationship between the two to emerging more gradually.
+
+Also, this is a small complaint in the grand scheme of things, but I don't find a lot of the chapter titles compelling on their own or interesting in how they frame the chunk of story to follow. For instance: why is Chapter 9, specifically, named "Cadgan" when we learn plenty about him in many others? I think most of them are just kind of literal where something more flowery and attention-grabbing would feel appropriate, given the genre and the tone of the game. Maybe it's symptomatic of the issues in chapter structure I discussed earlier – it's easier to name something when it has a clear point to it and when there are fewer things to name.
+
+What else... oh, this is purely a personal gripe, to be clear, but as a staunch hater of "magic systems", I was kind of disappointed that the main character being a doctor in a medieval setting (cool premise!) turned out to involve more fictional magic stuff than real-life historical inspiration. It does ultimately feel like a very natural way to integrate a lot of information about the supernatural elements into the story, though. The exposition is easy to gulp down with a protagonist who provides an interesting perspective into the world.
+
+I'd call the beginning a little rough, but the fact that there are intriguing literary decisions whose merits you can discuss and debate is already worthy of a glowing endorsement, and the earth-shatteringly good art of <i>Devil's Gambit</i> complements the story beautifully. I will definitely keep reading.
+}
+
 \opengraph_preview{https://eymon.itch.io/fields-of-spring}
 
 \arvio{
