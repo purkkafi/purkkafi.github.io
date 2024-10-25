@@ -53,7 +53,7 @@ def get_date(entry):
     return f'{date.tm_mday}.{date.tm_mon}.{date.tm_year}'
     
 def beagicify_entry(entry):
-    return f"\external{{{get_title(entry)}}}{{{entry['link']}}}{{{get_date(entry)}}}{{{entry['published']}}}{{{get_description(entry)}}}"
+    return f"\\external{{{get_title(entry)}}}{{{entry['link']}}}{{{get_date(entry)}}}{{{entry['published']}}}{{{get_description(entry)}}}"
 
 new_content = '\n'.join(beagicify_entry(e) for e in entries)
 

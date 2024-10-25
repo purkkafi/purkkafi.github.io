@@ -46,7 +46,7 @@ def read_metadata(url):
 urls = set()
 for file in Path('pages').rglob('*.bgc'):
     with open(file) as f:
-        urls.update(re.findall('\\\opengraph_preview\{(.+)\}', f.read()))
+        urls.update(re.findall(r'\\opengraph_preview\{(.+)\}', f.read()))
 urls = list(urls)
 
 CACHE_FILE = 'beagic/opengraph/.cache'
