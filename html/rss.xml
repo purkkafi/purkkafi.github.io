@@ -7,6 +7,70 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: CANIDAE</title>
+        <description>they really became the canidae...</description>
+        <link>https://purkka.fi/fvn_recs.html#canidae</link>
+        <guid>https://purkka.fi/fvn_recs.html#canidae</guid>
+        <pubDate>Mon, 18 Nov 2024 17:52:24 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>FVN Review: Sanctuary</title>
+        <description>what is this, some kind of sanctuary?</description>
+        <link>https://purkka.fi/fvn_recs.html#sanctuary</link>
+        <guid>https://purkka.fi/fvn_recs.html#sanctuary</guid>
+        <pubDate>Mon, 18 Nov 2024 17:52:24 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>FVN Review: Fragments of the Past</title>
+        <description>boys, i think we have discovered the fragments of the past</description>
+        <link>https://purkka.fi/fvn_recs.html#fragments-of-the-past</link>
+        <guid>https://purkka.fi/fvn_recs.html#fragments-of-the-past</guid>
+        <pubDate>Mon, 18 Nov 2024 17:52:24 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Yeast</title>
+        <description>Yeast, 2008 - ★★★½</description>
+        <link>https://letterboxd.com/purkka/film/yeast/1/</link>
+        <guid>https://letterboxd.com/purkka/film/yeast/1/</guid>
+        <pubDate>Mon, 18 Nov 2024 13:23:02 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Saturday Night</title>
+        <description>Saturday Night, 2024 - ★½</description>
+        <link>https://letterboxd.com/purkka/film/saturday-night-2024/</link>
+        <guid>https://letterboxd.com/purkka/film/saturday-night-2024/</guid>
+        <pubDate>Sat, 16 Nov 2024 11:57:15 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Emilia Pérez</title>
+        <description>Emilia Pérez, 2024 - ½</description>
+        <link>https://letterboxd.com/purkka/film/emilia-perez/</link>
+        <guid>https://letterboxd.com/purkka/film/emilia-perez/</guid>
+        <pubDate>Thu, 14 Nov 2024 15:14:07 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Anora</title>
+        <description>Anora, 2024 - ★★½</description>
+        <link>https://letterboxd.com/purkka/film/anora/</link>
+        <guid>https://letterboxd.com/purkka/film/anora/</guid>
+        <pubDate>Tue, 12 Nov 2024 11:08:25 +1300</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: Cabiria</title>
+        <description>Cabiria, 1914 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/cabiria/</link>
+        <guid>https://letterboxd.com/purkka/film/cabiria/</guid>
+        <pubDate>Mon, 11 Nov 2024 15:44:44 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>Hail Savior Opaque: The Lyricism of BoyOfSatanus</title>
         <description>top 666 things you did not realize about the poetry of BoyOfSatanus</description>
         <link>https://purkka.fi/esseet/boyofsatanus.html</link>
@@ -100,70 +164,6 @@
         <link>https://letterboxd.com/purkka/film/misericordia-2024/</link>
         <guid>https://letterboxd.com/purkka/film/misericordia-2024/</guid>
         <pubDate>Sat, 28 Sep 2024 09:59:18 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Megalopolis</title>
-        <description>Megalopolis, 2024 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/megalopolis-2024/</link>
-        <guid>https://letterboxd.com/purkka/film/megalopolis-2024/</guid>
-        <pubDate>Fri, 27 Sep 2024 09:12:25 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: A Shaman&#x27;s Tale</title>
-        <description>A Shaman&#x27;s Tale, 2024 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/a-shamans-tale-2024/</link>
-        <guid>https://letterboxd.com/purkka/film/a-shamans-tale-2024/</guid>
-        <pubDate>Thu, 26 Sep 2024 08:00:49 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Flow</title>
-        <description>Flow, 2024 - ★★★★½</description>
-        <link>https://letterboxd.com/purkka/film/flow-2024/</link>
-        <guid>https://letterboxd.com/purkka/film/flow-2024/</guid>
-        <pubDate>Thu, 26 Sep 2024 07:56:46 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Problemista</title>
-        <description>Problemista, 2023 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/problemista/</link>
-        <guid>https://letterboxd.com/purkka/film/problemista/</guid>
-        <pubDate>Thu, 26 Sep 2024 01:41:05 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Grand Tour</title>
-        <description>Grand Tour, 2024 - ★★½</description>
-        <link>https://letterboxd.com/purkka/film/grand-tour-2024/</link>
-        <guid>https://letterboxd.com/purkka/film/grand-tour-2024/</guid>
-        <pubDate>Wed, 25 Sep 2024 09:43:36 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: All About Suomi</title>
-        <description>All About Suomi, 2024 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/all-about-suomi/</link>
-        <guid>https://letterboxd.com/purkka/film/all-about-suomi/</guid>
-        <pubDate>Wed, 25 Sep 2024 09:35:53 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: On Becoming a Guinea Fowl</title>
-        <description>On Becoming a Guinea Fowl, 2024 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/on-becoming-a-guinea-fowl/</link>
-        <guid>https://letterboxd.com/purkka/film/on-becoming-a-guinea-fowl/</guid>
-        <pubDate>Tue, 24 Sep 2024 06:23:25 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Do Not Expect Too Much from the End of the World</title>
-        <description>Do Not Expect Too Much from the End of the World, 2023 - ★★★★</description>
-        <link>https://letterboxd.com/purkka/film/do-not-expect-too-much-from-the-end-of-the-world/</link>
-        <guid>https://letterboxd.com/purkka/film/do-not-expect-too-much-from-the-end-of-the-world/</guid>
-        <pubDate>Mon, 23 Sep 2024 07:43:55 +1200</pubDate>
     </item>
     
     </channel>
