@@ -20,8 +20,11 @@ def read_metadata(url):
     html = req.text
     print('parsing OG for', url)
     
+    if not req.ok:
+        req.raise_for_status()
+    
     soup = BeautifulSoup(html, 'html.parser')
-
+    
     title, by = soup.head.title.string.split(' by ')
     description = soup.head.find(property='og:description')
     site = soup.head.find(property='og:site_name')

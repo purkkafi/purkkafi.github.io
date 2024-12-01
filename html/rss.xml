@@ -7,6 +7,22 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: How it goes</title>
+        <description>guys, that really was how it goes</description>
+        <link>https://purkka.fi/fvn_recs.html#how-it-goes</link>
+        <guid>https://purkka.fi/fvn_recs.html#how-it-goes</guid>
+        <pubDate>Sun, 01 Dec 2024 17:12:47 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Review: The Loves of Salammbo</title>
+        <description>The Loves of Salammbo, 1960 - ★★</description>
+        <link>https://letterboxd.com/purkka/film/the-loves-of-salammbo/</link>
+        <guid>https://letterboxd.com/purkka/film/the-loves-of-salammbo/</guid>
+        <pubDate>Wed, 20 Nov 2024 13:43:54 +1300</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: CANIDAE</title>
         <description>they really became the canidae...</description>
         <link>https://purkka.fi/fvn_recs.html#canidae</link>
@@ -148,22 +164,6 @@
         <link>https://letterboxd.com/purkka/film/i-saw-the-tv-glow/</link>
         <guid>https://letterboxd.com/purkka/film/i-saw-the-tv-glow/</guid>
         <pubDate>Sun, 29 Sep 2024 13:15:18 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Evil Does Not Exist</title>
-        <description>Evil Does Not Exist, 2023 - ★★★★★</description>
-        <link>https://letterboxd.com/purkka/film/evil-does-not-exist/</link>
-        <guid>https://letterboxd.com/purkka/film/evil-does-not-exist/</guid>
-        <pubDate>Sun, 29 Sep 2024 12:16:18 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Misericordia</title>
-        <description>Misericordia, 2024 - ★★★★</description>
-        <link>https://letterboxd.com/purkka/film/misericordia-2024/</link>
-        <guid>https://letterboxd.com/purkka/film/misericordia-2024/</guid>
-        <pubDate>Sat, 28 Sep 2024 09:59:18 +1200</pubDate>
     </item>
     
     </channel>
