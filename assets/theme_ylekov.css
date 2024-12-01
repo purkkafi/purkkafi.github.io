@@ -1,0 +1,33 @@
+:root {
+    --text-color: #202126;
+    --bg-color: #F0F0F0;
+    
+    --link-color: #0A7985;
+    --link-color-visited: #4F57F3;
+    --link-color-active: #ea9b12;
+    
+    --ylekov-accent: #7bd9e3;
+    
+    --left-side-bg: linear-gradient(to right, var(--ylekov-accent), var(--bg-color));
+    --right-side-bg: linear-gradient(to left, var(--ylekov-accent), var(--bg-color));
+}
+
+#socials img {
+    filter: invert(100%);
+}
+
+.topbar {
+    font-size: 80%;
+}
+
+.uutinen .uutiskuva img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+}
+
+.uutinen .uutiskuva .kuvateksti {
+    font-size: 80%;
+    margin-bottom: 2em;
+    margin-top: 0.5em;
+}
