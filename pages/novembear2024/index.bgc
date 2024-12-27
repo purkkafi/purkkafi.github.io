@@ -1,0 +1,565 @@
+\global{\title}{NOVEMBEAR 2024 reviews}
+\global{\theme}{fvn_recs}
+\global{\og_title}{NOVEMBEAR reviews}
+\global{\og_image}{https://purkka.fi/assets/novembear2024/cover.webp}
+\global{\og_description}{it's bearing time}
+
+\define{\arvottava}{1}{
+\raw{<div class="shuffleitem">}
+\1
+\raw{</div>}
+}
+
+\define{\arvio}{1}{
+\raw{<details class="review">
+    <summary>\b{Show Review}</summary>}
+
+\1
+
+\raw{</details>}}
+
+<span style="font-size: 80%;">\linkki{/fvn_recs.html}{FVN Reviews & Recommendations} » NOVEMBEAR 2024 reviews</span>
+
+\otsikko{NOVEMBEAR 2024 reviews}
+
+\kuva_palsta{novembear2024/cover.webp}{So there was this game jam and I played all the entries (except like 3) and you will not believe what happened (I have opinions now)}
+
+Another month, another furry visual novel game jam. I guess we're doing \linkki{https://itch.io/jam/novembear-fvn-jam}{bears} now! I didn't submit anything myself this time, but I did play all* the entries; see below for my thoughts.
+
+<span style="font-size: 80%;">* Omitted: I did some line editing on \linkki{https://fdrstar.itch.io/you-are-not-callum}{You Are Not Callum}, so I'm not going to review it. \linkki{https://mykanthrope.itch.io/novembear2024}{Barrel of Time} seemed to suffer from overwhelming technical issues, and I was not able to get \linkki{https://knowit01.itch.io/yet-another-first-day}{Yet Another First Day} to run on wine.</span>
+
+\väliotsikko{Top Picks}
+
+Here are some of my personal favorites:
+
+\lista_nroton{
+
+\kohta{Read \linkki{https://shiroooo-dev.itch.io/one-thousand-yards}{One Thousand Yards} for an immaculately written literary fiction piece}
+
+\kohta{Read \linkki{https://killingfantasy.itch.io/fateitself}{Fate Itself} for a formally ambitious fantasy game with slick, deliciously minimalist visuals}
+
+\kohta{Read \linkki{https://erebuswulfe.itch.io/blackout-zero}{Blackout: Zero} for a maximalist noir blockbuster}
+
+\kohta{Read \linkki{https://cecilyrenns.itch.io/blast-damage-days}{Blast Damage Days} for a raw, grounded queer story with full voice acting and a dazzling original soundtrack}
+
+\kohta{Read \linkki{https://ghostrickfrost.itch.io/the-creature-in-my-house}{The Creature in My House} for a short horror-comedy game that makes perfect use of its unique art style}
+
+\kohta{Read \linkki{https://joelurker.itch.io/face-to-face}{Face to Face} for a sharp, shocking high school drama (note: unfinished visuals when submitted to the jam)}
+
+\kohta{Read \linkki{https://pinknarcissus.itch.io/stars-in-your-eyes}{Stars In Your Eyes} for its meticulous presentation and weighty political content (i.e. hardline anti-panettone stance)}
+
+\kohta{Read \linkki{https://curiouscritters.itch.io/big-steps}{Big Steps} for some effortlessly enjoyable kaiju antics}
+
+}
+
+\väli{2}
+
+\väliotsikko{All Reviews}
+
+Here are my reviews in random order. Do check out any games that seem interesting to you regardless of my opinion, and note that many submissions were unfinished at the time and may have been updated since I played them.
+
+\väli{1}
+
+\raw{<div id="shuffle">}
+
+\arvottava{
+    \opengraph_preview{https://neven-vn.itch.io/daring-choices}
+    \arvio{
+
+The central idea is a fun one, kind of classical in its use of nonlinearity and how it positions the role of the player, and the prose is characteristically solid and polished (even if I did spot one cat-walked-on-keyboard core typo in "What the h µell").
+
+Still, something about <i>Daring Choices</i> just didn't quite hit me. Maybe too hurried and brief for its own good, ultimately? Comparing to your last MAY WOLF entry, I think the slower on-ramp in that one allowed the pieces of setup and the unnerving moments to linger in a way that made the tonal shift land batter. The unassuming, minimalist presentation kind of hurts, too; I think the game doesn't push up the dissonance enough to excuse not accentuating its most shocking moments visually, and the song choices feel pretty basic.
+
+I will admit that the reference got me in how blatant it was, and I do think it actually helped emphasize that particular story element pretty well and gave it some specificity & resonance. Hope team NeveN paid itself fabulously for this act of cross-promotion.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://sagedeer.itch.io/walls}
+    \arvio{
+
+The art is cute, and there are a lot of nice touches in the presentation (opening credits! that's a rarity) that already make for an evocative opening before a single line of text appears. In particular, the minimalist title screen really works here, setting the mood instantly and providing a fun transition to the game proper.
+
+There are, though, are a couple of formal things to make note of. I thought the pauses were perfectly calibrated in the tense scene outside earlier on, but for the later character drama bits, they came off as a little extraneous; could have let the prose set the pacing in a few places there. Sprites are used in a weird, inconsistent manner, with the protagonist sometimes being displayed and sometimes not, although I guess it works as a means of allowing scenes to be blocked with more variation, important with there being no expressions.
+
+As far as the story goes, the first half is strong – the dialogue feels natural, all the setups pay off, and despite the aura of familiarity surrounding the premise, there's an arresting sense of rawness and vulnerability to the execution. I was less enthused with the climax, however. <i>WALLS</i> is absolutely gripping when it lets its imagery and atmosphere do the talking, but I feel like the ending doesn't demonstrate that virtue; it goes a little too far with explicating everything and laying out what this means for everyone, ultimately being more of a slow dissipation than a punchy final point. Still, it's a pleasant read and a good jam entry.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://ghostrickfrost.itch.io/the-creature-in-my-house}
+    \arvio{
+
+Endearingly silly, purposeful in its presentation, and efficiently told.
+
+There's a lot to like in how it's simultaneously so literal and straightforward (the supernatural premise is definitively unpacked in like 3 lines of exposition) while also building towards a concluding moment of reflection that really does create an impression of a story happening, of the protagonist moving from point A to point B. <i>The Creature in My House</i> may be short, but it has basically zero fat; the whimsical mayhem pushes the plot forward at a brisk pace, and the details it lingers on sketch a compelling picture of two characters going through a breakup.
+
+A lot rests on the central monster design, and I'd say the game pulls it off. Like a lot of things in <i>Spirit: Summoners of Áine-Chlair</i>, it feels conceived with the art style in mind, coming off as unsettling really as a result of the dissonance between it and the visual associations – a child's drawings, or maybe scanned old-school furry art. The care put into the presentation is also just thrilling, with the lovely animations selling the sense of this creature being something living, having movements and mannerisms particular to it. In this way, the design comes off as holistically considered.
+
+The writing is kinda to-the-point in general and not without a noticeable amount of ESL errors, but the dialogue is sharp, and shaky narration doesn't read as a fundamental flaw in such a visual piece. I don't think it will work for everyone – fair to say it's on a very specific wavelength – but I had a great time.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://jmjerbear.itch.io/polar-opposites}
+    \arvio{
+
+The custom art and the slick presentation really sell the space setting, firstly; using a screen to show sprites is a fun touch, and I like the thoughtful use of color. Some nitpicks, though: the menus in the title screen are hard to read without any kind of overlay between the text and the background, and some sprites appear to be heavily affected by .webp compression. The file format supports a lossless mode that still beats .png, so that might be worth looking into for a small game where file sizes aren't an issue.
+
+I feel like your writing has improved since MAY WOLF 2024, but there are still potential areas of improvement. A big thing affecting the flow of the prose is how wordy the narration can get. For instance, consider the line "Our job is to innovate as we see needs arise" – even without external context, you could safely cut at least "we see", and maybe even get rid of the whole later chunk: "Our job is to innovate." I think doing this kind of tightening would make for a smoother read, especially when there's lots of technical vocabulary used. Also, a slight tendency for characters to say their traits out loud persists ("I don't do well in emergency situations!") but there's less of it now.
+
+As for some more technical remarks, the intro segment jumps between 1st and 3rd person and present and past tense, and while it's more consistent later on, this kind of thing could be cleaned up in the editing pass. There's lots of repetition, too. As an example, two consecutive text boxes start with "After the incident with my father" and "Since my father is gone", and singular words reoccur as well: "A giant hole has been blasted through the wall. ... he had been blasted a good 20 feet away". The word "additional" gets used thrice in this text box: "He repeated this step for a few additional cycles while returning to the base to fetch an additional suit for the penguin and to message the orca for additional assistance."
+
+I do like the fun procedural stuff going on in the story – I think the writing is maybe a little too detached to fully sell the immense stakes and the sense of danger, but the logistics of how everything works feel meticulously thought out, and it's fun to get an opportunity to explore the setting in the interactive section. The conspiracy thriller part is less compelling. The setups and the payoffs aren't quite honed enough, leaving the mystery to be unraveled largely by being explained as the events play out. Case in point, the middle section feels pretty slow to read because the plot basically comes to a halt when it should be building up towards the climax. It feels like there's a segment missing where the characters investigate the situation, new information gets revealed, the final twists are foreshadowed in more detail, and so on; the structure just comes off as kind of weird.
+
+For shortform fiction, <i>Polar Opposites</i> may just be trying to do too many things that don't quite fit together at once – it feels like an amalgamation of different threads the narrative sometimes focuses on instead of one big interlayered story. That and a lot of polish issues prevent the whole from reaching the level of its best ideas and most thrilling parts, I think.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://chellaytiger.itch.io/every-date-has-its-progs-and-cons}
+    \arvio{
+
+The setup is rich with satiric potential, but I feel like the execution is not exaggerated and ridiculous enough to really work as a comedy? I kind of get the feeling that the game takes the central arc – the insufferable lib protagonist with a bunch of firmly held yet poorly articulated views learning to be less stuck up by dating and banging a newly out conservative man – too seriously to risk making fun of itself and the characters. The middle section in particular feels like it's more eager to provide setups for character drama than humor; for instance, the (admittedly amusing) premise of the date being a means of gauging this dude's erectile dysfunction only comes up in the beginning and in the very end. As a dramedy, I think it doesn't really find a good balance between the constituent genres.
+
+With the relative lack of laughs, I guess my mind wandered mostly towards what point, if any, is being made here. I guess the VN ultimately felt a little hollow due to how abstract it all is. The character portraits aren't always fully convincing (would an old conservative guy really say "tankies"? isn't that more of a terminally online centrist–liberal thing), and the story is in general kind of disconnected from reality and the cultural moment at large.
+
+For instance, it feels very indicative that the characters spend a lot of time arguing about low-stakes issues like "forced diversity" in Hollywood movies and topics specific to the fictional world. Furry worldbuilding using species as an analogue for race is a bigger conversation, but here in particular it comes off as a means of smoothing over the uncomfortable fact that the love interest is some kind of racist (?) or at least has a couple of racially charged interactions with the protagonist. I think this is just one of those situations where you can't have your cake and eat it, too. If you paper over the thorny aspects of the story you're telling instead of going all the way there and confronting them, it just starts to feel like it's not grounded in anything and becomes less easy to get hold of as a reader.
+
+Political satire in furry visual novels is a concept it will probably not surprise to hear I'm pretty enthusiastic about, but <i>Every Date Has Its Progs And Cons</i> just didn't really grab me as a comedy or feel like it had enough meat to it as a story with something to say. The prose and the presentation are competent but not distinctive.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://shapeshiftgl.itch.io/bt-spin-city}
+    \arvio{
+
+Charming and colorful. Although the screen transitions get a little aggressive with how common they are, I like how fluid and animated the game feels and how well the art and the UI complement each other.
+
+The story has a lot of going on in it and moves at a breakneck pace – the pacing is maybe more reminiscent of comics than VNs, with the story preferring to show new stuff visually over lingering in the ambience of its scenes and taking its time to flesh out the characters. You get a sense that a lot of thought has gone into the details of the setting, but not all of it comes through to the reader. In any case, combined with being unfinished, <i>Spin City</i> is a quick and pleasant read but remains sort of impactless.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://killingfantasy.itch.io/fateitself}
+    \arvio{
+
+The pleasantly minimalist presentation is immaculate right from the title screen. Using a non-standard aspect ratio is a fun choice by itself, but I'm also struck by how well the accompanying images complement it – a single sprite is enough to fill the screen, and the backgrounds heavy in negative space and often obscured by weather are allowed to feel intimate, if not slightly claustrophobic. I think the photographic assets are also just tastefully curated and edited, a real treat for VN background aficionados, and the simple, unpretentious style the sprites are rendered in fits what the project is going for.
+
+Though the nonlinear structure of the narrative is relatively complex, the framing of charting your way through the twists of fate is an interesting way to make navigating through the text feel diegetically justified. Even when I was holding the skip button and mechanically checking if making different choices would reveal something new, it still felt like I was engaging with the story and its themes. It's certainly one of the smoothest implementations of this kind of thing I've come across.
+
+I'm a big fan of the slick prose, too; there's a killer line or two in there, and it's all wonderfully grounded and physical, the premise notwithstanding. As for some small caveats, action comes off as a slight weak point – though detached is not an inappropriate tone to hit in context, the descriptions of violence maybe lean a little bit too far towards perfunctory. Also, it's kind of a shame that the NVL mode segments don't play with paragraph length more, with the game largely sticking to longer blocks of text, since being able to set the pacing and the rhythm that way is one of the big advantages of using it. On the editing side, there's lots of missing punctuation, especially in the dialogue. Other formatting errors like strangely used quotation marks show up from time to time, too – might be worth going through it after the jam.
+
+<i>Fate Itself</i>: precisely the kind of hidden gem you want to discover while digging through game jam entries. The premise feels fresh, and I can always appreciate a fantasy thing that maintains a tight scope and avoids drowning the reader in lore. A worthwhile read, and if it's a test run for something, I'm very excited to see it.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://erebuswulfe.itch.io/blackout-zero}
+    \arvio{
+
+The previous game jam entries by some of the team members set expectations high, and I wasn't disappointed. Most obviously, the presentation oozes production value in a way one would think approaches the limits of what can be achieved with Ren'py in one month; the opening transition is insanely smooth, I like how the different UI styles emphasize the fluid structure of the narrative, and the animations and the interactive segments are pure fun. The collapsible sidebar for the buttons maybe comes off as a gimmick taken too far – it doesn't cover much of the screen in any case – and having tooltips would probably be more elegant than the tutorial, but I appreciate the commitment to experimenting with this kind of stuff. Worth shouting out is the sound design, too; it's a treat for all the senses.
+
+But let all that not distract from how the story itself stuns with its enjoyably pulpy subject matter (the first conversation the two police office characters had involving donuts and racial profiling made me howl with excitement) and sharp prose. It's exciting, it's moody, it's brisk. As with <i>One More Light</i>, what really pulled me in were the slower, quieter sections; I tangibly felt myself getting absorbed into the plot in the bar scene that involved nothing more than a couple of characters talking with each other. For something with setpieces this flashy, I'm thankful that what lies between them feels just as well thought out and just as carefully crafted.
+
+The "to be continued" title card stings, especially when the game looked to be a relatively satisfying self-contained read, but that is no cause for holding the five stars. Looking forward to the rest, and wherever the story leads after that.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://boyfail-inc.itch.io/what-he-carried}
+    \arvio{
+
+I imagine I'm not adding anything substantial to the conversation by saying this, but the art is gorgeous. The backgrounds establish the mood of each scene perfectly, and the bear's character design is tastefully muted perfection, recognizable and distinctive without being as so flashy it would clash with the low-key tone of the story. I like it all a lot!
+
+The custom UI is neat, but not without its problems – e.g. the LOAD button in the title screen has deeper shadows than the rest, various clickable things don't have hover effects – and looks somewhat incohesive as a whole? All the menus are fine by themselves but kind of in their own style, I'd say, and the default font of Ren'py doesn't really match the playful look of much of the other stuff. Regardless of the cool ideas, the art direction doesn't quite come together. (And while we're here: it's a shame that the itch page doesn't really reflect the look of the game.)
+
+The prose has its moments of dazzling imagery, and the vocabulary is very good in general, but it does come off as kind of wordy and suffers from some recurring editorial issues. There's a lot of repetition that feels awkward to me. Some examples: "hours he spent in the faculty, and while I don't remember the exact amount of time he spent", "pursuits other than the pursuit of more money", "won't get repacked any faster if I try to stop you from packing". Sometimes the writing reiterates a thought, too, like here: "There's a comfort in not needing to say anything, to understand that everyone present is focused on the same task, no words needed."
+
+There's also just the occasional line that could afford to be tightened or broken up for the sake of flow: "We just spent long days under the sun, our rods the sole impacts in the still waters until that fine moment when the tranquility broke in a sea of tension." Maybe this is just me, but I'm not crazy about the part following "when the" – feels too structurally complicated, could rephrase to something like "fine moment of tranquility breaking". And while not every instance is an objective punctuation error, there are a lot of places where I'd insert a comma for the sake of clarity. (As a smaller nitpick, the game appears to use normal hyphens everywhere instead of en or em dashes: "I wasn't the designated driver-I was drinking just as much as them-but...")
+
+As far as voice goes, the bear's dialogue sounding formal and flowery works for the character, but some of that slips occasionally into the first-person narration and the fox's speech. There's also just a couple of isolated instances of the game using 2nd person ("He sighed as you started funneling the lures into his bag", "His laughter is almost contagious, but you're not ready to just let go just yet"). There's a clarity of purpose to everything, but strategic edits would help a lot to make the prose just a little bit punchier, smoother, and snappier.
+
+Plot-wise, the opening segment is a lot of fun, but the label "demo" doesn't feel like a lie, since the story doesn't really go anywhere yet. I guess it's an inevitable consequence of approaching the medium with this much ambition. The art is lush with details, and there's more of it than in some completed VNs – completing the project with this much fidelity in just one month would have been a lot to ask.
+
+All in all, <i>What He Carried</i> is a decent read for what it is, i.e. largely setup for payoffs to presumably come. The art is stunning, the rest could use more polish; still, not a bad start at all.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://peppekzmagimerlin.itch.io/losing-importance}
+    \arvio{
+
+A unique, charming premise in a relatively smooth package that doesn't overstay its welcome. The riveting, hyper-serious stakes of the bingo metagame form a compelling dramatic core for the plot, there's a good amount of characterization packed into the short word count, and I like how materially the realities of being old/disabled are felt in the story. I can't speak for how authentic any of it is, but the vibes are certainly there.
+
+The black-and-white visuals function as an aesthetic choice; the only real nitpick I have is that, to echo a comment on the main itch page, the art doesn't feel like it was made with the medium in mind. In addition to the final CG being covered up by the text box, I don't think you get a very good look at the mobility devices of either character – with both custom sprites having important details near the bottom, I was kind of left hoping for some kind of presentational innovation that would have helped there. Could be a case for playing around with Ren'py's speech bubble functionality, for instance. Just spitballing here, but it did feel like a limitation of the medium the game couldn't conceive a way to overcome.
+
+I think your prose has improved from the last game of yours I read, and there are plenty of fun lines ("Nostalgia may be a drug that keeps us going, but there is also such a thing as overdose"). You do feel the language barrier, though, especially in how it affects the rhythm and the flow of the text. For example, consider this part: "I probably should have gone to the Alps. There, at least, screaming would not have been noticed by anyone with the mountains that high." There are a couple of filler words, and the structure kind of obscures the major point; I'd rewrite the latter line to something like "With mountains that high, at least nobody would have noticed me screaming." Even in the absence of objective errors, the writing doesn't always go for the most elegant grammatical structures, and ideas are sometimes reiterated on the sentence level ("Martin always feels compelled to flaunt his fortune in front of me every goddamn time he acquires a new machine" – "always" and "every [goddamn] time" convey the same thing).
+
+Also, small detail, but the title didn't quite land for me – I get the connection to the story, but it feels too abstract in a sense and somewhat awkwardly phrased. Overall, I'd still say I had a pretty good time reading the VN; the premise is just too delightful.
+
+P.S. though the storyline does sadly not concern the exploits of a young witch trying to solve the disappearance of her neighbor's cat in a small village in the Alps, the mountains are at least mentioned, making this one of the most adjacent works in the space?
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://shiroooo-dev.itch.io/one-thousand-yards}
+    \arvio{
+
+The writing is good on a level that doesn't need qualifications like "for an indie game" – it's just good. The imagery is amazing, all the subplots are steadily paced, and I like how meticulously the game lays out the nitty-gritty procedural bits and how dreadfully inevitable the looming conclusion seems. For something sort of loose in its chronology, I especially appreciate how your skill at starting and ending scenes helps the story maintain its momentum. It's one thing to have a killer line or a hard-hitting metaphor, but working them into the structure of the piece this effectively is what really makes the prose so fluid and engaging to read.
+
+Moreover, I feel like the game demonstrates a thorough understanding of the medium and its tools while also pushing it towards a fresh, more novelistic mode of expression. The alternating use of ADV and NVL segments and the tasteful title cards contribute a lot to the rhythmic structure, giving the passage of time a bite something built on prose alone would not be able to capture.
+
+There's a lot like in the art, too. The sprites are full of character; I like how the detective is built from triangles in contrast to the soft, round shapes of the bears. But by far the most fascinating piece of visual storytelling is the degree to which the sprites feel almost dissonant with what the text is saying, in a sense – the carefully sketched expressions capture a lot of nuances that seem to belong to the façades of the characters, with their interiority coming through as especially strong in the NVL parts where you get no visuals. Intentional or not, it's definitely appropriate with how the narrative explores a family in crisis as it's seen both from inside and outside.
+
+I could be here all day listing all the little details I loved, but let's just call <i>One Thousand Yards</i> a deeply affective, masterfully spun tale with a respectable amount of polish and production value packed in. Definitely up there as one of the best overall impressions any shortform furry visual novel has left on me.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://danji-isthmus.itch.io/the-fox-in-sleepy-creek}
+    \arvio{
+
+The vibrant art is quite nice to look at; I like the stylized sprites, and the use of blurring adds a lot of depth to the CGs. Much of the specific vibe of the game is established thanks to the soft, colorful backgrounds, and the music's neat, too.
+
+I guess I don't have much else to say. The game feels like a pretty straightforward romance/kink piece that knows what it's doing but doesn't really shake up the formula, not to mention being unfinished. There's maybe an argument for the pacing being a little too accelerated, though, especially towards the end of what's out now – in a genre that really thrives on little details and fun texturing, it does come off as slightly hurried. The writing is pretty strong and there are a lot of fun lines, but the storytelling is just kind of utilitarian. Also, as a pretty regular editing issue, there are a lot of missing periods and other punctuation.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://tavios.itch.io/bear-my-breath}
+    \arvio{
+
+The prose manages to land on a fun image occasionally, but I'd describe it as quite rough to read, not seeming like it went through a lot of editing. Some lines are long and clunky to the degree that they can be difficult to parse just in terms of syntax ("Allowing myself to remember that unfortunate day wasn’t only a painful reminder of our own mortal nature but also the sole and only reference I had to the incontestable fact that he was no longer with us, and that didn’t matter much to others.")
+
+There's also a fair amount of words being used in a slightly off manner. For instance: "the deafening silence was a stark, yet notable characteristic" – how are "stark" and "notable" in opposition? (Also, cut the whole "characteristic" part and just say it was stark.) Another example: "We organized adventures, stories, and all kinds of kids' play." It maybe doesn't sound right to say that stories were "organized"?
+
+The central idea is intriguing, but not necessarily done justice to. I think a lot about the story feeling confusing and jarring comes down to it not using its structure well. The first moments of the game are spent on detailing the protagonist's family history, which – while not exactly irrelevant – doesn't really do much to set up the supernatural elements that come to the forefront later on. It doesn't help that the tone tends to jump around dramatically; from the solemn, tragic opening exposition, we go directly into a masturbation scene complete with some pretty silly imagery ("like Pisa, except more fleshy").
+
+I get that the ultimate nature of the town is supposed to be a twist, but I think it's still crucial to lay out the basics of what the reader should expect early on to make the story feel like a cohesive whole. Don't want to engage in "writing a fanfic"-type criticism here, but I think there would be a lot of ways to work in some more concrete foreshadowing – what if the story opened with something cryptic involving the bear's journey, for instance?
+
+In general, there are a lot of presentation/polish issues. Apostrophes seem to be needlessly escaped (showing up as \' in-game), some lines are long enough to overlap with the buttons, the title screen focusing exclusively on the jam is pretty weird, and maybe I suffered from some kind of technical issue, but it felt like there wasn't a lot of audio? Furthermore, while the backgrounds are nice (the illustration of the village is particularly lovely), there's a lot of stuff lingering on the screen long after narration has moved on to other matters near the beginning. It's a visual medium; if you don't have appropriate images to show, I think even just a black screen would be a preferable workaround.
+
+It's within expectations for game jam projects to be a little unrefined and even unfinished, but I think <i>Bear My Breath</i> could have used more time in the oven. Moreover, it felt like it was unfortunately missing the most interesting parts of the story – the only ending you can read right now is kind of an anticlimax. If you're planning to do more with the project after the jam, I hope it can be further polished.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://mayomilkshake.itch.io/mfit}
+    \arvio{
+
+The biggest weak point in the presentation is probably how badly the unedited stock photo-core backgrounds clash with the extremely chibified sprites. With art this stylized, I think it's crucial to make the rest of the assets work with it, or the game will just like it doesn't have a coherent aesthetic. But the writing is overall solid; while there are singular text boxes in need of some line editing ("Both our parents always told us that everytime we'd play together to by home by sundown, because usually they'd want us home for dinner, but Victor once told me a story about time stopping an hour past midnight, and that was the real reason they wanted us home by sundown."), <i>Memories Frozen in Time</i> is a decently smooth read.
+
+I think the biggest thing dragging it down is that though the conceit feels like a workable classic short story premise, the execution doesn't nail the most important bits. The kind of specificity you need to make reading about a character's memories interesting isn't really there – see: how vaguely the video game they played is described – and the story comes off as unstuck in place and time. It's difficult to buy into the separation between "then" and "now" when they're so faintly rendered. Also, I kind of got the sense that the game ended before it got to the point, given the in-text mission statement is "[to] figure out what drove us apart" and I didn't feel like we really got that far.
+
+All in all, not offensively bad or anything, but lacking in some load-bearing parts. The story wants to be retrospective, but I'm not sure what the trip down memory lane really amounts to.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://karlsmith.itch.io/thokvam-mulot}
+    \arvio{
+
+Playing with cultural subject matter largely unexplored by furry visual novels is appreciated, but beyond that, it's difficult to find a lot to like here. The Halloween mask-esque sprites are, frankly, a bit unnerving in how clearly you can see the use of human references, and it doesn't help how closely the fur colors resemble skin. The CGs suffer from the same "that is a human person" syndrome, too. Meanwhile, the writing strikingly captures the sense of the imminently approaching game jam deadline.
+
+Probably the weirdest and most off-putting part of the package is the gratuitous advertising for the author's other game. Besides the story making a couple of tacky direct shoutouts (I think the centerleft joke would have been fine with some subtlety, no reason to note it's specifically a reference to New World Symphony written and directed by KarlSmith), the backgrounds that tell you to read NWS look like sellable ad space. Is it really necessary to constantly remind readers of other games? This whole thing is just so baffling.
+
+With <i>Thokvam: Mulot</i> apparently being a prequel to another game (?), it's not really clear why this particular story needed to be told as a standalone entry. What do we get here that could not be filled in later on? All the characters boil down to one personality trait, the journey and the founding of the new village go by so fast, and the plot is basically a background element, its climax involving the protagonists finding out what happened by listening to the radio. There are a couple of interesting bits, but they only come off as setup for the visual novel to follow.
+
+I guess the main takeaway here is "read New World Symphony", which is not really what I would like to be thinking about after reading an entirely unrelated VN. Maybe I'm being too mean here, but this whole thing just felt sort of barebones and gaudy.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://bazcus.itch.io/on-a-string}
+    \arvio{
+
+Gotta start off by saying that the art is excellent! The sprites have so much personality, and the backgrounds are clean and polished. No complaints there, it's all technically proficient and functional.
+
+The presentation has some stuff I'm not as in love with. First of all, the font size is huge – I thought the game was using a mobile version of the UI due to a glitch at first. Besides hurting the readability by itself, combined with the tiny text box it means there's not a lot of space for text, which you can see with how many lines get cut off. I also don't get the point of overlaying all the prose on top of the screen instead of using the box; it's harder to read, obscures stuff you might want to look at, and forces your eyes to jump up and down.
+
+But though the text is presented sort of jankily, I'd say the writing feels largely natural and pleasant to read. Some caveats, though: punctuation is inconsistent, with a lot of periods being omitted seemingly intentionally, and while the dialogue is pretty nice, the stream-of-consciousness narration comes off as somewhat blunt and impersonal. I feel like it could afford to be a little punchier and to do more to put you in the character's head instead of just detailing what's going on.
+
+I guess I found a lot about the plot kind of unsatisfying for the same reason I'm not into soulmate stuff in general: I think it literalizes the mechanisms of how romance works as a genre, basically making the characters aware of the fact that they're in a story and removing a lot of the tension as a result.
+
+The "will they or won't they?" turns into "they will". Now, it did surprise me positively that the story seemed determined to bring some nuance and complexity to the premise... but by the end, it didn't really answer the questions it raised or pull off some kind of bigger twist? The characters went on a date despite the initial hesitation essentially because fate said so, and things seemed to work out as foretold. I'm not sure if there's supposed to be more to come or what, but the ending just felt kind of abrupt and anticlimactic. The final line is cute, though.
+
+<i>On a String</i>: ultimately a pretty uneven package. Some of it was amazing, some felt like the devs were still finding their footing in the medium, and some didn't quite fulfill its intriguing promises.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://joelurker.itch.io/face-to-face}
+    \arvio{
+
+An excellent read! The prose is propulsive, the dialogue feels naturalistic, and the narrative takes a delightfully surprising turn. Furthermore, <i>Face to Face</i> uses the shortform format effectively, allowing the fact that everything ultimately works out pretty conveniently to factor into the haunting ambivalence of the ending. I will not say more to avoid spoilers, but the writing certainly earns my endorsement.
+
+Some have remarked that the unfinished, backgroundless presentation actually fits the story, but I wouldn't go that far myself. What's there is good: the stylized sprites match how archetypical the characters come off as, being recognizable as types of people you meet in high school, and the audio design sells the grounded realism of the story. I think my favorite bit is how the rain loop provides a smooth transition from the title screen to the game proper.
+
+Still, being set in a gray void hurts the atmosphere of the piece. The writing does such a nice job of characterizing the environments with punchy descriptions, but a lot of impact is lost when you can't see any of that reflected on the screen. In particular, I think suitably moody art could make the opening section more foreboding – the genre shift feels very stark now in a sense that could even be dialed back a little.
+
+The game is enjoyable even in its current state. I do hope to see it completed with visuals that match the polish of the rest, but I guess it can have my pre-emptive five stars as a treat.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://pinknarcissus.itch.io/stars-in-your-eyes}
+    \arvio{
+
+I like it! The amount of polish in what is not a short piece is impressive in the context of the game jam, and it's nice to read something where you can just focus on the story instead of mentally nitpicking presentation issues or wonky sentence structure. Every aspect works together, and the writing has a fun welfare state decadence vibe to it.
+
+A lot of the game's appeal is in the fun formal gimmick that is, despite a couple of weaker points I will get to later on, an effective way to use the medium. It does mean that there's a lot of pressure on the assets to work, since the reader is looking at them not as something obligated to be there but as the centerpiece of how the subjectivity of the characters is conveyed, and I'd say <i>Stars In Your Eyes</i> largely pulls it off. The backgrounds are quite moody and the spritework is nice, although the rabbit's ears feel slightly off in a way I can't quite place. There's a lot of attention to detail in the sound design, but it does feel like a lot of the subtler sound effects are mixed pretty low; given the subject matter, I think there would have been a case for emphasizing them a little more. Also, the accessibility features represent a respectable amount of effort put into something often ignored by VNs.
+
+I think my big criticisms boil down to two points. First of all, the tone feels somewhat uneven throughout the game, especially when it comes to dialogue. The character voices are quite stylized – these guys are willing to have some pretty abstract philosophical conversations on the spot – which, while not a bad thing by itself, kind of clashes with some of the rawer parts, especially the caps lock yelling. For that reason, I think some of the most emotionally heightened scenes could afford to be dialed down just a little.
+
+It may also just be that the plot is thick with melodrama in a way that threatens to overshadow the generally enjoyable mellower sections (like, uh, the panettone jokes) and the ending. Some of the things the characters have recently gone through just feel so overwhelming that it's hard to focus on their relationship and what it means for them to have met each other now.
+
+Second, how the POV switches are used feels a little haphazard and disorienting sometimes. There's enough to read that the game could be more deliberate with the device while still having time to showcase both characters, and it doesn't really feel like there's a rhythm to when the perspective changes. Also, this kind of character drama derives a lot of its tension from the friction resulting from both the POV character and the reader not being able to tell what the other person is thinking, and I think some of that is lost due to how generous the VN is with cluing you in on their thoughts. It feels like we're giving up one source of interpersonal conflict and not necessarily replacing it with anything as compelling. All in all, the idea is really good, but the execution comes off as too careless to do it full justice.
+
+I'd still call <i>Stars In Your Eyes</i> a very good time, and in particular likely one of the most polished audiovisual packages in the jam. The reviewer's cameo is not nearly tacky enough, though, as nobody even mentioned <i>How it goes</i> or told the main characters to read <i>New World Symphony</i>...
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://imrikun.itch.io/hmdyd}
+    \arvio{
+
+A very solid start! The writing flows steadily, and the presentation is simply immaculate; in particular, I'd like to compliment the gorgeously rendered sprites and all the nice animations. If there's something to nitpick, the art direction does feel sort of all over the place – the sprites are an order of a magnitude less cartoony than everything surrounding them, especially the logo. I think you can sense the game's concept and tone shifting a little during development, as apparently happened.
+
+Besides that, I guess I'd say the audio doesn't always have the same kind of pop as the visuals. For instance, the car scene feels like it could maybe use sound design physical enough to match the lively animation – how quiet the backing ambience track is kind of creates a dissonance between what you see and what you hear. Also, as with the visuals, some of the music may be just a little too high-energy for the largely serious tone the finished product ends up having.
+
+These points represent comparatively slight problems in the big picture; I just don't really have that much to say about at the story at this point, since it felt like we just got through all the setup. It's a good read, though, looking forward to more!
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://hollow-soul-stories.itch.io/made-with-honey}
+    \arvio{
+
+The wacky, tastefully campy plot is a lot of fun, and I thought using the dissonance between different art styles to convey the uncanny vibe of the transformation was a brilliant low-budget solution. If "most creative use of readymade assets" was a competition, I feel like we'd be looking at a winner right now.
+
+However, minor flaws in the narrative (the romance moving so fast) and the presentation (the floating sprites, the vastly different styles of the backgrounds) aside, it's quite difficult to look past the non-ending. There's a decent amount of time spent on setup that ultimately goes nowhere, and the game has enough mystery and intrigue to it in general that the anticlimax really feels like an anticlimax. It's enough to rob the game of much of its potential impact.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://cecilyrenns.itch.io/blast-damage-days}
+    \arvio{
+
+<i>Blast Damage Days</i> won me over with its humor and the fantastic audio design, featuring a killer soundtrack (the credits song!) and full voice acting. Something can also be said for the incredible specificity of the story; the characters basically jump out of the screen thanks to how much care the dynamics between them are sketched out with, and the visual novel's depiction of a time and place, of a social circle, is convincing. It's above everything else fiercely efficient as a shortform work, making every scene and every line count.
+
+That being said, the presentation is quite rough in some ways, and not every aspect comes off as a purposeful extension of the game's enjoyable lo-fi aesthetics. The good: the sprites are incredibly expressive, and I think basically every visual choice made with the designs works. For instance, the eyes alone communicate a lot about the characters – Jane's piercing glare is so good – and the colors feel cohesive. I also think the style just meshes well with the classic VN background filter the game has elected to use, and though the UI design of the menus is pretty messy, the vibes suit what the story is going for.
+
+The less good: though sound is undeniably one of the game's strongest suits, I think things could have been pushed just a little further in a couple of scenes. While the music is super good, I think having voice acting underlines the lack of background ambience in some scenes, the concert in particular. It just sounds kind of weird when a person is speaking but you can't hear other prominent sounds that would diegetically be there, you know?
+
+The writing makes some interesting decisions, like the narrator addressing the reader directly in a couple of places, but I'd describe it as somewhat distant on the whole. There's a lot of explaining what characters are feeling rather than that being conveyed directly through the prose – it's not quite as raw and immediate as what the striking aesthetics demand. Also, I'm not a big fan of the decision to put NVL mode text directly on top of the scene without any kind of overlay, since it's kind of difficult to read. The dialogue-heavy sections could have been reworked to ADV mode anyway, as going back and forth constantly is pretty distracting.
+
+Ultimately a victory for the "je ne sais quoi" conception of what makes art good: despite having numerous nitpicks with the execution, I found the reading experience thrilling in a lot of ways. Good stuff.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://sourou.itch.io/herve}
+    \arvio{
+
+Kind of an uneven package in a lot of ways – the prose is pretty full of ESL-isms ("I'm making the clown") but not to the degree that it would feel actively distracting to read, and the presentation does a lot of things but not all of them work. For instance, I feel like it was not perfectly clear what some of the camera movements were trying to convey, and the previous line fading out quite slowly hurts the readability a little. The slick title screen transition does earn some points, though.
+
+As far as writing goes, <i>Hervé</i> is one of those VNs using the protagonist's internal monologue instead of proper narration, and it always feels kind of awkward to me. Moreover, structurally speaking, I think opening with a long explanation about the relationship between him and the man of the hour is probably less interesting than finding out some of that gradually as the story goes on. But despite the rough start, I think the game is generally a pleasant read; the cozy vibes work, and the winter survival imagery feels grounded in reality (those damned electricity prices...)
+
+Also nice to get something set in a small village in the Alps, even if it's a shame that the guys didn't meet a young witch trying to solve the disappearance of her neighbor's cat.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://gnollwayhome.itch.io/gainfully-employed}
+    \arvio{
+
+Modeling the jam's readymade sprites is a cute idea, and the environments sell the VR game vibes. I do wonder if the game could have leaned harder on the representativeness of the visuals, though – POV shots are pretty rare, and it's weird that you can't see the nameplates even though they're a big plot point. Also, the console is a fun idea, but unless I missed something, it feels weird for there to not be a bigger payoff for having it around? In general, though, I would call the presentation a success.
+
+The hurried storytelling feels self-conscious of how recognizable territory all of this is. While the intersection with furry culture provides some fresh, interesting ideas for the story, that angle feels ultimately like a sidenote as the plot spends most of its time on all-too-familiar ruminations on the existential horrors of being an AI trapped in a simulation. The social commentary in particular feels so customary it's not a surprise it's basically speedran in the conversation where the conceit is explained. Explicitly linking the premise to generative AI doesn't help, either; it makes the game feel less grounded in reality, since this isn't really how that stuff works, and comes off as a cheap trick for making it feel more topical.
+
+In theory, it's not a crime to write a story that doesn't say anything new. But in practice, the reading experience felt as weightless as the later <i>Black Mirror</i> episodes when they started doing this premise over and over again. I guess I just wish the writing had the same energy to it as the bold, experimental 3D visuals.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://lucentstudios.itch.io/stories-of-aetas-valon-snows-rest}
+    \arvio{
+
+Art's nice, though the presentation is a bit unpolished (the project's name is just "Novembear 2024" in a lot of places, and audio design is really sparse). <i>Snow's Rest</i> has got kind of a slow, inert opening featuring a lot of setup, but the conflicts don't really take shape yet. While starting a story with something more dramatically active is recommended in general, in this state the game doesn't give the reader anything to latch onto.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://venusstudioss.itch.io/repetence}
+    \arvio{
+
+​Most of all too brief to leave a lasting impression, really more of a single scene (with a prologue) than a complete story. The rapidness of it all disfavors the narrative in a lot of ways – how quickly and with how little tension everything develops doesn't allow it to capture the thrills of an illicit hookup, and the daddy issues psychologization remains a mere suggestion. Also, the mood whiplash from the flashback to the sex scene also comes off as quite strong with how little air there is between them while also failing to feel like a dissonance the text is deliberately pushing. Though the cartoony art is not bad to look at, it does contribute to the disorganized feeling of the piece and its tone.​
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://vyeriosaki.itch.io/bearony}
+    \arvio{
+
+​The presentation is solid fun – the art style is charming by its own right and feels interesting next to the surprisingly dready tone of the story. However: there is so little in there at this point that writing a longer review would be pointless. Looking forward to more, but it feels like finishing the game and submitting it as a late entry (assuming jam administration allows that) would have been a better call.​
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://thetadog.itch.io/art-building}
+    \arvio{
+
+The tone is sort of half-campy – there are a couple of self-aware jabs, but for the most part, the conceit is played too straight to amuse with its silliness while also not providing hard-hitting thrills. In particular, the itch tag "Psychological Horror" feels completely irrelevant to the content of the VN. I guess it kind of feels like a case of "don't show the monster" taken too literally, since the game doesn't even have a proper action scene or tension sustained past a handful of text boxes; it's really just a vague horror thing happening in the background as the characters make a largely hurdleless escape. The final twist feels too abstract with how scarcely the mechanics and the feel of the thing are established, and the characterization doesn't have enough force behind it to make it land, either.
+
+Also, while this is not my weightiest criticism, I think Mr. CinemaSins would have more than a couple of notes about the plot. A university research project inadvertently spreads some kind of spider zombie disease, a situation that takes place over several days, but literally nobody else seems to notice or care? Like, shouldn't the military be there shooting at stuff, or something? I'm not asking for a fully realistic treatise on how state authorities would respond to this kind of crisis, but the handwavy approach to worldbuilding makes the story come off as a loosely justified video game level.
+
+As far as writing goes, the prose is pretty barebones, and having every sentence in its own text box makes the pacing feel really janky. But even being pretty short and hurried, <i>Art Building</i> is not the most economically written visual novel out there – the opening spends a lot of words on slife-of-life mundanity that does nothing to advance the story and little to characterize the main duo. It's kind of unfortunate that the arguably least important parts of the narrative get the most detailed and conscientious writing while the horror scenes rarely linger.
+
+The sound design feels quite sparse in some parts – there is no alarm SFX despite it being prominently described in the narration – and the creature roar feels maybe too digital and distorted to really convey the impression of a monster chasing you. Meanwhile, the backgrounds are hurt by how empty some of the interiors are, with the titular art building consisting of a normal-looking office and a guitar in a vast collection of completely undecorated spaces. I think this contributes a lot to the video game-y feel of the piece. Not a strong package, all in all; I feel like it fails to stick to a tone and doesn't push the horror far enough.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://kraajlanding.itch.io/mcmurdo}
+    \arvio{
+
+I like it when the jam entries use the default sprites and do something with their obvious theming, but this is another game to be in such a half-baked state that even clicking on a star rating feels completely arbitrary. Looking forward to reading the finished thing, though, since everything in the 500-word trailer was delightful.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://gruntsteel.itch.io/end-of-the-line}
+    \arvio{
+
+First of all: I feel like the narrative and the presentation are kind of in conflict here. The story itself is pretty bleak and quiet, with not a lot of big things happening after Owen's endearingly silly introduction, but the visuals are so busy with all the animations, the meticulous sprite movements, and the transitions that the overall vibe is energetic and at times leans towards chaotic.
+
+I have long maintained that visual novels are a medium built on abstraction, and having something new and exciting happen on the screen is a tool for conveying emphasis – sometimes good direction amounts to being sparing with how many devices you introduce and how you use them. Too often, it felt like a formal mechanism was motivated by making the game feel impressively produced rather than underlining the importance of and pushing the specific emotions in each scene. The intrusive effects in the flashbacks are probably the worst offender; we already know all this happened in the past, so is it really necessary to frame it so heavily through a retroactive lens instead of allowing the reader to experience what the characters were feeling then?
+
+I think the same dissonance can be felt in the pacing. As mentioned, while <i>End of the Line</i> is kind of a serene character drama in spirit, there are not a lot of truly slow, contemplative moments that would give the ideas and the imagery time to sink in. I guess a lot of this comes down to the VN being such a talky piece – most of the dialogue is concerned pretty directly with the themes, so there's just not a whole lot of space for forming your own response to the material. The game just kind of holds your hand, and you feel what you're told to feel and think what you're told to think.
+
+The structure is also kind of jumpy. The flashbacks feel too aggressively pruned of everything but direct setup to work as satisfying scenes by themselves, and I don't really see the point of covering so much time when it feels like the plot beats could be made to play out within the same day or so. To be clear, I don't think any of this is bad storytelling in general, but it just doesn't feel like a good fit for the story being told.
+
+I would say the prose and dialogue are pretty solid work all around, and I didn't spot big editorial issues beyond the tense being inconsistent in just a couple of places. Generally speaking, though, the writing did feel too melodramatic for my tastes – the characters' mental states are projected outwards into the narrative and the setting to the point that it feels like there's nothing that's not a symbol of some kind. The crumbling house, environmental disasters, the desperate task of catching one final fish... sometimes, it's ok to write in details just for the sake of flourish, or to set the mood, or to create the impression that the characters have lives beyond the confines of these particular events.
+
+So much of what the VN does is plainly functional enough to risk the mechanisms of the narrative feeling exposed. The same can be said for the overtly satisfying bookend of a final line and all the other setups and payoffs – they're all so neat that the storytelling doesn't feel organic or raw enough to respect the immensely bleak subject matter.
+
+To mention a singular plot point: near the middle, there's a twist that didn't really land for me because it felt like it was built too much on reader expectations in lieu of being actually written into the text. It just didn't feel like the reasons why Arthur would think so matched the reader's, creating an unwelcome distance and making it difficult to emphatize with what the character was feeling during the fallout. I like it as a fun reader-hostile move in theory, but I think the execution focused on the less compelling aspect.
+
+<i>End of the Line</i> is certainly competently put together, and you can respect the huge team's efforts making for something with a stunning amount of production value for a game jam submission. Ultimately, though, I just wasn't a big fan of many storytelling and directorial decisions and, as a result, failed to have an emotional reaction. In a work that feels like it's banking so hard on that happening, it's difficult to feel like I enjoyed the time I spent with it.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://keithballard.itch.io/since-november}
+    \arvio{
+
+Primarily, I think <i>Since November</i> bites off more than it can chew with a 4-route (!) structure spread over what is ultimately not a whole lot of words. In its hurry, the prose has to do a lot of blunt explaining about who everyone is and what they're feeling, and all the dramatic turns and moments when characters suddenly start to yell feel too abrupt even when excused with "the world is ending so everyone is losing their minds". The device of the apocalypse happening just as the narrative reaches whatever point it's been building towards comes off as kind of a convenience. While I get that it's the theme, I feel not allowing the reader to linger in the mood for just a bit longer robs the finales of their impact – and always concluding on the most appropriate beat doesn't convey the unforgiving, brutal nature of it all.
+
+There's a sense of hollowness to the VN in general. The schematic nature of the endings only really makes it apparent how little there is to the characters beyond standing in for their respective ways to think about the world. As for the calamity itself, it's sketched so vaguely that you get the sense of the characters discussing the concept of the apocalypse, not living through one. So much of the imagery falls flat – going outside is hyped as this big thing, but when they do that, there's... basically nothing interesting? It feels like the main characters are the only people alive (aside from a single NPC inexplicably in need of food despite the world appearing to consist of lootable malls and grocery stores), but if I'm not missing something, I don't believe how that came to be is alluded to? The story is just not material or textured enough to convey the horrors it's gesturing towards; society seems to have fallen apart in the precise way that would allow this specific scenario to happen. I guess I maybe think the outside section was a mistake, and the VN should have committed fully to being set in an abstract dreamscape if its worldbuilding ambition ended there.
+
+On a more technical level, the writing is solid enough, though there are a lot of editorial nitpicks you could make. Comma usage is sometimes messy ("I’m fighting for my life, here on this stolen couch."), and the same goes for tense ("Huffing, the goat is shaking the controller around as if he expects it to do something.") and pronouns ("Beside him was a stack of unsold Blu-ray’s. The shadows made him menacing." repeats "him" twice when the referent is already a little unclear by that point). The descriptions can also get pretty repetitive; I get that "the glow [of the television]" is pointing to a certain 2024 movie, but there's no need to repeat it like 6 times.
+
+Now that I mention it, I kind of feel like the game is in danger of drowning in its referentiality at times. There's a lot of listing pop culture detritus, namedropping philosophers, and reiterating social media discourse, but little of it feels consequential besides successfully characterizing a couple of the characters as feeling pretty online. It also makes the references to other furry visual novels feel even more tacky and jarring – all the other stuff is situating the story in a specific real-world context, so it suddenly being suggested that FVNs exist as mass media in this setting just took me out. The central John Green quote is also just kind of... deeply weird in its context?
+
+While a lot of the art is super good, I feel like you can see echoes of the narrative issues in the writing. The combination of not using sprites, how stylized everything is, and the colors and the lighting being so stark in general makes getting a good look at the characters a rare treat. It's a visual medium – I guess some of how distant the cast feels comes down to the limited visual language the game is operating with. Every time there was a straightforward background, I wished it had some sprites to go with it to give the reader an easier time orienting themselves into what the characters are feeling and saying.
+
+<i>Since November</i>: less than the sum of it parts. There are too many conversations that circle around grand statements concerning all of human existence and too little dramatization of the story presently happening with these characters, the thing that would give the game emotional resonance. Trying to cover so much ground is a bold move, but I think it forces the storytelling of the finished product into a mode that's too utilitarian and mechanical for its own good.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://rekion.itch.io/chained-in-silence}
+    \arvio{
+
+I feel like <i>Chained in Silence</i> doesn't really push its tone far enough in any direction to be a super compelling read. The premise (prison break) it's working with is a classic action-adventure thing, but there isn't a lot of tension or excitement and the surreal setting doesn't feel built to support a satisfyingly mechanical heist. And despite the absurdity of it all, there isn't really that much comedy, either? I guess that leaves character drama and romance as the main focus, but not a lot of time is devoted to those compared to the prison break plotline.
+
+Art-wise, I think the style could afford to be a bit more stylized and exaggerated – the faces of all the characters are basically identical. Ultimately, I feel like the game might just be too weightless and cozycore for me to get anything from it.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://curiouscritters.itch.io/big-steps}
+    \arvio{
+
+It's good! The kaiju conceit gets spun into a tastefully deadpan romp with tight plotting and smooth setups and payoffs – the reveal of the significance of the car thief dad is laugh-out-loud good. While the romance develops pretty quickly, I think the gravitas of the stakes is felt strongly enough for it to work as a "bonding under extraordinary circumstances" kind of thing. It helps that the characters have a good amount of texturing to them despite being appropriately archetypical; I particularly like the protagonist constantly thinking about taking pictures as a fun character trait.
+
+Likening in-universe kaiju fanatics to the furry fandom is an interesting angle to take. That kind of delightful worldbuilding fluff adds a lot to the experience in general, and I like how the game uses art to bring a lot of it in unobtrusively (and the self-promotion is gracefully subdued as well).
+
+I guess I don't have that much more to say. <i>Big Steps</i> is just thoroughly enjoyable; all the pieces fit together, and the finished product is a pleasantly light read but not trivial enough to feel forgettable. It's difficult to imagine the kind of person who would not have a good time with it.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://blossomingruin.itch.io/deep-into-the-sand-unfinished-prototype}
+    \arvio{
+
+Though there isn't a lot of it to look at, the art is gorgeous! It definitely conveys the vibe of the story where the prose fails, and I like how well thought out the colors feel.
+
+But as alluded to, the writing is just really rough. There are plenty of editing problems – typos and punctuation & capitalization issues are present in nearly every text box. Many lines feel kind of clunky to read, as sentences are strung together unnaturally and the usage of pronouns is too repetitive in the beginning ("He may never know. A few times already, he has wanted to just kill himself, but he is aware that he has to live with the shame of his existence into all future lives. This is his single chance at redemption.") Also, putting in an abrupt, quite lengthy, and fully non-diegetic (?) exposition dump to communicate the worldbuilding is not the most elegant storytelling decision.
+
+Doesn't feel worth it to give the game an in-depth review at this state, but I do hope the story gets concluded and what's there gets polished to the point of feeling presentable. It's a pretty bumpy ride, but in an entirely fixable manner.
+
+    }
+}
+
+\arvottava{
+    \opengraph_preview{https://davidthezettanerd.itch.io/symbearotica}
+    \arvio{
+
+The presentation consists of less than the bare (/bear) essentials; you get no audio, one background and one sprite only, and nothing to show the timeskips visually or otherwise break up the monotony of staring at the same thing for the entire game. Luke isn't even hidden when he's not present in the scene, and the final transformation is pretty blandly realized. I do realize that the chamber play-esque premise doesn't translate easily into the most formally exciting visual novel, but if there is nothing the presentation can do to enhance the story, is this the right medium for it?
+
+Similarly, the writing feels like it struggles to fit into the expectations of the format. As a recurring issue that hurts the flow a lot, lines are often broken across multiple text boxes with seemingly no rhyme or reason – not good, since they're the VN equivalent of paragraphs (with the added restriction that you can only see one at a time) and should express complete thoughts. There are also a lot of dialogue tags, which feels awkward for the same reason.
+
+When you get past that, I think the prose has some weak points in general. Besides a fair amount of typos and other mechanical errors, it comes off as hastily edited due to frequent problems with syntax and sentence structure, often stumbling upon wordy, clunky ways to say something. For instance: "If I had to guess, the people I was around last time I was awake most have also been ones who enjoy tech." The "[when] I was awake" is sort of unnecessary to specify in context, it's unclear what "most" is referring to, and I don't get the reason for the tense shift in the last part since the events being referred to are firmly in the past.
+
+Another example: "He then turns around and sees me trying those various movements in the middle of one where I have to remind my extension to stay an arm and not an amorous limb." I'm having a hard time grasping what is happening here in terms of grammar – are some commas that could clarify things missing, or something?
+
+As far as style goes, word choices are definitely an area of improvement. There's a lot of noun language around – the game often goes for weak verbs and fills in the meaning via unwieldy nouns and phrases ("current-day politics avoidance", "transphobia got stronger and bigger, with more and more presences"). Adverbs feel a little extraneous at times, too ("I stare intently and furiously at the screen"). I guess there's no need to look further than the itch page for examples – surely there's a more poetically compelling way to say it than "a not great political situation"?
+
+I will say that the plot itself is not conceptually bad or anything, but the execution feels bumpy in a couple of ways. The pacing is burdened by how slowly the game lets the reader in on what's happening, not to mention that there are a fair amount of unresolved questions regarding how this situation came to be that the characters feel strangely reluctant to think about. Who's Luke, and where did he get this alien in a jar? Why is it on Earth in the first place? It feels like you're reading a rough outline of how the story might go down instead of what two people would actually do in this situation.
+
+Modulation of tone feels pretty shaky, too. After what is ultimately a relatively low-key story with hints of romance, the fantastic premise notwithstanding, the game suddenly takes a hard turn towards horny and then concludes with what is basically an origin story for a superhero. Both late-game shifts could use some stronger setup; in the moment, they feel baffling and difficult to connect with emotionally.
+
+In total, there are a lot of first project-isms that could be ironed out, and I think the writing doesn't quite hit the mark in style or content. Hopefully all this feels like useful feedback for either polishing the game or for future projects. (P.S. why is there only a Windows build when the game is made in Ren'py?)
+
+    }
+}
+
+\raw{</div>}
+
+\raw{<script src="/open_fvn_review.js"></script>}
+\raw{<script src="/shuffle.js"></script>}
+
