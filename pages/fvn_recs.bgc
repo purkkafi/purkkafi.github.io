@@ -409,6 +409,34 @@ Also, I appreciate how intertwined the game's plot and character drama are. It r
 What is already here is pretty good, and since the game does such a good job at laying out interesting hints about where it could go, it's very easy to be excited for more.
 }
 
+\opengraph_preview{https://brickzed.itch.io/silverstone}
+
+\arvio{
+<i>(Review based on version 0.1.0)</i>
+
+Positives first: the writing is largely polished, the art style is neat, the photo backgrounds add a lot of personality to the setting, and I like the UI. I would call <i>Silverstone</i> a solid package on the whole, even if there's much to nitpick and the opening doesn't quite sell the VN yet.
+
+First of all, as mentioned, the UI is really good. The sort-of-retro skeuomorphic vibes are fun, and the layout of the main screen is unconventional but functional. Don't really have anything else to note – I understand that the sprites will be getting more expressions, but them being static does sap a lot of energy out of the experience. As a singular bug report, the "Menu" and "Help" buttons work strangely if the settings are accessed via the title screen.
+
+Just in terms of surface-level writing errors, there are occasional problems with syntax, sentence structure, and punctuation. For example: "Gasping for air as my body vaults out of the tide, the ocean breeze entering my lungs makes my organs feel crisp and raw" – is the ocean breeze gasping? There's also an extra comma sometimes: "all a stupid, goddamn dream", "an itch in the back of my brain, that..." It's noticeable, but nothing too serious.
+
+More generally, I think my main advice would be: tighten, tighten, tighten, both in the big picture and on sentence level. Some character beats, like the Kelsey/Jake feud and Zeke not remembering stuff, are reiterated too many times. There are individual lines that feel too wordy: "She points down with her eyes when I look at her, drawing my attention to what both of them were beaming at." (I think just "She points down with her eyes" would convey the exact same amount of information.)
+
+The game also just has a tendency to overuse narration. Often, the subtext of a character interaction or what Zeke is currently feeling is spelled out even if the implication is already clear. When the "meet the cast" part of the story is this long – the material is not uncompelling, but you do feel the word count – I think it's fine to trust the reader and let them get an impression of who everyone is over time. Not every moment or piece of dialogue needs to be emphasized, even if that risks someone not getting the point.
+
+Comparisons to a certain other VN are probably inevitable, given both works are horror games revolving around a group of friends reuniting in a run-down town amidst spooky happenings. <i>Silverstone</i> is not derivative enough for that to really bother, but I think contrasting the two would be helpful in illustrating a couple of things I thought were lacking here. While pre-route split is not my favorite part of <i>Echo</i>, I think it does get a couple of crucial things right, allowing it to smoothen out the slow opening segment.
+
+Namely: I think the structure feels way more propulsive over there. Chase's project provides the game both a sense of direction and a good excuse to deliver some mood-setting exposition in the early stages. In contrast, <i>Silverstone</i> slows down to a halt when the group arrives at the titular town, since the characters don't really have an overarching goal beyond hanging out and visiting a couple of places. Even worse, the chapter structure is really weak – both the prologue and the first chapter fail to end on a truly interesting point or a stinger that would make you want to continue reading. If you removed the title cards, I would be willing to believe that we're still in the first chunk of the story.
+
+I also think that being more economical with how the supernatural themes and mechanics are revealed ultimately works in <i>Echo</i>'s favor. Its brief but evocative dream sequences are enough to set up a couple of big things and keep you wondering while not taking too much attention away from the interpersonal dynamics of the cast. Sometimes less is more – <i>Silverstone</i> tells you a lot, but its descriptions feel self-aware and telegraphed in a way that distanced me from the horror. Is it necessary to call the nightmare world Zeke finds himself in both "liminal" and "non-Euclidean", or to lay out so much about the nature of the antagonist?
+
+I would maybe switch it around and divulge a bit more plot stuff and add a couple of extra hints about Zeke's backstory while keeping the Stranger fully mysterious. I don't think knowing that they're some kind of immortal being adds anything at this point; if they're an intriguing presence in the narrative, it's because of what we see them do. The game feels kind of too SCP-adjacent in a sense, too eager to clarify and contextualize and catalogue.
+
+All in all, releasing this much story content at once was definitely the right move, because the first 25 000 words feel kind of meandering and lacking in payoffs. What we get is more explicit than needed in some places and too vague in others. There is ultimately no big hook yet, beyond promises of lore and backstory and some kind of series of events happening in the future. It's not just quite specific enough to really arouse interest – the evacuation of the town is a fantastic mystery, but we don't learn much about it yet.
+
+The comparison to <i>Echo</i> hurts not because <i>Silverstone</i> feels like a ripoff but because it could afford to be as tight with its writing and as precise with its setups. While I'm interested in reading more, I do hope the game will be a more compelling experience after all the big introductory stuff is over and the plot kicks off for real.
+}
+
 \opengraph_preview{https://ryuovn.itch.io/soulcreek}
 
 \arvio{
@@ -716,6 +744,24 @@ And while the viewpoint character feels like a fairly transparent vehicle for se
 I guess the other half of this is that the central character conflict, though not troubled in its execution, is sort of hopelessly archetypical. The stuck-up prince improving his pretentious ways through his unlikely friendship (or more?) with a commoner is a tale about as old as written literature, and so far, the game doesn't do much to breathe new life into the conceit or frame it in a unique manner. While reading, I found myself waiting for the moment when our central duo takes shape as truly distinct characters – there is lore about Ran's powers and background, but I'm not sure how much it does to enrich and define his role as someone in these particular fish-out-of-water circumstances. A dearth of specificity, of grounding, of compelling little details that immerse you in the text, haunts the VN.
 
 Being formulaic is not a sin, and in all fairness, it's entirely possible that <i>Sanctuary</i> just hasn't shown its hand yet. Also, with prose and production values this solid, I imagine it will have no trouble finding an audience invested in precisely what it has to offer. Just personally, though, I can't really say that it connected with me at this point. I guess my primary advice would be: think beyond mechanical plot progression, and don't be afraid to linger in the details and the ambience.
+}
+
+\opengraph_preview{https://sparkheartsdev.itch.io/spark-hearts}
+
+\arvio{
+<i>(Review based on build 1.0.1 Alpha Public)</i>
+
+So, <i>Spark Hearts</i>. Let's just start with a pretty easy observation: the production values are difficult to appreciate when the project is even more of an early alpha release than the average FVN. A lot of visual assets are unfinished, the story doesn't go anywhere, and the engine is both buggy (some saves I made got stuck on load) and missing crucial features like the back button. The audio is pretty good all around, but the rest is more impressive in terms of the effort you can see going into the project than what it actually is.
+
+Furthermore, while the results are difficult to judge with the environments in such a crude state, I'm not sure if the VN makes a convincing argument for its 2D+3D style. The camera spinning around is a cool effect, but the sprites being so easy to clock as two-dimensional cutouts hurts it a lot. I think stronger art direction and polish (lighting the scene properly, using shader tricks to make it feel less out of place visually, etc) would be needed to really bring the aesthetic together. There's also something wrong with the sprites in general; they look very blurry, which you can see by looking at the itch page's screenshots.
+
+Narratively, the game opens with a heavy exposition dump. We hear a lot of clunky, incredibly abstract platitudes about "good and virtue" (with lines like "one must create a world of good and virtue not just for your own world, but also for the world of others"). The world was full of virtue, which was then lost and regained and lost again (?), but what does any of this really mean for the people living in it? The planet apparently being at a risk of falling apart metaphysically unless everyone gets their virtue on feels both too literal and too vague as a means of turning the central philosophical topic into tangible stakes for the narrative. Surely there is more interesting stuff to say about what it means to live a good life?
+
+A similar lack of specificity and grounded details haunts the next longer scene, where the protagonist meets the rest of the cast in what is ostensibly the most prestigious educational program in the entire world but what seems to involve mostly hanging out and saying truisms about virtue. At this point, how nebulously the conflict continues to be defined starts to feel acutely frustrating – these people are supposed to fix societal problems, but the game just doesn't bother explaining what they are beyond the protagonist wanting to "help people".
+
+Also, the infodumping is as graceless as it was in the opening, with every character loving to say basic facts about the setting out loud. I feel like these top-tier academics would already know most of this stuff, particularly as it pertains to the very hyper-elitist program they were chosen to attend.
+
+Between all that, the exaggerated characters, and the self-conscious references to visual novels and anime, the writing just comes off as kind of juvenile. There are some nice comedic moments, but despite the heavy-handed tone in which this whole virtue thing is discussed, <i>Spark Hearts</i> doesn't really manage to turn its big themes into anything resembling coherent points about the world we live in or compelling conflicts for the fictional characters to care about. Given that what the initial release contains is only "Chapter 1, Part 1", there's plenty of time for course correction, but I think the story starts on a pretty sour note regardless.
 }
 
 \opengraph_preview{https://eymon.itch.io/the-blue-cloth}
