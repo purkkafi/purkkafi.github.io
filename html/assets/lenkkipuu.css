@@ -92,20 +92,16 @@ a + a.item {
 }
 
 .smgroup {
-    display: inline-block;
+    display: inline-flex;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-}
-
-#smlinks a {
-    text-decoration: none;
 }
 
 #smlinks img {
     width: 2.5em;
     opacity: 90%;
-    margin-right: 0.5em;
-    margin-left: 0.5em;
+    margin-right: 0.75em;
+    margin-left: 0.75em;
 }
 
 #smlinks img:hover {

@@ -313,9 +313,19 @@ a.hiddenLink {
     box-shadow: 0.25em 0.25em 0.5em black;
 }
 
+#socials {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+}
+
 #socials img {
-    width: 2.5em;
+    width: 2em;
     opacity: 0.85;
+}
+
+#socials img:hover{
+    opacity: 1;
 }
 
 .opengraphLink {
