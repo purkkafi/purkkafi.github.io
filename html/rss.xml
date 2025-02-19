@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Fatal Force</title>
+        <description>the real fatal force was inside me all along...</description>
+        <link>https://purkka.fi/fvn_recs.html#fatal-force</link>
+        <guid>https://purkka.fi/fvn_recs.html#fatal-force</guid>
+        <pubDate>Wed, 19 Feb 2025 16:28:12 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>Review: The Summer Book</title>
         <description>The Summer Book, 2024 - ★★★</description>
         <link>https://letterboxd.com/purkka/film/the-summer-book/</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/the-power-of-kangwon-province/</link>
         <guid>https://letterboxd.com/purkka/film/the-power-of-kangwon-province/</guid>
         <pubDate>Wed, 1 Jan 2025 13:33:09 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Pass Thru</title>
-        <description>Pass Thru, 2016 - ★</description>
-        <link>https://letterboxd.com/purkka/film/pass-thru/</link>
-        <guid>https://letterboxd.com/purkka/film/pass-thru/</guid>
-        <pubDate>Tue, 31 Dec 2024 12:00:45 +1300</pubDate>
     </item>
     
     </channel>
