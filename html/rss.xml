@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Lookouts</title>
+        <description>were we the real lookouts all along?</description>
+        <link>https://purkka.fi/fvn_recs.html#lookouts</link>
+        <guid>https://purkka.fi/fvn_recs.html#lookouts</guid>
+        <pubDate>Mon, 24 Feb 2025 00:43:00 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Fatal Force</title>
         <description>the real fatal force was inside me all along...</description>
         <link>https://purkka.fi/fvn_recs.html#fatal-force</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/virgin-stripped-bare-by-her-bachelors/</link>
         <guid>https://letterboxd.com/purkka/film/virgin-stripped-bare-by-her-bachelors/</guid>
         <pubDate>Wed, 8 Jan 2025 12:21:58 +1300</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: The Power of Kangwon Province</title>
-        <description>The Power of Kangwon Province, 1998 - ★★★½</description>
-        <link>https://letterboxd.com/purkka/film/the-power-of-kangwon-province/</link>
-        <guid>https://letterboxd.com/purkka/film/the-power-of-kangwon-province/</guid>
-        <pubDate>Wed, 1 Jan 2025 13:33:09 +1300</pubDate>
     </item>
     
     </channel>
