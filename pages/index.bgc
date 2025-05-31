@@ -6,6 +6,14 @@
 </a>
 }}
 
+\define{\frontBoxleft}{3}{\raw{
+<a class="boxContainer" href=\1>
+    <div class="box" style="text-align: left; background-image: url(\3);">
+        <h3>\2</h3>
+    </div>
+</a>
+}}
+
 \define{\frontBoxSmall}{2}{\raw{
 <a class="boxContainerSmall" href=\1>
     <h3>\2</h3>
@@ -15,9 +23,9 @@
 \div{frontBoxes}{
 \frontBoxSmall{/kuvasto.html}{Suomeksi 🇫🇮}
 \frontBoxSmall{/catalogue.html}{In English 🇬🇧}
-\frontBox{/esseet/boyofsatanus.html}{Hail Savior Opaque}{/assets/boyofsatanus/thumb.webp}
+\frontBoxleft{https://purkka.itch.io/the-wolf-in-the-wardrobe}{The Wolf in the Wardrobe}{/assets/witw.webp}
 \frontBox{/rfa/drake_longing.html}{Reading Furry Art: Longing (Drake, 2023)}{/assets/rfa/longing_full.webp}
-\frontBox{/esseet/hiff2023.html}{HIFF2023: A purkka.fi Field Report}{/assets/hiff2023/ohno.webp}
+\frontBox{/esseet/boyofsatanus.html}{Hail Savior Opaque}{/assets/boyofsatanus/thumb.webp}
 \frontBox{/esseet/swnames.html}{how to generate star wars names (not clickbait)}{/assets/swnames/vitamin1.png}
 \frontBox{/esseet/echo_route_choice.html}{Close Reading Echo's Route Choice}{/assets/crerc_choice.png}
 \frontBoxSmall{/tietoja.html}{Tietoja 🇫🇮}
