@@ -344,7 +344,8 @@ a.hiddenLink {
     width: 11em;
     padding: 0.5em;
     position: relative;
-    object-fit: scale-down;
+    object-fit: cover;
+    aspect-ratio: 630 / 500;
 }
 
 .opengraphContent {
