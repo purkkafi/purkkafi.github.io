@@ -632,6 +632,44 @@ There are a lot of places where it's hard to say if important plot information i
 
 }}
 
+\arvottava{
+    \opengraph_preview{https://lucentstudios.itch.io/respite-in-the-core}
+    \arvio{
+
+Not a bad read! Though there's apparently more to come, I feel like the story works pretty well as a vignette even now. Many worldbuilding details will presumably be fleshed out and paid off in what is set to follow, but other plot points – like the protagonist's sick mother, or his academic exploits – do come off as interesting context for the characters and the drama between them. It's honest slice-of-life but well enough paced and structured to avoid the worst pitfalls of the genre.
+
+On the other hand, I feel like the prose could use some further polishing; many lines feel kind of clunky and labored. At the risk of getting too nitpicky, let me pull out an example of what I'm talking about: "Finally passing through the gate, I try and estimate the amount of time I have left before my first lectures at the academy begin." First of all, I think "try and estimate" sounds less natural than the more obvious choice "try to estimate", and "the amount of time" is sort of a heavy phrase – "how much time" or some other rewording would probably work better.
+
+Also, for a narrative that feels like it wants to evoke a strong sense of setting, I think it doesn't really push the descriptions far enough. Though the writing pulls off the mechanical delivery of information, the sensory experience of what it feels like to live in this world is not painted sharply enough to really elevate the worldbuilding. The tangible physicality of the character interactions is good, however; it feels like the game pays attention to all the correct things there.
+
+But even if the presentation is not without its issues – the sprites jumping around as a result of some expressions being misaligned, for instance – I would call the art the VN's strongest aspect overall. There's a lot of it (the opening sequence is so charming!), and it's erotic in a sort of classically romantic way that fits the relatively restrained story. Though there is some rougher and less refined stuff in there, it feels like nailing expressions and anatomy was a priority, and it works out fantastically. It's just pleasant to look at all around.
+
+}}
+
+\arvottava{
+    \opengraph_preview{https://mellybunny.itch.io/immolation}
+    \arvio{
+
+With the jam submission seemingly only being a very, very short teaser, not much can be said about the story. I guess it's true that it doesn't start with a strong hook; not much about how the apocalyptic scenario is described or how it plays out feels particularly unique or interesting, and with how little context we get so far, it's a struggle to connect with the characters. Actually, the whole Day 1 segment comes off as kind of extraneous – I don't think the game gets a lot from going through the motions of the protagonist preparing for the journey instead of just starting with them on the road.
+
+There are plenty of nice visual touches, and the opening sequence manages to strike a mood, but it's all a bit too much sometimes. The formatting is especially aggressive in a way that hurts more than it helps. It's not really necessary for a word to be simultaneously bold, italic, and in quotes, and I didn't get the significance of a lot of the narration being centered.
+
+For all the bells and whistles, I think the VN would benefit from being more confident as a piece of writing and letting its prose and dialogue drive the story. It just feels too often that how text is presented is more of a concern than what it says.
+
+}}
+
+\arvottava{
+    \opengraph_preview{https://jmjerbear.itch.io/falling-for-al}
+    \arvio{
+
+A pretty compelling comedic entry. While some of the dating culture jokes in the beginning are sort of hit-or-miss, the protagonist's obliviousness to his AI boyfriend is a good comedic core that only gets better the harder the story leans on it. The humor is only partially genAI satire, the rest being classic "robot misunderstands human language" mishaps, but there are gags that land in both categories, and I do think it works to make the game feel like it's not trying too hard to be topical.
+
+Structure & pacing are good all around – the opening in particular is a really fun and efficient way to introduce the conflict – apart from the climax, which feels like it runs out of steam in a pretty big way. Though there are a lot of delightful ideas, instead of coming to some sort of ultimate escalation of absurdity or final punchline, the action just ends very abruptly. The part that follows is also maybe a bit heavy with explanations for why all this happened, given a lot of the information isn't really super intriguing. It feels like the game gets too caught up in clearing the stage for the final beat and tying up loose ends to deliver an ending that feels satisfying instead of just the logical next step, and the outline could probably have used some iterating.
+
+Visually, there's enough of a coherent style despite the sprites from all the different jam artists and plenty of good ideas (the "light in the dark" scene is pretty striking) with one pretty noticeable issue: the aggressive image compression artifacts. The game appears to be using lossy .webp files, which is really an unnecessary optimization in a project of this kind, a small one-off VN the reader will likely play once and then delete from their computer. I'd rather have crisp image quality than a slightly smaller size on disk.
+
+}}
+
 \raw{</div>}
 
 \raw{<script src="/open_fvn_review.js"></script>}
