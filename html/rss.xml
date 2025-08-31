@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>Review: The Maltese Falcon</title>
+        <description>The Maltese Falcon, 1941 - ★★★</description>
+        <link>https://letterboxd.com/purkka/film/the-maltese-falcon-1941/</link>
+        <guid>https://letterboxd.com/purkka/film/the-maltese-falcon-1941/</guid>
+        <pubDate>Mon, 1 Sep 2025 02:37:13 +1200</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Ever Our Hearts Aglow...</title>
         <description>the true aglow were our hearts ever all along</description>
         <link>https://purkka.fi/fvn_recs.html#ever-our-hearts-aglow</link>
@@ -156,14 +164,6 @@
         <link>https://letterboxd.com/purkka/film/big-game-2014/</link>
         <guid>https://letterboxd.com/purkka/film/big-game-2014/</guid>
         <pubDate>Wed, 23 Jul 2025 09:40:14 +1200</pubDate>
-    </item>
-    
-    <item>
-        <title>Review: Barbie Fairytopia: Magic of the Rainbow</title>
-        <description>Barbie Fairytopia: Magic of the Rainbow, 2007 - ★★★</description>
-        <link>https://letterboxd.com/purkka/film/barbie-fairytopia-magic-of-the-rainbow/</link>
-        <guid>https://letterboxd.com/purkka/film/barbie-fairytopia-magic-of-the-rainbow/</guid>
-        <pubDate>Tue, 22 Jul 2025 08:31:12 +1200</pubDate>
     </item>
     
     </channel>

@@ -2,9 +2,11 @@
 
 A list of everything in English. Also see \linkki{/kuvasto.html}{kuvasto} (🇫🇮).
 
-\väliotsikko{Games}
+\väliotsikko{Visual novels}
 
 \kuvastokohta{https://purkka.itch.io/the-other-island}{The Other Island}{Visual novel demo about a fox stuck on an island.}{2023}
+\kuvastokohta{https://purkka.itch.io/my-municipality}{My Municipality – Oi kuntani mun}{Game for MAY WOLF 2024.}{2024}
+\kuvastokohta{https://purkka.itch.io/the-wolf-in-the-wardrobe}{The Wolf in the Wardrobe}{Game for MAY WOLF 2025.}{2025}
 
 \väliotsikko{Essays}
 
@@ -31,10 +33,6 @@ A list of everything in English. Also see \linkki{/kuvasto.html}{kuvasto} (🇫�
 \kuvastokohta{https://github.com/purkkafi/pokegen}{pokegen}{Decompilation-based Pokémon Fire Red randomizer that replaces all the Pokémon in the game with new ones (no sprites, everything else that matters is in). WIP.}{2021}
 
 \kuvastokohta{https://github.com/purkkafi/iterated_secret_santa}{Iterated Secret Santa}{A Python script for small groups of people who love giving each other gifts.}{2021}
-
-\väliotsikko{Gaming}
-
-\kuvastokohta{/lahna/intro/}{Pokémon Lahna: Final Team}{My team before I beat the Elite 4 in a pokegen playthrough.}{2022}
 
 \väliotsikko{Other}
 
