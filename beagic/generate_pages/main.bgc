@@ -69,6 +69,10 @@ Kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
 
 \define{\kuva_pieni}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="smallImage" alt="\2"></div>}}
 
+Keskikokoinen kuva. Ensimmäinen argumentti url-osa, toinen alt-teksti.
+
+\define{\kuva_keski}{2}{\raw{<div class="imageContainer"><img src="/assets/\1" class="mediumImage" alt="\2"></div>}}
+
 Suuri kuva, yli palstan levyinen. Ensimmäinen argumentti url-osa, toinen alt-teksti.
 
 \define{\kuva_suuri}{2}{\raw{<div class="largeImageContainer"><img src="/assets/\1" class="normalImage" alt="\2"></div>}}

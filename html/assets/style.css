@@ -143,6 +143,10 @@ a:active { color: var(--link-color-active); }
     width: 25%;
 }
 
+.mediumImage {
+    width: 50%;
+}
+
 .normalImage {
     width: 100%;
 }
