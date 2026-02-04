@@ -5,7 +5,7 @@ body {
     --accent-color-light: #9A1325;
     --text-color: #ededed;
     background-color: #4e2756;
-    background-image: url(/assets/lenkkipuu/bg.png);
+    background-image: url(/assets/lenkkipuu/bg.webp);
     background-size: cover;
     background-position: center;
     font-family: 'Merriweather Sans', sans-serif;
@@ -106,6 +106,29 @@ a + a.item {
 
 #smlinks img:hover {
     opacity: 100%;
+}
+
+.vngrid {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+}
+
+.vngrid a {
+    flex: 1;
+    min-width: 40%;
+    line-height: 0;
+}
+
+.vngrid a img {
+    max-width: 100%;
+    border-radius: 1em;
+    box-shadow: 0 0 5px black;
+}
+
+.vngrid a img:hover {
+    filter: saturate(110%) brightness(120%);
 }
 
 @media screen and (min-width: 45em) {
