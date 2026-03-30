@@ -23,12 +23,12 @@ def stringify_entry(entry):
     """
 
 base = feedparser.parse('html/rss.xml')
-lxd = feedparser.parse('https://letterboxd.com/purkka/rss', agent='purkkafi-rss-bot')
+#lxd = feedparser.parse('https://letterboxd.com/purkka/rss', agent='purkkafi-rss-bot')
 
 entries = []
 
 entries.extend(base['entries'])
-entries.extend(lxd['entries'])
+#entries.extend(lxd['entries'])
 
 entries.sort(key=lambda e: e['published_parsed'], reverse=True)
 entries = entries[:20]
