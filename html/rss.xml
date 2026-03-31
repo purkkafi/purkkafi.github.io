@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: String Zero</title>
+        <description>the real string zero? it was the repetitive quip i keep using in RSS descriptions no one is reading all along</description>
+        <link>https://purkka.fi/fvn_recs.html#string-zero</link>
+        <guid>https://purkka.fi/fvn_recs.html#string-zero</guid>
+        <pubDate>Tue, 31 Mar 2026 13:20:41 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>FVN Review: Campo Largo</title>
         <description>the real campo largo was all the investigators we baptized along the way</description>
         <link>https://purkka.fi/fvn_recs.html#campo-largo</link>
@@ -156,14 +164,6 @@
         <link>https://purkka.fi/fvn_recs.html#a-handful-of-dust</link>
         <guid>https://purkka.fi/fvn_recs.html#a-handful-of-dust</guid>
         <pubDate>Mon, 26 Aug 2024 17:05:32 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: What A Day That Was!</title>
-        <description>they weren't lying, it was a day. that was</description>
-        <link>https://purkka.fi/fvn_recs.html#what-a-day-that-was</link>
-        <guid>https://purkka.fi/fvn_recs.html#what-a-day-that-was</guid>
-        <pubDate>Mon, 29 Jul 2024 01:50:25 +0000</pubDate>
     </item>
     
     </channel>
