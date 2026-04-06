@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    line-height: 1.5;
+    --accent-color: #730D1C;
+    --accent-color-light: #9A1325;
+    --text-color: #ededed;
+    background-color: #4e2756;
+    background-image: url(/assets/lenkkipuu/bg.webp);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+a:link { color: var(--text-color); }
+a:visited { color: var(--text-color); }
+a:active { color: var(--text-color); }
+
+
+#content {
+    margin: auto;
+    max-width: 50ch;
+    padding: 0 1em 0 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#tree {
+    margin: 1em 0 1em 0;
+}
+
+#tree a {
+    text-decoration: none;
+}
+
+.item {
+    text-align: center;
+    background-color: var(--accent-color);
+    color: var(--text-color);
+    margin: 1em 0 1em 0;
+    padding: 0.75em 0.5em 0.75em 0.5em;
+    border-radius: 1em;
+    box-shadow: 0 0 5px black;
+}
+
+.item:hover {
+    background-color: var(--accent-color-light);
+}
+
+a + a.item {
+    margin-top: 1em;
+}
+
+.separator {
+    text-align: center;
+    color: var(--text-color);
+    font-size: 80%;
+    font-variant: small-caps;
+    margin: 1.25em 0 1.25em 0;
+}
+
+#bio {
+    margin: 1em 0 1em 0;
+    display: flex;
+}
+
+#biopic {
+    flex: 1 0 3em;
+    align-self: center;
+}
+
+#biopic img {
+    width: 100%;
+    border-radius: 100%;
+    box-shadow: 0 0 5px black;
+}
+
+#description {
+    flex: 3;
+    align-self: center;
+    margin: 1em;
+    color: var(--text-color);
+}
+
+#description #name {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+#smlinks {
+    text-align: center;
+    opacity: 0.85;
+}
+
+.smgroup {
+    display: inline-flex;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#smlinks img {
+    width: 2.5em;
+    opacity: 90%;
+    margin-right: 0.75em;
+    margin-left: 0.75em;
+}
+
+#smlinks img:hover {
+    opacity: 100%;
+}
+
+.vngrid {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+}
+
+.vngrid a {
+    flex: 1;
+    min-width: 40%;
+    line-height: 0;
+}
+
+.vngrid a img {
+    max-width: 100%;
+    border-radius: 1em;
+    box-shadow: 0 0 5px black;
+}
+
+.vngrid a img:hover {
+    filter: saturate(110%) brightness(120%);
+}
+
+@media screen and (min-width: 45em) {
+    body {
+        font-size: 1.15em;
+    }
+}
