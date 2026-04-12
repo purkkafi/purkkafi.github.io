@@ -7,6 +7,14 @@
         <atom:link href="https://purkka.fi/rss.xml" rel="self" type="application/rss+xml" />
         
     <item>
+        <title>FVN Review: Silent Star Symphony</title>
+        <description>maybe the real silent star symphony was... i can't keep doing this</description>
+        <link>https://purkka.fi/fvn_recs.html#silent-star-symphony</link>
+        <guid>https://purkka.fi/fvn_recs.html#silent-star-symphony</guid>
+        <pubDate>Sun, 12 Apr 2026 13:08:01 +0000</pubDate>
+    </item>
+    
+    <item>
         <title>purkka.fi Official List of The Best Films of the 2020s (So Far)</title>
         <description>maybe the real best film of the decade is you, the girl reading this</description>
         <link>https://purkka.fi/esseet/decadetop10sofar/</link>
@@ -156,14 +164,6 @@
         <link>https://purkka.fi/esseet/boyofsatanus.html</link>
         <guid>https://purkka.fi/esseet/boyofsatanus.html</guid>
         <pubDate>Fri, 25 Oct 2024 19:45:52 +0000</pubDate>
-    </item>
-    
-    <item>
-        <title>FVN Review: Devil&#x27;s Gambit</title>
-        <description>what is this, some kind of devil's gambit?</description>
-        <link>https://purkka.fi/fvn_recs.html#devils-gambit</link>
-        <guid>https://purkka.fi/fvn_recs.html#devils-gambit</guid>
-        <pubDate>Wed, 09 Oct 2024 16:02:36 +0000</pubDate>
     </item>
     
     </channel>
