@@ -4,6 +4,7 @@ import requests
 from pathlib import Path
 import os.path
 import re
+import time
 
 NON_ALPHANUMERIC = re.compile('[^a-zA-Z0-9\\s]')
 WHITESPACES = re.compile('\\s')
@@ -70,6 +71,7 @@ for url in urls:
     path.parent.mkdir(parents=True, exist_ok=True)
     
     with path.open('w') as f:
+        time.sleep(1)
         meta = read_metadata(url)
         
         f.write(f"""
