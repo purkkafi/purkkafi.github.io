@@ -1,0 +1,23 @@
+:root {
+    --left-side-bg: linear-gradient(to right, transparent, 70%, var(--bg-color)),
+                    url('ye_bg_left.png');
+    
+    --right-side-bg: linear-gradient(to left, transparent, 70%, var(--bg-color)),
+                     url('ye_bg_right.png');
+}
+
+#leftSide, #rightSide {
+    background-repeat: repeat-y;
+    background-size: 100% auto;
+    background-attachment: local;
+    position: relative;
+}
+
+.prose p {
+    text-indent: 1.5em;
+    margin: 0em;
+}
+
+.prose p:first-child, .prose h1+p, .prose h2+p, .prose h3+p, .prose h4+p {
+    text-indent: 0;
+}

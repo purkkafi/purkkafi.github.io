@@ -1,0 +1,209 @@
+:root {
+    --teal: #4e938f;
+    --grey: #c9c6bd;
+    --dark-grey: #9b968f;
+    --light-grey: #dad8d0;
+    --black: #242220;
+    --white: #eae9e3;
+    --page-yellow: #FFCC00;
+    --page-red: #FF0033;
+}
+
+body {
+    font-family: 'Monospace';
+    background-color: var(--teal);
+    
+    --link-color: #286AA4;
+    --link-color-visited: #1E507B;
+    --link-color-active: #BC310B;
+}
+
+#rightSide {
+    z-index: -1;
+}
+
+#middle header, .browserContent, .footerSection, .fox {
+    background: var(--grey);
+    border: 1px solid var(--black);
+    box-shadow: 2px 2px var(--white) inset, -2px -2px var(--dark-grey) inset;
+    padding: 0.2em 0.4em 0.2em 0.4em;
+    color: var(--black);
+}
+
+header a h1 {
+    letter-spacing: 0.5em;
+    font-size: 1.25em;
+}
+
+.iconButton {
+    background: var(--grey);
+    border: 1px solid var(--black);
+    box-shadow: 2px 2px var(--white) inset, -2px -2px var(--dark-grey) inset;
+    color: var(--black);
+    min-width: 1.3em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconUnusable {
+    color: var(--dark-grey);
+}
+
+.browserContainer {
+    width: 100vw;
+    margin-left: calc((100vw - 100%) / -2);
+    display: flex;
+    justify-content: center;
+}
+
+.browserContent {
+    max-width: 100ch;
+}
+
+.browserToolbar p {
+    margin: 0;
+}
+
+.browserToolbarRow {
+    display: flex;
+    font-size: 80%;
+    user-select: none;
+}
+
+.browserTitle {
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+    user-select: none;
+}
+
+.browserAddress {
+    background-color: var(--light-grey);
+    color: var(--dark-grey);
+    flex: 1;
+}
+
+.browserPage, .browserAddress {
+    box-shadow: 2px 2px var(--dark-grey) inset, -2px -2px var(--white) inset;
+    padding: 0.25em;
+}
+
+.browserPage {
+    background-image: url('tiikerit/spacebg.gif');
+    font-family: clear;
+    color: var(--page-yellow);
+    
+    --link-color: #6BA7DB;
+    --link-color-visited: #3d5fc0;
+    --link-color-active: #ed3d0e;
+}
+
+.browserPage img {
+    max-width: 100%;
+}
+
+.fakeLink {
+    max-width: 20ch;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.fakeLinkBlue {
+    background-color: #127bd5;
+    color: var(--white);
+}
+
+.fakeLinkGreen {
+    background-color: #bdf700;
+    color: var(--black);
+}
+
+.fakeTable {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.browserPage .fakeTableCell {
+    border: 3px var(--page-yellow) double;
+}
+
+.fakeTableCell li {
+    padding: 0.5em 0 0.5em 0;
+}
+
+.memberImage, .memberLore {
+    min-width: 25ch;
+    flex: 1;
+}
+
+.memberImage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.memberLore {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.memberImage img {
+    margin-top: 1em;
+    max-height: 40ch;
+}
+
+.fakeLinkSpan {
+    font-weight: bold;
+    text-decoration: underline;
+    color: var(--page-red);
+}
+
+.tooltip {
+    border-bottom: dotted 2px var(--page-yellow);
+    user-select: none;
+}
+
+#middle .hr {
+    display: none;
+}
+
+#indexlink h1::before {
+    content: '◂';
+}
+
+#indexlink h1::after {
+    content: '▸';
+}
+
+.footerSection {
+    margin: 0.1em;
+}
+
+#socials img {
+    filter: invert(100%);
+    width: 2.2em;
+}
+
+[data-title] {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+}
+
+[data-title]:active::after, [data-title]:hover::after {
+    content: attr(data-title);
+    position: absolute;
+    bottom: 200%;
+    color: var(--black);
+    background-color: var(--light-grey);
+    border: 1px solid var(--black);
+    box-shadow: 2px 2px var(--white) inset, -2px -2px var(--dark-grey) inset;
+    /*width: max-content;*/
+    padding: 0.5em;
+    z-index: 1;
+    text-align: center;
+  }
