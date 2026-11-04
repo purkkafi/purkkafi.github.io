@@ -1,0 +1,15 @@
+.categoryHeader {
+    text-align: center;
+    font-size: 1.75em;
+    font-weight: bold;
+    margin: 1.5em 0 1.5em 0;
+    background-color: var(--bg-accent2-color);
+}
+
+.review:has(+ .review) {
+    margin: 1em 0 1em 0;
+}
+
+.review {
+    margin: 1em 0 3em 0;
+}

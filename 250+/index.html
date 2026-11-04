@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>250+</title>
+        
+        <link rel="icon" href="/assets/favicon.png">
+        
+        <script>
+           
+        </script>
+        
+        <style>
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+            
+            #input {
+                text-align: center;
+                margin: 1em;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
+            
+            #content {
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+            }
+            
+            #padding {
+                flex: none;
+                height: 5em;
+            }
+            
+            #names {
+                flex: auto;
+                display: flex;
+                flex-wrap: wrap;
+            }
+            
+            .name {
+                flex-grow: 0;
+                margin: 0.2em;
+                display: inline-flex;
+                align-items: center;
+                
+                padding-left: 1.7em;
+                background-image: url("/assets/250+/usericon.webp");
+                background-repeat: no-repeat;
+                background-size: 1.5em;
+                height: 1.5em;
+                
+                visibility: hidden;
+            }
+            
+            .revealed {
+                visibility: visible;
+            }
+            
+        </style>
+        
+        <script>
+            function normalizeName(nm) {
+                return nm.replaceAll(/[^\p{L}0-9]/gu, "").toUpperCase();
+            }
+            
+            function countRevealed(){
+                var list = document.querySelectorAll('.name');
+                var count = list.length;
+                
+                var revealed = list.values().filter(function(nm) {
+                    return nm.classList.contains('revealed');
+                }).toArray();
+                
+                // set text
+                document.querySelector('#count').innerText = revealed.length + '/' + count;
+            }
+            
+            function writeStorage() {
+                var list = document.querySelectorAll('.name');
+                
+                var revealed = list.values().filter(function(nm) {
+                    return nm.classList.contains('revealed');
+                }).toArray();
+                
+                var storage = [];
+                for(nm of revealed){
+                    storage.push(nm.innerHTML);
+                }
+                
+                console.log('write: ' + storage);
+                localStorage.setItem("revealed", JSON.stringify(storage))
+            }
+            
+            function readStorage() {
+                var storage = JSON.parse(localStorage.getItem("revealed"));
+                console.log('read: ' + storage);
+                if(storage != null) {
+                    for(nm of storage) {
+                        reveal(nm);
+                    }
+                }
+            }
+            
+            function reveal(name) {
+                name = normalizeName(name);
+                console.log('reveal: ' + name);
+                var list = document.querySelectorAll('.name');
+                
+                list.forEach(function(nm) {
+                    if(normalizeName(nm.innerHTML) == name && !(nm.classList.contains('revealed'))){
+                        nm.classList.add('revealed');
+                    }
+                })
+            }
+            
+            function inputPressed(input) {
+                if(event.key === 'Enter') {
+                    reveal(input.value);
+                    input.value = '';
+                    countRevealed();
+                    writeStorage();
+                }
+            }
+            
+            window.addEventListener('load', (ev) => {
+                readStorage();
+                countRevealed();
+            })
+        </script>
+        
+    <body>
+        <div id="content">
+            <div id="names">
+                <span class="name">-hydraxon-</span>
+                <span class="name">42-kraata</span>
+                <span class="name">&gt;&lt;Vezon Nuva&gt;&lt;</span>
+                <span class="name">B-i-o-n-i-c-l-e</span>
+                <span class="name">BCii</span>
+                <span class="name">BD</span>
+                <span class="name">Barraki Ehlek</span>
+                <span class="name">Bio-Nui</span>
+                <span class="name">Bio-man</span>
+                <span class="name">Bio-master</span>
+                <span class="name">Bionicle Fan97</span>
+                <span class="name">Biotipu</span>
+                <span class="name">Blade</span>
+                <span class="name">BladeVezon</span>
+                <span class="name">Blezer</span>
+                <span class="name">Bloszar</span>
+                <span class="name">BodyGuard</span>
+                <span class="name">Bohrok</span>
+                <span class="name">Botar</span>
+                <span class="name">Brataka</span>
+                <span class="name">Brk joe</span>
+                <span class="name">Chirox</span>
+                <span class="name">Cordak Hunter</span>
+                <span class="name">Cyber</span>
+                <span class="name">DJ Peelo</span>
+                <span class="name">Darack</span>
+                <span class="name">DarckEyes</span>
+                <span class="name">DarkNorik</span>
+                <span class="name">DarkTahu</span>
+                <span class="name">Darth Ceast</span>
+                <span class="name">Daxbros</span>
+                <span class="name">Derra.</span>
+                <span class="name">Doctor Jotor</span>
+                <span class="name">Domek the light one</span>
+                <span class="name">Donny</span>
+                <span class="name">Dox</span>
+                <span class="name">Eliminator</span>
+                <span class="name">Elite Lehvak</span>
+                <span class="name">FireKualus</span>
+                <span class="name">Fisutyttö</span>
+                <span class="name">Fox-Toa</span>
+                <span class="name">Freynord</span>
+                <span class="name">Gahlok Va</span>
+                <span class="name">General_Killjoy</span>
+                <span class="name">Gereti</span>
+                <span class="name">GirlTahu</span>
+                <span class="name">Glaciator</span>
+                <span class="name">GoldMatoran</span>
+                <span class="name">Great Skrall</span>
+                <span class="name">Gresh.Tesera</span>
+                <span class="name">Gresh97</span>
+                <span class="name">Guardian</span>
+                <span class="name">Hafu Toa</span>
+                <span class="name">Hahley</span>
+                <span class="name">Hahli</span>
+                <span class="name">Hai</span>
+                <span class="name">HandyMan</span>
+                <span class="name">Hewkii</span>
+                <span class="name">HolyVirus</span>
+                <span class="name">Icarax</span>
+                <span class="name">IceHafu</span>
+                <span class="name">Icecap</span>
+                <span class="name">Ignika</span>
+                <span class="name">Inikaman</span>
+                <span class="name">Iniko</span>
+                <span class="name">Irnakk</span>
+                <span class="name">Jake</span>
+                <span class="name">Jalleri.</span>
+                <span class="name">Jalleri</span>
+                <span class="name">Jantzu</span>
+                <span class="name">Japu</span>
+                <span class="name">Jondaka</span>
+                <span class="name">Jotor</span>
+                <span class="name">Jouman</span>
+                <span class="name">Jovan</span>
+                <span class="name">Juhotor</span>
+                <span class="name">Kata9</span>
+                <span class="name">Kekkonen</span>
+                <span class="name">Kerosiinipelle</span>
+                <span class="name">Killeriraptori</span>
+                <span class="name">Kissabio</span>
+                <span class="name">Konguboss</span>
+                <span class="name">Konguka</span>
+                <span class="name">KooGeeBee</span>
+                <span class="name">Kranoro</span>
+                <span class="name">Krizu</span>
+                <span class="name">KurkoKunkku</span>
+                <span class="name">Kyösti</span>
+                <span class="name">LEGO Leia</span>
+                <span class="name">Le-Bio</span>
+                <span class="name">Lehvaak14</span>
+                <span class="name">Lewa-Metru</span>
+                <span class="name">Linkkikaapeli</span>
+                <span class="name">LordKopaka</span>
+                <span class="name">M-42</span>
+                <span class="name">MARSUMAN</span>
+                <span class="name">MahriKing</span>
+                <span class="name">Makuta Nui</span>
+                <span class="name">Makuta</span>
+                <span class="name">MasterBrutaka</span>
+                <span class="name">Mata Nui</span>
+                <span class="name">Matatu the Luisteleva kani</span>
+                <span class="name">Mataufani</span>
+                <span class="name">Matorik</span>
+                <span class="name">Matoro TBS</span>
+                <span class="name">Matoro</span>
+                <span class="name">Maxilos</span>
+                <span class="name">Mcode</span>
+                <span class="name">Metronui</span>
+                <span class="name">Mindwinder</span>
+                <span class="name">Mistika</span>
+                <span class="name">Monarth</span>
+                <span class="name">Mr.Killjoy</span>
+                <span class="name">NL42</span>
+                <span class="name">Nenya</span>
+                <span class="name">Nexus</span>
+                <span class="name">Nightmare</span>
+                <span class="name">Nitor</span>
+                <span class="name">Nittikki</span>
+                <span class="name">Nocturnrock</span>
+                <span class="name">Norsupäästäinen</span>
+                <span class="name">NukeNaamari</span>
+                <span class="name">Nuparu</span>
+                <span class="name">Nöpö</span>
+                <span class="name">OEUGUAMN</span>
+                <span class="name">Oliolli</span>
+                <span class="name">Osvald123</span>
+                <span class="name">PAACEPTION</span>
+                <span class="name">Paavo12</span>
+                <span class="name">Piikki</span>
+                <span class="name">Pikachu</span>
+                <span class="name">Prime</span>
+                <span class="name">Puutarhalapio</span>
+                <span class="name">Radiak</span>
+                <span class="name">Radukow</span>
+                <span class="name">RainBowToa</span>
+                <span class="name">Rikon sääntöjä.</span>
+                <span class="name">Saiko</span>
+                <span class="name">Same</span>
+                <span class="name">Samimobiili</span>
+                <span class="name">Sanoga</span>
+                <span class="name">Santi</span>
+                <span class="name">Seserakh</span>
+                <span class="name">ShadowLewa</span>
+                <span class="name">Shorkio</span>
+                <span class="name">Sir Ehlek</span>
+                <span class="name">Sith Gunner</span>
+                <span class="name">Sonicle Turaga</span>
+                <span class="name">Sota-Omppu</span>
+                <span class="name">Spikit Rider</span>
+                <span class="name">Srp</span>
+                <span class="name">Summerganon</span>
+                <span class="name">TNS</span>
+                <span class="name">Taatti Dalu</span>
+                <span class="name">Taguna</span>
+                <span class="name">Tahu Mata</span>
+                <span class="name">Tahuignika</span>
+                <span class="name">Tahurakki</span>
+                <span class="name">Taimer</span>
+                <span class="name">Takalek</span>
+                <span class="name">Talu</span>
+                <span class="name">Tawa</span>
+                <span class="name">The Buginoid</span>
+                <span class="name">The Snowman</span>
+                <span class="name">TheQ</span>
+                <span class="name">The_One_Winged_Angel</span>
+                <span class="name">Tiikeli</span>
+                <span class="name">Toa Daiker</span>
+                <span class="name">Toa Defilak</span>
+                <span class="name">Toa Dekar Toa</span>
+                <span class="name">Toa Dume</span>
+                <span class="name">Toa Gerin</span>
+                <span class="name">Toa Hordika Whenua</span>
+                <span class="name">Toa Ignika</span>
+                <span class="name">Toa Inika Matoro</span>
+                <span class="name">Toa Kapura</span>
+                <span class="name">Toa PohatuNuva</span>
+                <span class="name">Toa Rabbit</span>
+                <span class="name">Toa Takama</span>
+                <span class="name">Toa Titani</span>
+                <span class="name">Toa Vakai</span>
+                <span class="name">ToaDiddyking</span>
+                <span class="name">ToaIgnika</span>
+                <span class="name">ToaMiru</span>
+                <span class="name">ToaNuparu</span>
+                <span class="name">Toatapio Nuva</span>
+                <span class="name">Torahkshi</span>
+                <span class="name">Toworu</span>
+                <span class="name">Tronie AKA Lioku</span>
+                <span class="name">Tronie</span>
+                <span class="name">Troopperi</span>
+                <span class="name">Ultra-vezon</span>
+                <span class="name">Umbra</span>
+                <span class="name">Uuhoo</span>
+                <span class="name">VAK</span>
+                <span class="name">Vader</span>
+                <span class="name">VezonThunder</span>
+                <span class="name">Visokki</span>
+                <span class="name">VonPatti</span>
+                <span class="name">Vorakh</span>
+                <span class="name">XeroXL</span>
+                <span class="name">Yautja</span>
+                <span class="name">YberMasa</span>
+                <span class="name">Zeruel</span>
+                <span class="name">aatumies1</span>
+                <span class="name">aera98</span>
+                <span class="name">aksel773</span>
+                <span class="name">anQuaa</span>
+                <span class="name">annus</span>
+                <span class="name">bio-fan</span>
+                <span class="name">biobotti</span>
+                <span class="name">biohilator</span>
+                <span class="name">biomonster</span>
+                <span class="name">biosoturi</span>
+                <span class="name">biowarrior</span>
+                <span class="name">carapar98</span>
+                <span class="name">colmio</span>
+                <span class="name">ehlek</span>
+                <span class="name">fisu-fani</span>
+                <span class="name">gadunka fuusio</span>
+                <span class="name">gahu</span>
+                <span class="name">giratina 97</span>
+                <span class="name">glatorian Kaita</span>
+                <span class="name">hemiljou</span>
+                <span class="name">herraa9000</span>
+                <span class="name">hydraaxon</span>
+                <span class="name">ice kopaka</span>
+                <span class="name">jani</span>
+                <span class="name">joona060</span>
+                <span class="name">ju0pp0hu11u</span>
+                <span class="name">jupsu</span>
+                <span class="name">juukeli</span>
+                <span class="name">keetongu</span>
+                <span class="name">king kardas</span>
+                <span class="name">king lhikan Turaga</span>
+                <span class="name">kirop</span>
+                <span class="name">konseli</span>
+                <span class="name">kopaka</span>
+                <span class="name">krekka</span>
+                <span class="name">kuri132</span>
+                <span class="name">laosi</span>
+                <span class="name">lewa...</span>
+                <span class="name">lewa</span>
+                <span class="name">mahrox</span>
+                <span class="name">makuta56</span>
+                <span class="name">mikke2001</span>
+                <span class="name">minibot</span>
+                <span class="name">newground hewkii</span>
+                <span class="name">nikoliini</span>
+                <span class="name">nookki</span>
+                <span class="name">onua</span>
+                <span class="name">pallero</span>
+                <span class="name">pohatu007</span>
+                <span class="name">rane-rotta</span>
+                <span class="name">rebeltopi</span>
+                <span class="name">santor</span>
+                <span class="name">sector 7</span>
+                <span class="name">super hahli</span>
+                <span class="name">supo159</span>
+                <span class="name">takia:toa of plasma</span>
+                <span class="name">tiira</span>
+                <span class="name">toa brutaka</span>
+                <span class="name">toa chakra</span>
+                <span class="name">toa gunger</span>
+                <span class="name">toa ounas</span>
+                <span class="name">toalhikan</span>
+                <span class="name">toanoob</span>
+                <span class="name">tuappi</span>
+                <span class="name">turag38</span>
+                <span class="name">tyzny</span>
+                <span class="name">valo</span>
+                <span class="name">ve-iruini</span>
+                <span class="name">voya</span>
+                <span class="name">voyager</span>
+                <span class="name">yuhwryu</span>
+                <span class="name">zanuha</span>
+                <span class="name">Äksä</span>
+                <span class="name">シニガミ</span>
+            </div>
+            
+            <div id="padding"></div>
+        </div>
+        
+        <div id="input">
+                <div id="count">???</div>
+                <input type="text" onkeydown="inputPressed(this)"></input>
+            </div>
+    </body>
+</html>
